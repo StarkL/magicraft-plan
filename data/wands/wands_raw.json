@@ -1,0 +1,956 @@
+[
+  {
+    "id": "wand_1",
+    "chapter": "遗迹之森",
+    "name": "槐木老枝",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b2/jq6tfnt4aueqlot4rwdj7tfxgq9fa5x.png/100px-001%E6%A7%90%E6%9C%A8%E8%80%81%E6%9E%9D.PNG",
+    "rawAttrs": "魔法值：90\n施法间隔：0.25\n回魔：10\n冷却：0.5",
+    "rawEffects": "自带法术：[齐射]",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_2",
+    "chapter": "遗迹之森",
+    "name": "玩具短剑",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/38/na53gt2l20ha0g1dt0m5818ufjetpg6.png/101px-002%E7%8E%A9%E5%85%B7%E7%9F%AD%E5%89%91.PNG",
+    "rawAttrs": "魔法值： 70\n施法间隔：0.15\n回魔：11\n冷却：0.4",
+    "rawEffects": "散射：+15°\n暴击率：-20%\n最终伤害：×130%\n自带法术：[反弹]",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_3",
+    "chapter": "遗迹之森",
+    "name": "微观世界",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0b/d9o4k9nvlfk8wnwvthiuom0e37bmivt.png/102px-003%E5%BE%AE%E8%A7%82%E4%B8%96%E7%95%8C.PNG",
+    "rawAttrs": "魔法值：60\n施法间隔：0.13\n回魔：9\n冷却：0.33",
+    "rawEffects": "所有法杖魔耗×80%",
+    "rawSlots": "法术槽：4"
+  },
+  {
+    "id": "wand_4",
+    "chapter": "遗迹之森",
+    "name": "坚毅意志",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/92/pep57yl5nye9quepjphgubloa8s74f7.png/103px-004%E5%9D%9A%E6%AF%85%E6%84%8F%E5%BF%97.PNG",
+    "rawAttrs": "魔法值：80\n施法间隔：0.1\n回魔：12\n冷却：0.65",
+    "rawEffects": "散射：+60°\n最终伤害：×130%\n自带法术：[精准施法]",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_5",
+    "chapter": "遗迹之森",
+    "name": "轻型短杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0d/karecyeodj3yw45ovfwgeu6sg59aod2.png/104px-005%E8%BD%BB%E5%9E%8B%E7%9F%AD%E4%BB%97.PNG",
+    "rawAttrs": "魔法值：40\n施法间隔：0.08\n回魔：11\n冷却：0.3",
+    "rawEffects": "散射：+10°\n后置槽：此法杖每次施法充能3点\n自带法术：[激光][激光]",
+    "rawSlots": "前置槽：4\n后置槽：2"
+  },
+  {
+    "id": "wand_6",
+    "chapter": "遗迹之森",
+    "name": "齐鸣之音",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/bf/efy68w5kjj5uma7w41ygbzpj42xljut.png/105px-006%E9%BD%90%E9%B8%A3%E4%B9%8B%E9%9F%B3.PNG",
+    "rawAttrs": "魔法值：70\n施法间隔：0.5\n回魔：11\n冷却：0.5",
+    "rawEffects": "散射：+80°\n同时施放法术数量：5\n自带法术：[自动导航]",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_7",
+    "chapter": "遗迹之森",
+    "name": "汇流之源",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/79/qzqiej8frglwsyyb77mtqfbarlgx1rc.png/106px-007%E6%B1%87%E6%B5%81%E4%B9%8B%E6%BA%90.PNG",
+    "rawAttrs": "魔法值：90\n施法间隔：0.11\n回魔：10\n冷却：0.66",
+    "rawEffects": "所有法杖回魔+3/秒",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_8",
+    "chapter": "遗迹之森",
+    "name": "平凡木棍",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a4/ptjv02hlq0zrcz3ecfpzxlf4r75tti4.png/107px-008%E5%B9%B3%E5%87%A1%E6%9C%A8%E6%A3%8D.PNG",
+    "rawAttrs": "魔法值：100\n施法间隔：0.3\n回魔：12\n冷却：0.3",
+    "rawEffects": "散射：-15°\n自带法术：[魔法弹][魔法弹]",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_9",
+    "chapter": "遗迹之森",
+    "name": "共鸣音叉",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/6a/3i4ojiwwf7o0au7wxp70etp47h1dd66.png/108px-009%E5%85%B1%E9%B8%A3%E9%9F%B3%E5%8F%89.PNG",
+    "rawAttrs": "魔法值：50\n施法间隔：0.18\n回魔：11\n冷却：0.55",
+    "rawEffects": "散射：+10°\n自带法术：[共鸣符文+]",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_10",
+    "chapter": "遗迹之森",
+    "name": "新手召唤手册",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/56/78osoj0uca4dnuakj7qr3weq90i8bif.png/109px-010%E6%96%B0%E6%89%8B%E5%8F%AC%E5%94%A4%E6%89%8B%E5%86%8C.PNG",
+    "rawAttrs": "魔法值：70\n施法间隔：0.5\n回魔：12\n冷却：0.5",
+    "rawEffects": "召唤类魔法魔耗×70%\n自带法术：[啵啵]",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_11",
+    "chapter": "遗迹之森",
+    "name": "指引寓言",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/4b/jjuq98j2nt2pd6kp3lwankkkwad35tp.png/110px-011%E6%8C%87%E5%BC%95%E5%AF%93%E8%A8%80.PNG",
+    "rawAttrs": "魔法值：70\n施法间隔：0.2\n回魔：10\n冷却：0.5",
+    "rawEffects": "自带法术：[引线]",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_12",
+    "chapter": "遗迹之森",
+    "name": "陈旧手杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f0/c0vr6rggoq3o3vd4d8z8ip4b8um4pho.png/111px-012%E9%99%88%E6%97%A7%E6%89%8B%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：130\n施法间隔：0.16\n回魔：10\n冷却：0.5",
+    "rawEffects": "散射：+20°\n最终伤害：×70%",
+    "rawSlots": "法术槽：8"
+  },
+  {
+    "id": "wand_13",
+    "chapter": "遗迹之森",
+    "name": "777",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f2/lxidf4fi9hmv3yt5xxawacmgf9lefxa.png/112px-013_777.PNG",
+    "rawAttrs": "魔法值：77\n施法间隔：0.17\n回魔：7\n冷却：0.17",
+    "rawEffects": "散射:+7°\n后置槽：此法杖每次命中敌人充能1.7点",
+    "rawSlots": "前置槽：4\n后置槽：3"
+  },
+  {
+    "id": "wand_14",
+    "chapter": "遗迹之森",
+    "name": "凝滞时空",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/1a/22v0oz0p3baoplqljkmzt0gfn4rj49h.png/113px-014%E5%87%9D%E6%BB%9E%E6%97%B6%E7%A9%BA.PNG",
+    "rawAttrs": "魔法值：75\n施法间隔：0.15\n回魔：8\n冷却：0.55",
+    "rawEffects": "散射：+8°\n魔耗：×90%\n后置槽：每秒自动充能8点",
+    "rawSlots": "前置槽：3\n后置槽：3"
+  },
+  {
+    "id": "wand_15",
+    "chapter": "遗迹之森",
+    "name": "崭新法杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/ab/kv4zr6pycs8w3oyks1wutjalk3f75px.png/114px-015%E5%B4%AD%E6%96%B0%E6%B3%95%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：90\n施法间隔：0.16\n回魔：11\n冷却：0.45",
+    "rawEffects": "无",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_16",
+    "chapter": "遗迹之森",
+    "name": "长者之手",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a3/am9had6q7lmtjasalrt2baq7kecbugx.png/115px-016%E9%95%BF%E8%80%85%E4%B9%8B%E6%89%8B.PNG",
+    "rawAttrs": "魔法值：120\n施法间隔：0.3\n回魔：12\n冷却：0.6",
+    "rawEffects": "散射：-10°\n自带法术：[悬停]",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_17",
+    "chapter": "遗迹之森",
+    "name": "癫狂魔咒",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a7/jy8v8mwazdoykb59yp6a8zvcx8efeb6.png/116px-017%E7%99%AB%E7%8B%82%E9%AD%94%E5%92%92.PNG",
+    "rawAttrs": "魔法值: 50\n施法间隔：0.15\n回魔：13\n冷却：0.15",
+    "rawEffects": "散射: +9°\n后置槽：此法杖每次施法充能4点",
+    "rawSlots": "前置槽：3\n后置槽：1"
+  },
+  {
+    "id": "wand_18",
+    "chapter": "遗迹之森",
+    "name": "粘滞之牙",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3d/8gmhbcuht13bydkunitgqjudoe9waom.png/117px-018%E7%B2%98%E6%BB%9E%E4%B9%8B%E7%89%99.PNG",
+    "rawAttrs": "魔法值: 50\n施法间隔：0.1\n回魔：12\n冷却：0.6",
+    "rawEffects": "散射：+3°\n最终伤害：×120%\n自带法术：[粘液晶石]",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_19",
+    "chapter": "遗迹之森",
+    "name": "毒素之牙",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/78/q3uxpjqide5joqb7bzymcnfg1vlzufy.png/118px-019%E6%AF%92%E7%B4%A0%E4%B9%8B%E7%89%99.PNG",
+    "rawAttrs": "魔法值：50\n施法间隔：0.1\n回魔：12\n冷却：0.4",
+    "rawEffects": "魔耗：×80%\n最终伤害：×80%\n自带法术：[毒液晶石]",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_20",
+    "chapter": "遗迹之森",
+    "name": "公理圆弧",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/41/n7oonp22odp1pqlljwowo3hi0inhly3.png/119px-020%E5%85%AC%E7%90%86%E5%9C%86%E5%BC%A7.PNG",
+    "rawAttrs": "魔法值：60\n施法间隔：0.17\n回魔：13\n冷却：0.27",
+    "rawEffects": "公转轨道半径随机\n自带法术：[公转]",
+    "rawSlots": "法术槽：7"
+  },
+  {
+    "id": "wand_21",
+    "chapter": "遗迹之森",
+    "name": "三色权杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/83/nw02smthtnckcpf610zb9txod310fj2.png/120px-021%E4%B8%89%E8%89%B2%E6%9D%83%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：70\n施法间隔：0.15\n回魔：11\n冷却：0.5",
+    "rawEffects": "散射：+3°\n施法会随机附加冰冻、中毒、减速效果",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_22",
+    "chapter": "遗迹之森",
+    "name": "桀骜反骨",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/33/ewvqyynavtmip9bgw26an9w3cw6vv0a.png/121px-022%E6%A1%80%E9%AA%9C%E5%8F%8D%E9%AA%A8.PNG",
+    "rawAttrs": "魔法值：80\n施法间隔：0.14\n回魔：18\n冷却：0.14",
+    "rawEffects": "散射：-360°\n永远反向施法",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_23",
+    "chapter": "遗迹之森",
+    "name": "萨满短匕",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/16/ik5lcoupllx0bg9wv96sjre5nnptgv3.png/122px-023%E8%90%A8%E6%BB%A1%E7%9F%AD%E5%8C%95.PNG",
+    "rawAttrs": "魔法值：120\n施法间隔：0.12\n回魔：8\n冷却：0.24",
+    "rawEffects": "魔耗：x70%\n最终伤害：×70%\n自带法术：[冥蛇]",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_24",
+    "chapter": "遗迹之森",
+    "name": "破碎权杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/8d/h8kvpypke3o79tk9m4khcc5ozkas7do.png/123px-024%E7%A0%B4%E7%A2%8E%E6%9D%83%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：80\n施法间隔：0.05\n回魔：12\n冷却：0.55",
+    "rawEffects": "散射：+4°\n最终伤害：×90%",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_25",
+    "chapter": "遗迹之森",
+    "name": "生锈手炮",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/80/0qh4xseb63hwo24j0xebfat3u5b2f36.png/124px-025%E7%94%9F%E9%94%88%E6%89%8B%E7%82%AE.PNG",
+    "rawAttrs": "魔法值：80\n施法间隔：0.2\n回魔：12\n冷却：0.8",
+    "rawEffects": "散射：+10\n最终伤害：×120%\n后置槽：此法杖每次造成高于45点伤害充能20点",
+    "rawSlots": "前置槽：4\n后置槽：2"
+  },
+  {
+    "id": "wand_26",
+    "chapter": "遗迹之森",
+    "name": "储能之袋",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f1/agm74ycilcjhfeobpmd4m2o8w9onc13.png/125px-026%E5%82%A8%E8%83%BD%E4%B9%8B%E8%A2%8B.PNG",
+    "rawAttrs": "魔法值：120\n施法间隔：0.1\n回魔：8\n冷却：0.4",
+    "rawEffects": "散射：+30°\n后置槽：此法杖每次暴击充能4点",
+    "rawSlots": "前置槽：3\n后置槽：3"
+  },
+  {
+    "id": "wand_27",
+    "chapter": "遗迹之森",
+    "name": "三叉戟",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/1a/fej4redli98nmcxrg4l1roubp76n3yb.png/126px-027%E4%B8%89%E5%8F%89%E6%88%9F.PNG",
+    "rawAttrs": "魔法值：130\n施法间隔：0.3\n回魔：13\n冷却：0.3",
+    "rawEffects": "散射：+13°\n同时施放法术数量：3\n自带法术：[多重施法]",
+    "rawSlots": "法术槽：4"
+  },
+  {
+    "id": "wand_28",
+    "chapter": "遗迹之森",
+    "name": "噬魂魔珠",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/59/olb0132kquizsmarl0mwsayxdstkwdp.png/127px-028%E5%99%AC%E9%AD%82%E9%AD%94%E7%8F%A0.PNG",
+    "rawAttrs": "魔法值：50\n施法间隔：0.5\n回魔：11\n冷却：0.5",
+    "rawEffects": "散射：+8°\n同时施放法术数量：3\n后置槽：此法杖每击杀1个敌人充能30点",
+    "rawSlots": "前置槽：3\n后置槽：3"
+  },
+  {
+    "id": "wand_29",
+    "chapter": "遗迹之森",
+    "name": "先人遗物",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a1/244h4la72pfdl6ze1jufgobl1y5eg19.png/128px-029%E5%85%88%E4%BA%BA%E9%81%97%E7%89%A9.PNG",
+    "rawAttrs": "魔法值：90\n施法间隔：0.2\n回魔：11\n冷却：0.5",
+    "rawEffects": "后置槽：每站立1秒充能15点\n自带法术：[悬浮鬼火]",
+    "rawSlots": "前置槽：5\n后置槽：1"
+  },
+  {
+    "id": "wand_30",
+    "chapter": "遗迹之森",
+    "name": "骑士之誓",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/aa/5zvf40bb21153ntwp346bxa1subp2gq.png/129px-030%E9%AA%91%E5%A3%AB%E4%B9%8B%E8%AA%93.PNG",
+    "rawAttrs": "魔法值：100\n施法间隔：0.18\n回魔：11\n冷却：0.5",
+    "rawEffects": "散射：+10°\n后置槽：每次受伤充能33点\n自带法术：[寻踪][闪电疾行]",
+    "rawSlots": "前置槽：5\n后置槽：2"
+  },
+  {
+    "id": "wand_31",
+    "chapter": "遗迹之森",
+    "name": "塑晶之杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/36/0lzkjr3s7pl1x3tdlfw4z0yyldnd5gc.png/130px-031%E5%A1%91%E6%99%B6%E4%B9%8B%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：50\n施法间隔：0.1\n回魔：12\n冷却：0.8",
+    "rawEffects": "此法杖释放的法术杀敌后有20%掉落一颗紫水晶\n自带法术：[瓦解射线]",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_32",
+    "chapter": "遗迹之森",
+    "name": "保护伞",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0c/6du5x59oqhg73k6l6p2fmr3kgqtoglr.png/131px-032%E4%BF%9D%E6%8A%A4%E4%BC%9E.PNG",
+    "rawAttrs": "魔法值：80\n施法间隔：0.2\n回魔：11\n冷却：0.8",
+    "rawEffects": "法杖长2米，可以消除碰到的大部分敌方法术",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_33",
+    "chapter": "遗迹之森",
+    "name": "点金权杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/00/8epg1ogwql0r50qdzv9rxfc3nlxelzo.png/132px-033%E7%82%B9%E9%87%91%E6%9D%83%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：60\n施法间隔：0.3\n回魔：10\n冷却：1.2",
+    "rawEffects": "散射：+30°\n暴击率：+20%\n此法杖释放的法术杀敌后有15%掉落一枚金币\n自带法术：[诡雷]",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_34",
+    "chapter": "遗迹之森",
+    "name": "驻根秘籍",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/74/s2w8c3rm3fv7t8zgijxmt0lt3yeb8xc.png/133px-034%E9%A9%BB%E6%A0%B9%E7%A7%98%E7%B1%8D.PNG",
+    "rawAttrs": "魔法值：50\n施法间隔：0.1\n回魔：12\n冷却：0.6",
+    "rawEffects": "散射：+18°\n站立时该法杖回魔×140%",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_35",
+    "chapter": "永恒堡垒",
+    "name": "绚丽花束",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2e/khwh7ymyfchqx9noapg0c11lzts30ey.png/134px-035%E7%BB%9A%E4%B8%BD%E8%8A%B1%E6%9D%9F.PNG",
+    "rawAttrs": "魔法值：80施法间隔：0.12回魔：14冷却：0.35",
+    "rawEffects": "散射：+60°施法会随机附加冰冻，中毒，减速，雷霆，灼烧效果自带法术：[蝴蝶]",
+    "rawSlots": "法术槽：7"
+  },
+  {
+    "id": "wand_36",
+    "chapter": "永恒堡垒",
+    "name": "爆音海螺",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/7a/9j8ro5jo32mx38s22d6bvu5k5a5n4xw.png/135px-036%E7%88%86%E9%9F%B3%E6%B5%B7%E8%9E%BA.PNG",
+    "rawAttrs": "魔法值：100施法间隔：0.2回魔：10冷却：0.6",
+    "rawEffects": "手持此法杖时角色移速+20%后置槽：每移动一米充能3点自带法术：[奥爆术]",
+    "rawSlots": "前置槽：2后置槽：5"
+  },
+  {
+    "id": "wand_37",
+    "chapter": "永恒堡垒",
+    "name": "献祭匕首",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/29/oviwtl2r47io04ewy6315xoarnjjjl7.png/136px-037%E7%8C%AE%E7%A5%AD%E5%8C%95%E9%A6%96.PNG",
+    "rawAttrs": "魔法值：130施法间隔：0.12回魔：13冷却：0.65",
+    "rawEffects": "此法杖对自身造成的无差别伤害降低至1%自带法术：[诡雷]",
+    "rawSlots": "法术槽：7"
+  },
+  {
+    "id": "wand_38",
+    "chapter": "永恒堡垒",
+    "name": "聚能手杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/8d/mgej3va3gm9xqnp8vx1wlyay29o0bk0.png/137px-038%E8%81%9A%E8%83%BD%E6%89%8B%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：70施法间隔：0.1回魔：13冷却：0.3",
+    "rawEffects": "散射：+5°施法魔耗低于10时伤害提高50%",
+    "rawSlots": "法术槽：8"
+  },
+  {
+    "id": "wand_39",
+    "chapter": "永恒堡垒",
+    "name": "伟业见证者",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/10/qjksairaqz91riei6cdkxb28t10b0ih.png/138px-039%E4%BC%9F%E4%B8%9A%E8%A7%81%E8%AF%81%E8%80%85.PNG",
+    "rawAttrs": "魔法值：100施法间隔：0.2回魔：15冷却：0.55",
+    "rawEffects": "所有法杖法术影响半径+50%自带法术：[范围增强]",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_40",
+    "chapter": "永恒堡垒",
+    "name": "疾射佩杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/83/68n8wh9rtbokkq7llo7u17hqg7ijjld.png/139px-040%E7%96%BE%E5%B0%84%E4%BD%A9%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：120施法间隔：0.12回魔：14冷却：0.12",
+    "rawEffects": "散射：+12°手持此法杖时回魔×20%未手持此法杖时回魔×150%",
+    "rawSlots": "法术槽：7"
+  },
+  {
+    "id": "wand_41",
+    "chapter": "永恒堡垒",
+    "name": "军团旗帜",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f7/rr1lji7rgslskwt0h6pd319kt310vqy.png/140px-041%E5%86%9B%E5%9B%A2%E6%97%97%E5%B8%9C.PNG",
+    "rawAttrs": "魔法值：130施法间隔：0.12回魔：12冷却：1",
+    "rawEffects": "暴击率：+15%后置槽：此法杖每次暴击充能6点",
+    "rawSlots": "前置槽：4后置槽：3"
+  },
+  {
+    "id": "wand_42",
+    "chapter": "永恒堡垒",
+    "name": "扩容圣器",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2a/7mxcor22nf0ugyah7a3n65hf2hj3g8f.png/141px-042%E6%89%A9%E5%AE%B9%E5%9C%A3%E5%99%A8.PNG",
+    "rawAttrs": "魔法值：130施法间隔：0.2回魔：13冷却：0.4",
+    "rawEffects": "散射：+6°同时施放法术数量：2所有法杖魔力上限×130%",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_43",
+    "chapter": "永恒堡垒",
+    "name": "双管风笛",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/18/8grlb1yxrgzoy7suwlc2zfsdx36wonj.png/142px-043%E5%8F%8C%E7%AE%A1%E9%A3%8E%E7%AC%9B.PNG",
+    "rawAttrs": "魔法值：100施法间隔：0.1回魔：14冷却：1",
+    "rawEffects": "散射：+20°后置槽：此法杖每次命中敌人充能2.2点自带法术：[瓦解射线]",
+    "rawSlots": "前置槽：3后置槽：5"
+  },
+  {
+    "id": "wand_44",
+    "chapter": "永恒堡垒",
+    "name": "三弦鲁特琴",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/fa/1eg43e8gth2qjrv9e8j0gxvdlcoqncp.png/143px-044%E4%B8%89%E5%BC%A6%E9%B2%81%E7%89%B9%E7%90%B4.PNG",
+    "rawAttrs": "魔法值：105施法间隔：0.15回魔：14冷却：0.55",
+    "rawEffects": "同时施放法术数量：3",
+    "rawSlots": "法术槽：7"
+  },
+  {
+    "id": "wand_45",
+    "chapter": "永恒堡垒",
+    "name": "巫师誓言",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/95/1ci4rznin7f93e8qn2li3ukv0h8ta0g.png/144px-045%E5%B7%AB%E5%B8%88%E8%AA%93%E8%A8%80.PNG",
+    "rawAttrs": "魔法值：120施法间隔：0.12回魔：11冷却：0.55",
+    "rawEffects": "散射：+15°所有法杖回魔+5/秒",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_46",
+    "chapter": "永恒堡垒",
+    "name": "躁动之心",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a4/5nambxq5zsxaqs8121abqrobo3ibh30.png/145px-046%E8%BA%81%E5%8A%A8%E4%B9%8B%E5%BF%83.PNG",
+    "rawAttrs": "魔法值：100施法间隔：0.05回魔：14冷却：0.6",
+    "rawEffects": "此法杖发射的法术后坐力反向",
+    "rawSlots": "法术槽：8"
+  },
+  {
+    "id": "wand_47",
+    "chapter": "永恒堡垒",
+    "name": "魔女扫帚",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b9/09kfhunmtmxam83rjo33fqg2tflrqfe.png/146px-047%E9%AD%94%E5%A5%B3%E6%89%AB%E5%B8%9A.PNG",
+    "rawAttrs": "魔法值：140施法间隔：0.18回魔：15冷却：0.4",
+    "rawEffects": "散射：+11°手持此法杖时变为飞行状态",
+    "rawSlots": "法术槽：8"
+  },
+  {
+    "id": "wand_48",
+    "chapter": "永恒堡垒",
+    "name": "无尽古籍",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f2/eagdlkbbgry9velo0gl631qxb1hley1.png/147px-048%E6%97%A0%E5%B0%BD%E5%8F%A4%E7%B1%8D.PNG",
+    "rawAttrs": "魔法值：250施法间隔：0回魔：15冷却：0",
+    "rawEffects": "散射：+15°暴击率：+10%后置槽：每秒自动充能13点自带法术：[守护杖灵]",
+    "rawSlots": "前置槽：1后置槽：8"
+  },
+  {
+    "id": "wand_49",
+    "chapter": "永恒堡垒",
+    "name": "沉重冲击",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/ad/r1dr2ib9sj7uesx0leqqr4estb6youi.png/148px-049%E6%B2%89%E9%87%8D%E5%86%B2%E5%87%BB.PNG",
+    "rawAttrs": "魔法值：120施法间隔：0.15回魔：12冷却：0.28",
+    "rawEffects": "散射：+15°自带法术：[伤害强化]",
+    "rawSlots": "法术槽：7"
+  },
+  {
+    "id": "wand_50",
+    "chapter": "永恒堡垒",
+    "name": "节制符咒",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b7/30nvzrxg3j7dlu2dxii3xcaupq8lus4.png/149px-050%E8%8A%82%E5%88%B6%E7%AC%A6%E5%92%92.PNG",
+    "rawAttrs": "魔法值：90施法间隔：0.1回魔：12冷却：0.4",
+    "rawEffects": "散射：+10°魔耗：x90%自带法术：[节能模式]",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_51",
+    "chapter": "永恒堡垒",
+    "name": "双头龙首",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2c/em8npy7ohis4umr81mfenfsaqjljcv4.png/150px-051%E5%8F%8C%E5%A4%B4%E9%BE%99%E9%A6%96.PNG",
+    "rawAttrs": "魔法值：80施法间隔：0.1回魔：13冷却：0.4",
+    "rawEffects": "散射：-10°自带法术：[多重施法]",
+    "rawSlots": "法术槽：7"
+  },
+  {
+    "id": "wand_52",
+    "chapter": "永恒堡垒",
+    "name": "迅捷咒刃",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/32/8lfyn00gcmvqn50ge6qz6z630kdx8qe.png/151px-052%E8%BF%85%E6%8D%B7%E5%92%92%E5%88%83.PNG",
+    "rawAttrs": "魔法值：110施法间隔：0.12回魔：14冷却：0.5",
+    "rawEffects": "散射：+90°手持此法杖时角色移速+40%自带法术：[强制冷却]",
+    "rawSlots": "法术槽：8"
+  },
+  {
+    "id": "wand_53",
+    "chapter": "永恒堡垒",
+    "name": "宁静之书",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/62/an0pcla8bbl6b6q81gai1othfntqzda.png/152px-053%E5%AE%81%E9%9D%99%E4%B9%8B%E4%B9%A6.PNG",
+    "rawAttrs": "魔法值：100施法间隔：0.1回魔：10冷却：0.5",
+    "rawEffects": "站立时此法杖发射的法术无后座力后置槽：每站立1秒充能20点",
+    "rawSlots": "前置槽：3后置槽：5"
+  },
+  {
+    "id": "wand_54",
+    "chapter": "永恒堡垒",
+    "name": "便携手杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/da/pqir1e4bygxl6c6g74ksssocmsbyu96.png/153px-054%E4%BE%BF%E6%90%BA%E6%89%8B%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：80施法间隔：0.1回魔：12冷却：0.5",
+    "rawEffects": "后置槽：此法杖每次施法充能3点自带法术：[闪电疾行]",
+    "rawSlots": "前置槽：4后置槽：2"
+  },
+  {
+    "id": "wand_55",
+    "chapter": "永恒堡垒",
+    "name": "激荡魔杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e9/n6gldzuev04clj167l9brmod9ydnuwg.png/154px-055%E6%BF%80%E8%8D%A1%E9%AD%94%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：60施法间隔：0.12回魔：20冷却：0.25",
+    "rawEffects": "散射：+30°魔耗：×150%施法时5%的概率立刻满魔冷却时20%的概率立刻冷却自带法术：[强制冷却]",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_56",
+    "chapter": "永恒堡垒",
+    "name": "移动图书馆",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/70/rw85jzigzpl7sufronhgwv7fj6p5mp6.png/155px-056%E7%A7%BB%E5%8A%A8%E5%9B%BE%E4%B9%A6%E9%A6%86.PNG",
+    "rawAttrs": "魔法值：150施法间隔：1.5回魔：15冷却：1.5",
+    "rawEffects": "散射：+3°魔耗：×90%自带法术：[自行魔导书]",
+    "rawSlots": "法术槽：7"
+  },
+  {
+    "id": "wand_57",
+    "chapter": "永恒堡垒",
+    "name": "集束法杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/92/1u0219vypf9ntevnqodyvfovaa24hal.png/156px-057%E9%9B%86%E6%9D%9F%E6%B3%95%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：100施法间隔：0.1回魔：14冷却：0.36",
+    "rawEffects": "同时施放法术数量：2魔耗：×70%暴击率：-30%",
+    "rawSlots": "法术槽：8"
+  },
+  {
+    "id": "wand_58",
+    "chapter": "永恒堡垒",
+    "name": "术士行囊",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/12/c8u7vuggvaihzp4c8voabzg7k9gbtzp.png/157px-058%E6%9C%AF%E5%A3%AB%E8%A1%8C%E5%9B%8A.PNG",
+    "rawAttrs": "魔法值：0施法间隔：0回魔：0冷却：0",
+    "rawEffects": "自带法术：随机多个普通法术",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_59",
+    "chapter": "永恒堡垒",
+    "name": "汲水法杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/8f/ffs9g60y909ha5r4jumv4vyq9zm0koc.png/158px-059%E6%B1%B2%E6%B0%B4%E6%B3%95%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：110施法间隔：0.05回魔：16冷却：0.05",
+    "rawEffects": "散射：+140°魔耗：×75%自带法术：[寻踪][激光]",
+    "rawSlots": "法术槽：5"
+  },
+  {
+    "id": "wand_60",
+    "chapter": "永恒堡垒",
+    "name": "游星异客",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/5f/ptlqdzvryat8ab4z8uvvx89smleq16c.png/159px-060%E6%B8%B8%E6%98%9F%E5%BC%82%E5%AE%A2.PNG",
+    "rawAttrs": "魔法值：200施法间隔：0.8回魔：13冷却：0.8",
+    "rawEffects": "无",
+    "rawSlots": "法术槽：8"
+  },
+  {
+    "id": "wand_61",
+    "chapter": "永恒堡垒",
+    "name": "节庆礼棒",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/6c/gw3idctxewcji4cxinjayhnqimam9gw.png/160px-061%E8%8A%82%E5%BA%86%E7%A4%BC%E6%A3%92.PNG",
+    "rawAttrs": "魔法值：80施法间隔：0.05回魔：17冷却：0.25",
+    "rawEffects": "散射：+30°后置槽：此法杖每次施法充能3点自带法术：[彩虹+]",
+    "rawSlots": "前置槽：4后置槽：3"
+  },
+  {
+    "id": "wand_62",
+    "chapter": "永恒堡垒",
+    "name": "奶奶的缝衣针",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b5/o3geoncxp373xyslw81i2tklsozty49.png/161px-062%E5%A5%B6%E5%A5%B6%E7%9A%84%E7%BC%9D%E8%A1%A3%E9%92%88.PNG",
+    "rawAttrs": "魔法值：90施法间隔：0.15回魔：16冷却：0.6",
+    "rawEffects": "散射：+12°自带法术：[穿透+]",
+    "rawSlots": "法术槽：7"
+  },
+  {
+    "id": "wand_63",
+    "chapter": "永恒堡垒",
+    "name": "高压之石",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/28/dfw9c3glrhtz1t66j6p0fot6g4vl82a.png/162px-063%E9%AB%98%E5%8E%8B%E4%B9%8B%E7%9F%B3.PNG",
+    "rawAttrs": "魔法值：120施法间隔：0.22回魔：15冷却：0.4",
+    "rawEffects": "魔耗：×110%后置槽：此法杖每次造成高于45点伤害充能22点自带法术：[滚球]",
+    "rawSlots": "前置槽：4后置槽：4"
+  },
+  {
+    "id": "wand_64",
+    "chapter": "永恒堡垒",
+    "name": "魔晶体管",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/ad/7eq8z58hzxl8rbgggflb0jw3dafck96.png/163px-064%E9%AD%94%E6%99%B6%E4%BD%93%E7%AE%A1.PNG",
+    "rawAttrs": "魔法值：99施法间隔：0.12回魔：9冷却：0.3",
+    "rawEffects": "无",
+    "rawSlots": "法术槽：9"
+  },
+  {
+    "id": "wand_65",
+    "chapter": "永恒堡垒",
+    "name": "生命水晶",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/9f/3ispy3490a463ld9itvb4lya7vkvm2r.png/164px-065%E7%94%9F%E5%91%BD%E6%B0%B4%E6%99%B6.PNG",
+    "rawAttrs": "魔法值：140施法间隔：0.2回魔：16冷却：1",
+    "rawEffects": "散射：+15°魔耗：×80%手持该法杖时每秒治疗3米半径内的召唤物5点生命",
+    "rawSlots": "法术槽：8"
+  },
+  {
+    "id": "wand_66",
+    "chapter": "永恒堡垒",
+    "name": "丈量之尺",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f3/q1bm1ej86niimt7rexochhgpn2gwpva.png/165px-066%E4%B8%88%E9%87%8F%E4%B9%8B%E5%B0%BA.PNG",
+    "rawAttrs": "魔法值：120施法间隔：0.5回魔：14冷却：0.2",
+    "rawEffects": "最终伤害：×130%法杖长5米",
+    "rawSlots": "法术槽：8"
+  },
+  {
+    "id": "wand_67",
+    "chapter": "永恒堡垒",
+    "name": "四向法杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/ff/mt95whjmv2wvzf9dl8p4or8bjaidu37.png/166px-067%E5%9B%9B%E5%90%91%E6%B3%95%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：150施法间隔：0.06回魔：18冷却：0.3",
+    "rawEffects": "磨耗：×150%最终伤害：×50%施放的法术变为四倍并向四个方向发射",
+    "rawSlots": "法术槽：8"
+  },
+  {
+    "id": "wand_68",
+    "chapter": "朝圣者走廊",
+    "name": "唤星兽角",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/ed/c56gh6rs4mimm2qq94muyxdm6tenzci.png/167px-068%E5%94%A4%E6%98%9F%E5%85%BD%E8%A7%92.PNG",
+    "rawAttrs": "魔法值：170施法间隔：0.1回魔：16冷却：1",
+    "rawEffects": "暴击率：-30%最终伤害：×140%自带法术：[陨石]",
+    "rawSlots": "法术槽：10"
+  },
+  {
+    "id": "wand_69",
+    "chapter": "朝圣者走廊",
+    "name": "舞蛇喷笛",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/cb/lb9l6dimu2nm3aj2n50kc14p7l2ju47.png/168px-069%E8%88%9E%E8%9B%87%E5%96%B7%E7%AC%9B.PNG",
+    "rawAttrs": "魔法值：120施法间隔：0.12回魔：16冷却：0.6",
+    "rawEffects": "散射：+40°自带法术：[自动导航][冥蛇]",
+    "rawSlots": "法术槽：9"
+  },
+  {
+    "id": "wand_70",
+    "chapter": "朝圣者走廊",
+    "name": "小行星",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b6/h9dkgs19cb1g9zdv9zgzbek6py0wsdp.png/169px-070%E5%B0%8F%E8%A1%8C%E6%98%9F.PNG",
+    "rawAttrs": "魔法值：140施法间隔：0.3回魔：16冷却：0.4",
+    "rawEffects": "散射：+15°魔耗：×90%自带法术：[加速器][公转][黑洞]",
+    "rawSlots": "法术槽：9"
+  },
+  {
+    "id": "wand_71",
+    "chapter": "朝圣者走廊",
+    "name": "蓄能法球",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/06/c5oll1k1ihq6gfddcn916qtria2vko0.png/170px-071%E8%93%84%E8%83%BD%E6%B3%95%E7%90%83.PNG",
+    "rawAttrs": "魔法值：250施法间隔：0回魔：16冷却：0",
+    "rawEffects": "其它法杖魔法值不足时可使用此法杖的魔法值",
+    "rawSlots": "法术槽：2"
+  },
+  {
+    "id": "wand_72",
+    "chapter": "朝圣者走廊",
+    "name": "狂躁的妖精",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/59/l4lxqvsv71tgbd53f15o966bn1abd8c.png/171px-072%E7%8B%82%E8%BA%81%E7%9A%84%E5%A6%96%E7%B2%BE.PNG",
+    "rawAttrs": "魔法值：185施法间隔：0.1回魔：17冷却：0.25",
+    "rawEffects": "散射：+15°手持此法杖时回魔×30%未手持此法杖时回魔×180%",
+    "rawSlots": "法术槽：8"
+  },
+  {
+    "id": "wand_73",
+    "chapter": "朝圣者走廊",
+    "name": "意念之剑",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f2/6xjjje32ers7xwbii0qpningwrp352y.png/172px-073%E6%84%8F%E5%BF%B5%E4%B9%8B%E5%89%91.PNG",
+    "rawAttrs": "魔法值：140施法间隔：0.27回魔：18冷却：0.4",
+    "rawEffects": "自带法术：[寻踪][加速器][落雷阵]",
+    "rawSlots": "法术槽：10"
+  },
+  {
+    "id": "wand_74",
+    "chapter": "朝圣者走廊",
+    "name": "万疫之源",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/95/58ff0u43d7e3bxy91fonkktd8uatclr.png/173px-074%E4%B8%87%E7%96%AB%E4%B9%8B%E6%BA%90.PNG",
+    "rawAttrs": "魔法值：240施法间隔：1.5回魔：4冷却：1.5",
+    "rawEffects": "散射：+60°魔耗：×70%最终伤害：×70%后置槽：每秒自动充能15点自带法术：[公转+][克总之手+]",
+    "rawSlots": "前置槽：3后置槽：8"
+  },
+  {
+    "id": "wand_75",
+    "chapter": "朝圣者走廊",
+    "name": "沉睡之须",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a2/evfs8nqaxbtim7pact2qooo24uyndda.png/174px-075%E6%B2%89%E7%9D%A1%E4%B9%8B%E9%A1%BB.PNG",
+    "rawAttrs": "魔法值：155施法间隔：0.15回魔：16冷却：0.4",
+    "rawEffects": "散射：+12°后置槽：此法杖每击杀1个敌人充能90点自带法术：[克总之手++]",
+    "rawSlots": "前置槽：7后置槽：3"
+  },
+  {
+    "id": "wand_76",
+    "chapter": "朝圣者走廊",
+    "name": "攻城重炮",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/36/oucd3jdrksapnzald8j7kdbue9gtjr4.png/175px-076%E6%94%BB%E5%9F%8E%E9%87%8D%E7%82%AE.PNG",
+    "rawAttrs": "魔法值：220施法间隔：0.2回魔：16冷却：1.2",
+    "rawEffects": "散射：+2°同时施放法术数量：3魔耗：×130%最终伤害：×130%自带法术：[伤害强化][伤害强化]",
+    "rawSlots": "法术槽：9"
+  },
+  {
+    "id": "wand_77",
+    "chapter": "朝圣者走廊",
+    "name": "极寒之触",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0e/bggslw51fxhauueneygdr2hqzy7e5oy.png/176px-077%E6%9E%81%E5%AF%92%E4%B9%8B%E8%A7%A6.PNG",
+    "rawAttrs": "魔法值：160施法间隔：0.15回魔：17冷却：0.45",
+    "rawEffects": "散射：+10°同时施放法术数量：3自带法术：[寒霜晶石]",
+    "rawSlots": "法术槽：9"
+  },
+  {
+    "id": "wand_78",
+    "chapter": "朝圣者走廊",
+    "name": "王国之护",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d8/dg0xqne1q26escr4zs67mlpnp9zef96.png/177px-078%E7%8E%8B%E5%9B%BD%E4%B9%8B%E6%8A%A4.PNG",
+    "rawAttrs": "魔法值：110施法间隔：0.3回魔：19冷却：0.9",
+    "rawEffects": "散射：+35°后置槽：每站立1秒充能35点",
+    "rawSlots": "前置槽：3后置槽：7"
+  },
+  {
+    "id": "wand_79",
+    "chapter": "朝圣者走廊",
+    "name": "黑山羊子宫",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0b/2941jabrcsy4ri613zeayjds9plemvz.png/178px-079%E9%BB%91%E5%B1%B1%E7%BE%8A%E5%AD%90%E5%AE%AB.PNG",
+    "rawAttrs": "魔法值：110施法间隔：0.3回魔：19冷却：0.9",
+    "rawEffects": "散射：+135°魔耗：×80%",
+    "rawSlots": "法术槽：10"
+  },
+  {
+    "id": "wand_80",
+    "chapter": "朝圣者走廊",
+    "name": "大法师圣剑",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a6/aovzq5hoc6zdfq9jyej67hrzyu4fwdw.png/179px-080%E5%A4%A7%E6%B3%95%E5%B8%88%E5%9C%A3%E5%89%91.PNG",
+    "rawAttrs": "魔法值：150施法间隔：0.12回魔：18冷却：0.8",
+    "rawEffects": "散射：+20°暴击率：+40%",
+    "rawSlots": "法术槽：10"
+  },
+  {
+    "id": "wand_81",
+    "chapter": "朝圣者走廊",
+    "name": "化形者",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/7f/t4z8jtwv2oyo78vg7muduqiwhp27dpf.png/180px-081%E5%8C%96%E5%BD%A2%E8%80%85.PNG",
+    "rawAttrs": "魔法值：180施法间隔：0.1回魔：17冷却：1",
+    "rawEffects": "散射：+40°暴击率：+70%最终伤害：×70%自带法术：[拟态魔方]",
+    "rawSlots": "法术槽：9"
+  },
+  {
+    "id": "wand_82",
+    "chapter": "朝圣者走廊",
+    "name": "七色电网",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c9/2ryk0bnyl15gfjaw7q0xlaaqeacz93p.png/181px-082%E4%B8%83%E8%89%B2%E7%94%B5%E7%BD%91.PNG",
+    "rawAttrs": "魔法值：120施法间隔：0.18回魔：16冷却：0.2",
+    "rawEffects": "散射：+25°魔耗：×90%自带法术：[分裂][闪电链][彩虹]",
+    "rawSlots": "法术槽：9"
+  },
+  {
+    "id": "wand_83",
+    "chapter": "朝圣者走廊",
+    "name": "收纳法杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/19/7fzysed012uzg1ii1tlisxv399lxpr5.png/182px-083%E6%94%B6%E7%BA%B3%E6%B3%95%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：0施法间隔：0回魔：0冷却：0.1",
+    "rawEffects": "自带法术：随机多个稀有法术",
+    "rawSlots": "法术槽：6"
+  },
+  {
+    "id": "wand_84",
+    "chapter": "朝圣者走廊",
+    "name": "石中剑",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/aa/pnzrdodd3f8ho86zrxn4c0i4pal8k6k.png/183px-084%E7%9F%B3%E4%B8%AD%E5%89%91.PNG",
+    "rawAttrs": "魔法值：150施法间隔：0.3回魔：14冷却：0.8",
+    "rawEffects": "散射：+30°法杖长2米，可以反弹碰到的大部分敌方法术",
+    "rawSlots": "法术槽：8"
+  },
+  {
+    "id": "wand_85",
+    "chapter": "朝圣者走廊",
+    "name": "注能增幅仪",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/b/b3/1pz3oy918i1p8wec6mqn2jxn4uea1pw.png",
+    "rawAttrs": "魔法值：100施法间隔：0.1回魔：17冷却：0.7",
+    "rawEffects": "暴击率：+10%所有法杖后置槽的充能效率+20%后置槽：此法杖每次暴击充能5点",
+    "rawSlots": "前置槽：6后置槽：4"
+  },
+  {
+    "id": "wand_86",
+    "chapter": "旧日深渊",
+    "name": "德鲁伊之杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a6/6g3to82y42ym7m2p99m15iqejlh7rdb.png/185px-086%E5%BE%B7%E9%B2%81%E4%BC%8A%E4%B9%8B%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：260施法间隔：0.1回魔：21冷却：0.55",
+    "rawEffects": "散射：+30°手持该法杖时每秒治疗3米半径内的召唤物5%的生命自带法术：[寄生虫][啵啵][自行魔导书][克总之手]",
+    "rawSlots": "法术槽：11"
+  },
+  {
+    "id": "wand_87",
+    "chapter": "旧日深渊",
+    "name": "金色闪电",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b5/9anz7lmnt5cfjjdno4kqgd7qwofd1af.png/186px-087%E9%87%91%E8%89%B2%E9%97%AA%E7%94%B5.PNG",
+    "rawAttrs": "魔法值：200施法间隔：0.28回魔：17冷却：0.4",
+    "rawEffects": "后置槽：每移动1秒充能5点自带法术：[闪电疾行][闪电疾行]",
+    "rawSlots": "前置槽：5后置槽：7"
+  },
+  {
+    "id": "wand_88",
+    "chapter": "旧日深渊",
+    "name": "吞星者",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/11/f0t8e5iujk63xng44gi1wi9kqya3rwh.png/187px-088%E5%90%9E%E6%98%9F%E8%80%85.PNG",
+    "rawAttrs": "魔法值：200施法间隔：0.23回魔：20冷却：0.55",
+    "rawEffects": "散射：+40°魔耗：×70%后置槽：此法杖每次命中敌人充能3.3点自带法术：[引线][黑洞+]",
+    "rawSlots": "前置槽：4后置槽：7"
+  },
+  {
+    "id": "wand_89",
+    "chapter": "旧日深渊",
+    "name": "猩红荆棘",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/ce/56m8o2taj3skjj8xzj2i7spbnohpcw5.png/188px-089%E7%8C%A9%E7%BA%A2%E8%8D%86%E6%A3%98.PNG",
+    "rawAttrs": "魔法值：190施法间隔：0.08回魔：20冷却：0.3",
+    "rawEffects": "魔耗：×90%后置槽：每次受伤充能100点自带法术：[拟态魔方][拟态魔方]",
+    "rawSlots": "前置槽：6后置槽：7"
+  },
+  {
+    "id": "wand_90",
+    "chapter": "旧日深渊",
+    "name": "智慧之杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/68/dda21clckbj4x4s7n8yg70q2aaaf6d3.png/189px-090%E6%99%BA%E6%85%A7%E4%B9%8B%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：230施法间隔：0.42回魔：21冷却：0.23",
+    "rawEffects": "魔耗：×80%自带法术：[多重施法]",
+    "rawSlots": "法术槽：13"
+  },
+  {
+    "id": "wand_91",
+    "chapter": "旧日深渊",
+    "name": "强袭之杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/03/o6tl0fekvk76cyhe2vmz82tv5b3849r.png/190px-091%E5%BC%BA%E8%A2%AD%E4%B9%8B%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：210施法间隔：0.33回魔：21冷却：0.33",
+    "rawEffects": "后置槽：此法杖每击杀1个敌人充能130点自带法术：[多重施法][多重施法][多重施法][多重施法][滚球++]",
+    "rawSlots": "前置槽：10后置槽：5"
+  },
+  {
+    "id": "wand_92",
+    "chapter": "旧日深渊",
+    "name": "老魔杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/04/jq70au0ouarn5k5sh6xz6gqev8uiuy3.png/191px-092%E8%80%81%E9%AD%94%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：240施法间隔：0.4回魔：22冷却：0.58",
+    "rawEffects": "魔耗：×90%自带法术：[阿瓦达啃大瓜]",
+    "rawSlots": "法术槽：12"
+  },
+  {
+    "id": "wand_93",
+    "chapter": "旧日深渊",
+    "name": "无源之杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/9b/axfr8zx7fnaa1i8qxzkyy4agz6im2ki.png/192px-093%E6%97%A0%E6%BA%90%E4%B9%8B%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：300施法间隔：0.25回魔：5冷却：0.25",
+    "rawEffects": "散射：+120°同时施放法术数量：3自带法术：随机6个稀有法术",
+    "rawSlots": "前置槽：12"
+  },
+  {
+    "id": "wand_94",
+    "chapter": "旧日深渊",
+    "name": "王权永恒",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/07/71t6hjrua6x1sdwcitqm8jejrxcbycn.png/193px-094%E7%8E%8B%E6%9D%83%E6%B0%B8%E6%81%92.PNG",
+    "rawAttrs": "魔法值：200施法间隔：0.2回魔：8冷却：1.5",
+    "rawEffects": "魔耗：×110%后置槽：每站立1秒充能66点",
+    "rawSlots": "前置槽：3后置槽：9"
+  },
+  {
+    "id": "wand_95",
+    "chapter": "旧日深渊",
+    "name": "起源之星",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/63/f3lojqup9kazm71uqbckox4zr22r4d0.png/194px-095%E8%B5%B7%E6%BA%90%E4%B9%8B%E6%98%9F.PNG",
+    "rawAttrs": "魔法值：180施法间隔：0.4回魔：22冷却：0.4",
+    "rawEffects": "自带法术：[奥数新星]",
+    "rawSlots": "法术槽：12"
+  },
+  {
+    "id": "wand_96",
+    "chapter": "旧日深渊",
+    "name": "永春嫩枝",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b3/svnkpkeh8qkq8szlm3duy0td26o69yf.png/195px-096%E6%B0%B8%E6%98%A5%E5%AB%A9%E6%9E%9D.PNG",
+    "rawAttrs": "魔法值：160施法间隔：0回魔：0冷却：0.2",
+    "rawEffects": "同时施放法术数量：3法杖回魔×0%每10秒该法杖会恢复所有魔法值",
+    "rawSlots": "法术槽：13"
+  },
+  {
+    "id": "wand_97",
+    "chapter": "旧日深渊",
+    "name": "晶凝星髓",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/61/ogmmgfdhg0u3yzg86ku7h26ghjg4qqs.png/196px-097%E6%99%B6%E5%87%9D%E6%98%9F%E9%AB%93.PNG",
+    "rawAttrs": "魔法值：220施法间隔：0.1回魔：18冷却：0.6",
+    "rawEffects": "所有法杖后置槽的充能效率+40%后置槽：此法杖每次施法充能1点",
+    "rawSlots": "前置槽：6后置槽：7"
+  },
+  {
+    "id": "wand_98",
+    "chapter": "古代王座",
+    "name": "专注之杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0c/8vtpzka6ovz6f1vvwtlkkyobru55w3e.png/197px-098%E4%B8%93%E6%B3%A8%E4%B9%8B%E6%9D%96.PNG",
+    "rawAttrs": "魔法值：280施法间隔：0.15回魔：19冷却：0.6",
+    "rawEffects": "最终伤害：×120%手持此法杖时回魔×150%未手持此法杖时回魔×50%",
+    "rawSlots": "法术槽：13"
+  },
+  {
+    "id": "wand_99",
+    "chapter": "古代王座",
+    "name": "末日之兆",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/25/4tgqv8mgub86xexbh603pu7mxb7fg58.png/198px-099%E6%9C%AB%E6%97%A5%E4%B9%8B%E5%85%86.PNG",
+    "rawAttrs": "魔法值：350施法间隔：0.05回魔：20冷却：1",
+    "rawEffects": "散射：+45°此法杖对自身造成的无差别伤害降低至0%后置槽：每移动一米充能8点自带法术：[陨石+]",
+    "rawSlots": "前置槽：2后置槽：13"
+  },
+  {
+    "id": "wand_100",
+    "chapter": "古代王座",
+    "name": "清泉流响",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/ed/i74i0yem321qj3p3ykkb0vi53527u0z.png/199px-100%E6%B8%85%E6%B3%89%E6%B5%81%E5%93%8D.PNG",
+    "rawAttrs": "魔法值：200施法间隔：0.1回魔：23冷却：0.45",
+    "rawEffects": "散射：-45°魔耗：×30%最终伤害：×30%后置槽：此法杖每次施法充能1.5点",
+    "rawSlots": "前置槽：6后置槽：8"
+  },
+  {
+    "id": "wand_101",
+    "chapter": "古代王座",
+    "name": "时隙碎片",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3a/6tdxll5ut9i3bw8wu8f8q93fu4t22jp.png/200px-101%E6%97%B6%E9%9A%99%E7%A2%8E%E7%89%87.PNG",
+    "rawAttrs": "魔法值：222施法间隔：0.22回魔：22冷却：0.22",
+    "rawEffects": "散射：+22°所有法杖回魔+8/秒自带法术：[粘液晶石++][寒霜晶石+]",
+    "rawSlots": "法术槽：11"
+  },
+  {
+    "id": "wand_102",
+    "chapter": "古代王座",
+    "name": "轰击辰星",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/64/cda3eenz14fpvxtphx38ck1879d1rik.png/201px-102%E8%BD%B0%E5%87%BB%E8%BE%B0%E6%98%9F.PNG",
+    "rawAttrs": "魔法值：240施法间隔：0.3回魔：23冷却：0.3",
+    "rawEffects": "散射：+90°同时施放法术数量：5魔耗：×200%暴击率：+20%最终伤害：×200%自带法术：[强力牵引+]",
+    "rawSlots": "法术槽：12"
+  },
+  {
+    "id": "wand_103",
+    "chapter": "古代王座",
+    "name": "制式法杖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/b/b8/sdcm309utt3q393z1feyncnvx9ov1oj.png",
+    "rawAttrs": "魔法值：320施法间隔：0.15回魔：24冷却：0.4",
+    "rawEffects": "无",
+    "rawSlots": "法术槽：13"
+  },
+  {
+    "id": "wand_104",
+    "chapter": "古代王座",
+    "name": "万花筒",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/5c/ms57vpv8skqebskj2plqfreiplvhfmq.png/203px-104%E4%B8%87%E8%8A%B1%E7%AD%92.PNG",
+    "rawAttrs": "魔法值：250施法间隔：0.1回魔：21冷却：0.6",
+    "rawEffects": "暴击率：-50%最终伤害：×150%施法会随机附加高级冰冻、中毒、减速、雷霆、坍缩、灼烧效果",
+    "rawSlots": "法术槽：12"
+  },
+  {
+    "id": "wand_105",
+    "chapter": "古代王座",
+    "name": "丰饶之祝",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f6/46h188k9dy1vs9fenentqs1s95xd43s.png/204px-105%E4%B8%B0%E9%A5%B6%E4%B9%8B%E7%A5%9D.PNG",
+    "rawAttrs": "魔法值：200施法间隔：1.6回魔：25冷却：1.6",
+    "rawEffects": "暴击率：+60%手持该法杖时每秒治疗4米半径内的召唤物10%的生命自带法术：[巨魔血清+]",
+    "rawSlots": "法术槽：12"
+  },
+  {
+    "id": "wand_106",
+    "chapter": "古代王座",
+    "name": "盖亚恩典",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c7/mw3js67zdoi2lids7qpgfpnrfkd27t7.png/205px-106%E7%9B%96%E4%BA%9A%E6%81%A9%E5%85%B8.PNG",
+    "rawAttrs": "魔法值：180施法间隔：0.2回魔：20冷却：0.7",
+    "rawEffects": "同时施放法术数量：2站立时该法杖回魔×180%",
+    "rawSlots": "法术槽：13"
+  }
+]

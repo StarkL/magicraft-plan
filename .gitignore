@@ -1,0 +1,17 @@
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Environment and sensitive keys
+.env
+.env.*
+*.local
+
+# Temporary / scratch scripts
+debug_*
+test_*.py
+scratch/

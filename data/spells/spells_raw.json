@@ -1,0 +1,3757 @@
+[
+  {
+    "id": "魔法弹_t1",
+    "category": "法术飞弹",
+    "name": "魔法弹",
+    "baseName": "魔法弹",
+    "tier": 1,
+    "rawAttrs": "伤害：10\n魔耗：3",
+    "attributes": {
+      "伤害": "10",
+      "魔耗": "3"
+    },
+    "effect": "",
+    "icon": "icons/魔法弹.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/6f/mo9saiybxk925z0o8hmb3biyfmrot8z.png/100px-001%E9%AD%94%E6%B3%95%E5%BC%B9.PNG"
+  },
+  {
+    "id": "魔法弹_t2",
+    "category": "法术飞弹",
+    "name": "魔法弹+",
+    "baseName": "魔法弹",
+    "tier": 2,
+    "rawAttrs": "伤害：13\n魔耗：4",
+    "attributes": {
+      "伤害": "13",
+      "魔耗": "4"
+    },
+    "effect": "命中敌人后使其在4秒内受到的伤害+50%",
+    "icon": "icons/魔法弹.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/6f/mo9saiybxk925z0o8hmb3biyfmrot8z.png/100px-001%E9%AD%94%E6%B3%95%E5%BC%B9.PNG"
+  },
+  {
+    "id": "魔法弹_t3",
+    "category": "法术飞弹",
+    "name": "魔法弹++",
+    "baseName": "魔法弹",
+    "tier": 3,
+    "rawAttrs": "伤害：16\n魔耗：5",
+    "attributes": {
+      "伤害": "16",
+      "魔耗": "5"
+    },
+    "effect": "命中敌人后使其在8秒内受到的伤害+100%",
+    "icon": "icons/魔法弹.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/6f/mo9saiybxk925z0o8hmb3biyfmrot8z.png/100px-001%E9%AD%94%E6%B3%95%E5%BC%B9.PNG"
+  },
+  {
+    "id": "滚球_t1",
+    "category": "法术飞弹",
+    "name": "滚球",
+    "baseName": "滚球",
+    "tier": 1,
+    "rawAttrs": "伤害：45\n暴击率：30%\n魔耗：15",
+    "attributes": {
+      "伤害": "45",
+      "暴击率": "30%",
+      "魔耗": "15"
+    },
+    "effect": "滚球可以承受40点伤害",
+    "icon": "icons/滚球.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/8c/fx23s4js7cv0xzmtly1fcbe72wuklgx.png/100px-002%E6%BB%9A%E7%90%83.PNG"
+  },
+  {
+    "id": "滚球_t2",
+    "category": "法术飞弹",
+    "name": "滚球+",
+    "baseName": "滚球",
+    "tier": 2,
+    "rawAttrs": "伤害：80\n暴击率：50%\n魔耗：19",
+    "attributes": {
+      "伤害": "80",
+      "暴击率": "50%",
+      "魔耗": "19"
+    },
+    "effect": "滚球可以承受80点伤害",
+    "icon": "icons/滚球.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/8c/fx23s4js7cv0xzmtly1fcbe72wuklgx.png/100px-002%E6%BB%9A%E7%90%83.PNG"
+  },
+  {
+    "id": "滚球_t3",
+    "category": "法术飞弹",
+    "name": "滚球++",
+    "baseName": "滚球",
+    "tier": 3,
+    "rawAttrs": "伤害：142\n暴击率：80%\n魔耗：25",
+    "attributes": {
+      "伤害": "142",
+      "暴击率": "80%",
+      "魔耗": "25"
+    },
+    "effect": "滚球可以承受120点伤害",
+    "icon": "icons/滚球.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/8c/fx23s4js7cv0xzmtly1fcbe72wuklgx.png/100px-002%E6%BB%9A%E7%90%83.PNG"
+  },
+  {
+    "id": "蝴蝶_t1",
+    "category": "法术飞弹",
+    "name": "蝴蝶",
+    "baseName": "蝴蝶",
+    "tier": 1,
+    "rawAttrs": "伤害：10\n施法数量：3\n散射：90°\n魔耗：8",
+    "attributes": {
+      "伤害": "10",
+      "施法数量": "3",
+      "散射": "90°",
+      "魔耗": "8"
+    },
+    "effect": "",
+    "icon": "icons/蝴蝶.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f4/skj21bxqr56xbtmec9mortr1riygz8j.png/100px-003%E8%9D%B4%E8%9D%B6.PNG"
+  },
+  {
+    "id": "蝴蝶_t2",
+    "category": "法术飞弹",
+    "name": "蝴蝶+",
+    "baseName": "蝴蝶",
+    "tier": 2,
+    "rawAttrs": "伤害：18\n施法数量：4\n散射：90°\n魔耗：11",
+    "attributes": {
+      "伤害": "18",
+      "施法数量": "4",
+      "散射": "90°",
+      "魔耗": "11"
+    },
+    "effect": "",
+    "icon": "icons/蝴蝶.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f4/skj21bxqr56xbtmec9mortr1riygz8j.png/100px-003%E8%9D%B4%E8%9D%B6.PNG"
+  },
+  {
+    "id": "蝴蝶_t3",
+    "category": "法术飞弹",
+    "name": "蝴蝶++",
+    "baseName": "蝴蝶",
+    "tier": 3,
+    "rawAttrs": "伤害：34\n施法数量：5\n散射：90°\n魔耗：15",
+    "attributes": {
+      "伤害": "34",
+      "施法数量": "5",
+      "散射": "90°",
+      "魔耗": "15"
+    },
+    "effect": "",
+    "icon": "icons/蝴蝶.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f4/skj21bxqr56xbtmec9mortr1riygz8j.png/100px-003%E8%9D%B4%E8%9D%B6.PNG"
+  },
+  {
+    "id": "激光_t1",
+    "category": "法术飞弹",
+    "name": "激光",
+    "baseName": "激光",
+    "tier": 1,
+    "rawAttrs": "伤害：8\n施法间隔：-0.05秒\n冷却：-0.1秒\n魔耗：2",
+    "attributes": {
+      "伤害": "8",
+      "施法间隔": "-0.05秒",
+      "冷却": "-0.1秒",
+      "魔耗": "2"
+    },
+    "effect": "",
+    "icon": "icons/激光.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a5/jjd0fpd98dxdz0odzhtezzq8sgmh6b8.png/100px-004%E6%BF%80%E5%85%89.PNG"
+  },
+  {
+    "id": "激光_t2",
+    "category": "法术飞弹",
+    "name": "激光+",
+    "baseName": "激光",
+    "tier": 2,
+    "rawAttrs": "伤害：80\n施法间隔：-0.05秒\n冷却：-0.1秒\n暴击率：25%\n魔耗：3",
+    "attributes": {
+      "伤害": "80",
+      "施法间隔": "-0.05秒",
+      "冷却": "-0.1秒",
+      "暴击率": "25%",
+      "魔耗": "3"
+    },
+    "effect": "法术穿透+1，法术穿透会变为折射效果",
+    "icon": "icons/激光.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a5/jjd0fpd98dxdz0odzhtezzq8sgmh6b8.png/100px-004%E6%BF%80%E5%85%89.PNG"
+  },
+  {
+    "id": "激光_t3",
+    "category": "法术飞弹",
+    "name": "激光++",
+    "baseName": "激光",
+    "tier": 3,
+    "rawAttrs": "伤害：15\n施法间隔：-0.05秒\n冷却：-0.1秒\n暴击率：50%\n魔耗：4",
+    "attributes": {
+      "伤害": "15",
+      "施法间隔": "-0.05秒",
+      "冷却": "-0.1秒",
+      "暴击率": "50%",
+      "魔耗": "4"
+    },
+    "effect": "法术穿透+2，法术穿透会变为折射效果",
+    "icon": "icons/激光.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a5/jjd0fpd98dxdz0odzhtezzq8sgmh6b8.png/100px-004%E6%BF%80%E5%85%89.PNG"
+  },
+  {
+    "id": "引线_t1",
+    "category": "法术飞弹",
+    "name": "引线",
+    "baseName": "引线",
+    "tier": 1,
+    "rawAttrs": "伤害：3\n魔耗：1",
+    "attributes": {
+      "伤害": "3",
+      "魔耗": "1"
+    },
+    "effect": "结束时施放右侧的首个可施放法术\n被施放的法术魔耗×90%",
+    "icon": "icons/引线.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/9d/cdvmpo2n05c7xhzrqv7brl36n8ctu5m.png/100px-005%E5%BC%95%E7%BA%BF.PNG"
+  },
+  {
+    "id": "引线_t2",
+    "category": "法术飞弹",
+    "name": "引线+",
+    "baseName": "引线",
+    "tier": 2,
+    "rawAttrs": "伤害：9\n魔耗：2",
+    "attributes": {
+      "伤害": "9",
+      "魔耗": "2"
+    },
+    "effect": "结束时施放右侧的首个可施放法术\n被施放的法术魔耗×80%",
+    "icon": "icons/引线.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/9d/cdvmpo2n05c7xhzrqv7brl36n8ctu5m.png/100px-005%E5%BC%95%E7%BA%BF.PNG"
+  },
+  {
+    "id": "引线_t3",
+    "category": "法术飞弹",
+    "name": "引线++",
+    "baseName": "引线",
+    "tier": 3,
+    "rawAttrs": "伤害：18\n魔耗：3",
+    "attributes": {
+      "伤害": "18",
+      "魔耗": "3"
+    },
+    "effect": "结束时施放右侧的首个可施放法术\n被施放的法术魔耗×70%",
+    "icon": "icons/引线.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/9d/cdvmpo2n05c7xhzrqv7brl36n8ctu5m.png/100px-005%E5%BC%95%E7%BA%BF.PNG"
+  },
+  {
+    "id": "悬浮鬼火_t1",
+    "category": "法术飞弹",
+    "name": "悬浮鬼火",
+    "baseName": "悬浮鬼火",
+    "tier": 1,
+    "rawAttrs": "伤害：30\n暴击率：20%\n散射：30°\n魔耗：9",
+    "attributes": {
+      "伤害": "30",
+      "暴击率": "20%",
+      "散射": "30°",
+      "魔耗": "9"
+    },
+    "effect": "命中敌人时，会吸引附近的鬼火",
+    "icon": "icons/悬浮鬼火.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/04/rf9rjhsqa9rqkufmbss2bt82978t00p.png/100px-006%E6%82%AC%E6%B5%AE%E9%AC%BC%E7%81%AB.PNG"
+  },
+  {
+    "id": "悬浮鬼火_t2",
+    "category": "法术飞弹",
+    "name": "悬浮鬼火+",
+    "baseName": "悬浮鬼火",
+    "tier": 2,
+    "rawAttrs": "伤害：54\n暴击率：20%\n散射：45°\n魔耗：12",
+    "attributes": {
+      "伤害": "54",
+      "暴击率": "20%",
+      "散射": "45°",
+      "魔耗": "12"
+    },
+    "effect": "命中敌人时，会吸引附近的鬼火\n每存在4秒便自我复制一次",
+    "icon": "icons/悬浮鬼火.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/04/rf9rjhsqa9rqkufmbss2bt82978t00p.png/100px-006%E6%82%AC%E6%B5%AE%E9%AC%BC%E7%81%AB.PNG"
+  },
+  {
+    "id": "悬浮鬼火_t3",
+    "category": "法术飞弹",
+    "name": "悬浮鬼火++",
+    "baseName": "悬浮鬼火",
+    "tier": 3,
+    "rawAttrs": "伤害：98\n暴击率：20%\n散射：60°\n魔耗：15",
+    "attributes": {
+      "伤害": "98",
+      "暴击率": "20%",
+      "散射": "60°",
+      "魔耗": "15"
+    },
+    "effect": "命中敌人时，会吸引附近的鬼火\n每存在3秒便自我复制一次",
+    "icon": "icons/悬浮鬼火.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/04/rf9rjhsqa9rqkufmbss2bt82978t00p.png/100px-006%E6%82%AC%E6%B5%AE%E9%AC%BC%E7%81%AB.PNG"
+  },
+  {
+    "id": "黑洞_t1",
+    "category": "法术飞弹",
+    "name": "黑洞",
+    "baseName": "黑洞",
+    "tier": 1,
+    "rawAttrs": "伤害：22（秒伤）\n冷却：+0.1秒\n影响半径：2.25m\n魔耗：27",
+    "attributes": {
+      "伤害": "22（秒伤）",
+      "冷却": "+0.1秒",
+      "影响半径": "2.25m",
+      "魔耗": "27"
+    },
+    "effect": "",
+    "icon": "icons/黑洞.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/43/cd3ar88222v2s6ax9g02159xsln7w42.png/100px-007%E9%BB%91%E6%B4%9E.PNG"
+  },
+  {
+    "id": "黑洞_t2",
+    "category": "法术飞弹",
+    "name": "黑洞+",
+    "baseName": "黑洞",
+    "tier": 2,
+    "rawAttrs": "伤害：54\n冷却：+0.1秒\n影响半径：2.25m\n魔耗：36",
+    "attributes": {
+      "伤害": "54",
+      "冷却": "+0.1秒",
+      "影响半径": "2.25m",
+      "魔耗": "36"
+    },
+    "effect": "影响半径随时间缓慢增长",
+    "icon": "icons/黑洞.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/43/cd3ar88222v2s6ax9g02159xsln7w42.png/100px-007%E9%BB%91%E6%B4%9E.PNG"
+  },
+  {
+    "id": "黑洞_t3",
+    "category": "法术飞弹",
+    "name": "黑洞++",
+    "baseName": "黑洞",
+    "tier": 3,
+    "rawAttrs": "伤害：140（秒伤）\n冷却：+0.1秒\n影响半径：2.25m\n魔耗：54",
+    "attributes": {
+      "伤害": "140（秒伤）",
+      "冷却": "+0.1秒",
+      "影响半径": "2.25m",
+      "魔耗": "54"
+    },
+    "effect": "影响半径随时间增长",
+    "icon": "icons/黑洞.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/43/cd3ar88222v2s6ax9g02159xsln7w42.png/100px-007%E9%BB%91%E6%B4%9E.PNG"
+  },
+  {
+    "id": "奥爆术_t1",
+    "category": "法术飞弹",
+    "name": "奥爆术",
+    "baseName": "奥爆术",
+    "tier": 1,
+    "rawAttrs": "伤害：16\n暴击率：25%\n影响半径：3m\n魔耗：9",
+    "attributes": {
+      "伤害": "16",
+      "暴击率": "25%",
+      "影响半径": "3m",
+      "魔耗": "9"
+    },
+    "effect": "",
+    "icon": "icons/奥爆术.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e3/ki5nde9pghr3c3mmeeg540kkj90emrv.png/100px-008%E5%A5%A5%E7%88%86%E6%9C%AF.PNG"
+  },
+  {
+    "id": "奥爆术_t2",
+    "category": "法术飞弹",
+    "name": "奥爆术+",
+    "baseName": "奥爆术",
+    "tier": 2,
+    "rawAttrs": "伤害： 48\n暴击率：25%\n影响半径： 3.2m\n魔耗：18",
+    "attributes": {
+      "伤害": "48",
+      "暴击率": "25%",
+      "影响半径": "3.2m",
+      "魔耗": "18"
+    },
+    "effect": "击杀敌方单位时立刻生成一次0.7倍半径的奥爆术",
+    "icon": "icons/奥爆术.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e3/ki5nde9pghr3c3mmeeg540kkj90emrv.png/100px-008%E5%A5%A5%E7%88%86%E6%9C%AF.PNG"
+  },
+  {
+    "id": "奥爆术_t3",
+    "category": "法术飞弹",
+    "name": "奥爆术++",
+    "baseName": "奥爆术",
+    "tier": 3,
+    "rawAttrs": "伤害：144\n暴击率：25%\n影响半径：3.5m\n魔耗：60",
+    "attributes": {
+      "伤害": "144",
+      "暴击率": "25%",
+      "影响半径": "3.5m",
+      "魔耗": "60"
+    },
+    "effect": "击杀敌方单位时立刻生成一次奥爆术",
+    "icon": "icons/奥爆术.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e3/ki5nde9pghr3c3mmeeg540kkj90emrv.png/100px-008%E5%A5%A5%E7%88%86%E6%9C%AF.PNG"
+  },
+  {
+    "id": "法术汲取_t1",
+    "category": "法术飞弹",
+    "name": "法术汲取",
+    "baseName": "法术汲取",
+    "tier": 1,
+    "rawAttrs": "伤害：24\n冷却：-0.2秒\n暴击率：40%\n魔耗：8",
+    "attributes": {
+      "伤害": "24",
+      "冷却": "-0.2秒",
+      "暴击率": "40%",
+      "魔耗": "8"
+    },
+    "effect": "首次命中敌人时施法法杖恢复法术所消耗的魔法值",
+    "icon": "icons/法术汲取.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3e/mj71chqtw6z11q8ndpe7tt89ri7j6y2.png/100px-009%E6%B3%95%E6%9C%AF%E6%B1%B2%E5%8F%96.PNG"
+  },
+  {
+    "id": "冥蛇_t1",
+    "category": "法术飞弹",
+    "name": "冥蛇",
+    "baseName": "冥蛇",
+    "tier": 1,
+    "rawAttrs": "伤害：30（秒伤）\n魔耗：11",
+    "attributes": {
+      "伤害": "30（秒伤）",
+      "魔耗": "11"
+    },
+    "effect": "施放一条身长6米的冥蛇",
+    "icon": "icons/冥蛇.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/da/0f2zj4hvq73qaaddgc6v0bpv86nq1kh.png/100px-010%E5%86%A5%E8%9B%87.PNG"
+  },
+  {
+    "id": "冥蛇_t2",
+    "category": "法术飞弹",
+    "name": "冥蛇+",
+    "baseName": "冥蛇",
+    "tier": 2,
+    "rawAttrs": "伤害： 60（秒伤）\n魔耗：15",
+    "attributes": {
+      "伤害": "60（秒伤）",
+      "魔耗": "15"
+    },
+    "effect": "施放一条身长12米的冥蛇",
+    "icon": "icons/冥蛇.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/da/0f2zj4hvq73qaaddgc6v0bpv86nq1kh.png/100px-010%E5%86%A5%E8%9B%87.PNG"
+  },
+  {
+    "id": "冥蛇_t3",
+    "category": "法术飞弹",
+    "name": "冥蛇++",
+    "baseName": "冥蛇",
+    "tier": 3,
+    "rawAttrs": "伤害：120（秒伤）\n魔耗：19",
+    "attributes": {
+      "伤害": "120（秒伤）",
+      "魔耗": "19"
+    },
+    "effect": "施放一条身长24米的冥蛇",
+    "icon": "icons/冥蛇.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/da/0f2zj4hvq73qaaddgc6v0bpv86nq1kh.png/100px-010%E5%86%A5%E8%9B%87.PNG"
+  },
+  {
+    "id": "瓦解射线_t1",
+    "category": "法术飞弹",
+    "name": "瓦解射线",
+    "baseName": "瓦解射线",
+    "tier": 1,
+    "rawAttrs": "伤害：72（秒伤）\n魔耗：43",
+    "attributes": {
+      "伤害": "72（秒伤）",
+      "魔耗": "43"
+    },
+    "effect": "持续施法",
+    "icon": "icons/瓦解射线.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d5/k2z1zl0nh1qjje5lhqcm9ty3sa5u0k1.png/100px-011%E7%93%A6%E8%A7%A3%E5%B0%84%E7%BA%BF.PNG"
+  },
+  {
+    "id": "瓦解射线_t2",
+    "category": "法术飞弹",
+    "name": "瓦解射线+",
+    "baseName": "瓦解射线",
+    "tier": 2,
+    "rawAttrs": "伤害： 144（秒伤）",
+    "attributes": {
+      "伤害": "144（秒伤）"
+    },
+    "effect": "持续施法",
+    "icon": "icons/瓦解射线.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d5/k2z1zl0nh1qjje5lhqcm9ty3sa5u0k1.png/100px-011%E7%93%A6%E8%A7%A3%E5%B0%84%E7%BA%BF.PNG"
+  },
+  {
+    "id": "瓦解射线_t3",
+    "category": "法术飞弹",
+    "name": "瓦解射线++",
+    "baseName": "瓦解射线",
+    "tier": 3,
+    "rawAttrs": "伤害：288（秒伤）\n魔耗：73",
+    "attributes": {
+      "伤害": "288（秒伤）",
+      "魔耗": "73"
+    },
+    "effect": "持续施法",
+    "icon": "icons/瓦解射线.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d5/k2z1zl0nh1qjje5lhqcm9ty3sa5u0k1.png/100px-011%E7%93%A6%E8%A7%A3%E5%B0%84%E7%BA%BF.PNG"
+  },
+  {
+    "id": "诡雷_t1",
+    "category": "法术飞弹",
+    "name": "诡雷",
+    "baseName": "诡雷",
+    "tier": 1,
+    "rawAttrs": "伤害：70\n暴击率：50%\n影响半径：1.5m\n魔耗：25",
+    "attributes": {
+      "伤害": "70",
+      "暴击率": "50%",
+      "影响半径": "1.5m",
+      "魔耗": "25"
+    },
+    "effect": "无差别伤害",
+    "icon": "icons/诡雷.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/ac/5vkoihv4tm7zwkrw9dhrryl4ycep0vu.png/100px-012%E8%AF%A1%E9%9B%B7.PNG"
+  },
+  {
+    "id": "诡雷_t2",
+    "category": "法术飞弹",
+    "name": "诡雷+",
+    "baseName": "诡雷",
+    "tier": 2,
+    "rawAttrs": "伤害： 147\n暴击率： 60%\n影响半径： 1.8m\n魔耗：38",
+    "attributes": {
+      "伤害": "147",
+      "暴击率": "60%",
+      "影响半径": "1.8m",
+      "魔耗": "38"
+    },
+    "effect": "无差别伤害",
+    "icon": "icons/诡雷.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/ac/5vkoihv4tm7zwkrw9dhrryl4ycep0vu.png/100px-012%E8%AF%A1%E9%9B%B7.PNG"
+  },
+  {
+    "id": "诡雷_t3",
+    "category": "法术飞弹",
+    "name": "诡雷++",
+    "baseName": "诡雷",
+    "tier": 3,
+    "rawAttrs": "伤害：309\n暴击率：80%\n影响半径：2.2m\n魔耗：56",
+    "attributes": {
+      "伤害": "309",
+      "暴击率": "80%",
+      "影响半径": "2.2m",
+      "魔耗": "56"
+    },
+    "effect": "无差别伤害",
+    "icon": "icons/诡雷.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/ac/5vkoihv4tm7zwkrw9dhrryl4ycep0vu.png/100px-012%E8%AF%A1%E9%9B%B7.PNG"
+  },
+  {
+    "id": "陨石_t1",
+    "category": "法术飞弹",
+    "name": "陨石",
+    "baseName": "陨石",
+    "tier": 1,
+    "rawAttrs": "伤害：65\n影响半径：1.2m\n魔耗：18",
+    "attributes": {
+      "伤害": "65",
+      "影响半径": "1.2m",
+      "魔耗": "18"
+    },
+    "effect": "无差别伤害",
+    "icon": "icons/陨石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b7/nutwnh2qdvyuog9rj3h218bq5zgqgqw.png/100px-013%E9%99%A8%E7%9F%B3.PNG"
+  },
+  {
+    "id": "陨石_t2",
+    "category": "法术飞弹",
+    "name": "陨石+",
+    "baseName": "陨石",
+    "tier": 2,
+    "rawAttrs": "伤害： 93\n影响半径： 1.3m\n魔耗：24",
+    "attributes": {
+      "伤害": "93",
+      "影响半径": "1.3m",
+      "魔耗": "24"
+    },
+    "effect": "额外发射2枚小型流星\n无差别伤害",
+    "icon": "icons/陨石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b7/nutwnh2qdvyuog9rj3h218bq5zgqgqw.png/100px-013%E9%99%A8%E7%9F%B3.PNG"
+  },
+  {
+    "id": "陨石_t3",
+    "category": "法术飞弹",
+    "name": "陨石++",
+    "baseName": "陨石",
+    "tier": 3,
+    "rawAttrs": "伤害：130\n影响半径：1.4m\n魔耗：30",
+    "attributes": {
+      "伤害": "130",
+      "影响半径": "1.4m",
+      "魔耗": "30"
+    },
+    "effect": "额外发射5枚小型流星\n无差别伤害",
+    "icon": "icons/陨石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b7/nutwnh2qdvyuog9rj3h218bq5zgqgqw.png/100px-013%E9%99%A8%E7%9F%B3.PNG"
+  },
+  {
+    "id": "彩虹_t1",
+    "category": "法术飞弹",
+    "name": "彩虹",
+    "baseName": "彩虹",
+    "tier": 1,
+    "rawAttrs": "伤害：6\n施法数量：7\n散射：45°\n魔耗：12",
+    "attributes": {
+      "伤害": "6",
+      "施法数量": "7",
+      "散射": "45°",
+      "魔耗": "12"
+    },
+    "effect": "均匀扩散",
+    "icon": "icons/彩虹.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b7/fwybe27pk4j0ro5lk5mpaz40oel0m27.png/100px-014%E5%BD%A9%E8%99%B9.PNG"
+  },
+  {
+    "id": "彩虹_t2",
+    "category": "法术飞弹",
+    "name": "彩虹+",
+    "baseName": "彩虹",
+    "tier": 2,
+    "rawAttrs": "伤害： 12\n施法数量： 7\n散射：45°\n魔耗：15",
+    "attributes": {
+      "伤害": "12",
+      "施法数量": "7",
+      "散射": "45°",
+      "魔耗": "15"
+    },
+    "effect": "均匀扩散",
+    "icon": "icons/彩虹.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b7/fwybe27pk4j0ro5lk5mpaz40oel0m27.png/100px-014%E5%BD%A9%E8%99%B9.PNG"
+  },
+  {
+    "id": "彩虹_t3",
+    "category": "法术飞弹",
+    "name": "彩虹++",
+    "baseName": "彩虹",
+    "tier": 3,
+    "rawAttrs": "伤害：24\n施法数量：7\n散射；45°\n魔耗：20",
+    "attributes": {
+      "伤害": "24",
+      "施法数量": "7",
+      "other": "散射；45°",
+      "魔耗": "20"
+    },
+    "effect": "均匀扩散",
+    "icon": "icons/彩虹.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b7/fwybe27pk4j0ro5lk5mpaz40oel0m27.png/100px-014%E5%BD%A9%E8%99%B9.PNG"
+  },
+  {
+    "id": "奥术新星_t1",
+    "category": "法术飞弹",
+    "name": "奥术新星",
+    "baseName": "奥术新星",
+    "tier": 1,
+    "rawAttrs": "伤害：30\n魔耗：10",
+    "attributes": {
+      "伤害": "30",
+      "魔耗": "10"
+    },
+    "effect": "持续施放右侧的首个可施放法术\n被施放的法术魔耗×500%，伤害×50%，共计施放20次",
+    "icon": "icons/奥术新星.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/dd/h0iyx3nxhiz485a7eyf8naenhjlhcdu.png/100px-015%E5%A5%A5%E6%9C%AF%E6%96%B0%E6%98%9F.PNG"
+  },
+  {
+    "id": "闪电疾行_t1",
+    "category": "法术飞弹",
+    "name": "闪电疾行",
+    "baseName": "闪电疾行",
+    "tier": 1,
+    "rawAttrs": "伤害：14\n暴击率：70%\n影响半径：1m\n魔耗：33",
+    "attributes": {
+      "伤害": "14",
+      "暴击率": "70%",
+      "影响半径": "1m",
+      "魔耗": "33"
+    },
+    "effect": "持续施法\n施法期间无敌",
+    "icon": "icons/闪电疾行.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c4/i68o4ch8nuws6vluqi0eldd3psmz6rn.png/100px-016%E9%97%AA%E7%94%B5%E7%96%BE%E8%A1%8C.PNG"
+  },
+  {
+    "id": "闪电疾行_t2",
+    "category": "法术飞弹",
+    "name": "闪电疾行+",
+    "baseName": "闪电疾行",
+    "tier": 2,
+    "rawAttrs": "伤害： 28\n暴击率： 70%\n影响半径： 1m\n魔耗：43",
+    "attributes": {
+      "伤害": "28",
+      "暴击率": "70%",
+      "影响半径": "1m",
+      "魔耗": "43"
+    },
+    "effect": "持续施法\n施法期间无敌\n结束时产生2.5倍半径的爆炸，并消除半径内的大部分敌方飞弹",
+    "icon": "icons/闪电疾行.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c4/i68o4ch8nuws6vluqi0eldd3psmz6rn.png/100px-016%E9%97%AA%E7%94%B5%E7%96%BE%E8%A1%8C.PNG"
+  },
+  {
+    "id": "闪电疾行_t3",
+    "category": "法术飞弹",
+    "name": "闪电疾行++",
+    "baseName": "闪电疾行",
+    "tier": 3,
+    "rawAttrs": "伤害：56\n暴击率：70%\n影响半径：1m\n魔耗：56",
+    "attributes": {
+      "伤害": "56",
+      "暴击率": "70%",
+      "影响半径": "1m",
+      "魔耗": "56"
+    },
+    "effect": "持续施法\n施法期间无敌\n结束时产生3.5倍半径的爆炸，并消除半径内的大部分敌方飞弹",
+    "icon": "icons/闪电疾行.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c4/i68o4ch8nuws6vluqi0eldd3psmz6rn.png/100px-016%E9%97%AA%E7%94%B5%E7%96%BE%E8%A1%8C.PNG"
+  },
+  {
+    "id": "阿瓦达啃大瓜_t1",
+    "category": "法术飞弹",
+    "name": "阿瓦达啃大瓜",
+    "baseName": "阿瓦达啃大瓜",
+    "tier": 1,
+    "rawAttrs": "伤害：52\n影响半径：0.8m\n魔耗：13",
+    "attributes": {
+      "伤害": "52",
+      "影响半径": "0.8m",
+      "魔耗": "13"
+    },
+    "effect": "无差别伤害\n杀敌升级",
+    "icon": "icons/阿瓦达啃大瓜.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/97/3lzrrzimqdbbratac91rqvmc1lzmjq1.png/100px-017%E9%98%BF%E7%93%A6%E8%BE%BE%E5%95%83%E5%A4%A7%E7%93%9C.PNG"
+  },
+  {
+    "id": "阿瓦达啃大瓜_t2",
+    "category": "法术飞弹",
+    "name": "阿瓦达啃大瓜+",
+    "baseName": "阿瓦达啃大瓜",
+    "tier": 2,
+    "rawAttrs": "伤害： 104\n影响半径： 1.2m\n魔耗：17",
+    "attributes": {
+      "伤害": "104",
+      "影响半径": "1.2m",
+      "魔耗": "17"
+    },
+    "effect": "无差别伤害\n杀敌升级",
+    "icon": "icons/阿瓦达啃大瓜.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/97/3lzrrzimqdbbratac91rqvmc1lzmjq1.png/100px-017%E9%98%BF%E7%93%A6%E8%BE%BE%E5%95%83%E5%A4%A7%E7%93%9C.PNG"
+  },
+  {
+    "id": "阿瓦达啃大瓜_t3",
+    "category": "法术飞弹",
+    "name": "阿瓦达啃大瓜++",
+    "baseName": "阿瓦达啃大瓜",
+    "tier": 3,
+    "rawAttrs": "伤害：208\n影响半径：1.6m\n魔耗：22",
+    "attributes": {
+      "伤害": "208",
+      "影响半径": "1.6m",
+      "魔耗": "22"
+    },
+    "effect": "无差别伤害",
+    "icon": "icons/阿瓦达啃大瓜.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/97/3lzrrzimqdbbratac91rqvmc1lzmjq1.png/100px-017%E9%98%BF%E7%93%A6%E8%BE%BE%E5%95%83%E5%A4%A7%E7%93%9C.PNG"
+  },
+  {
+    "id": "落雷阵_t1",
+    "category": "法术飞弹",
+    "name": "落雷阵",
+    "baseName": "落雷阵",
+    "tier": 1,
+    "rawAttrs": "伤害：22（秒伤）\n影响半径：2.8m\n魔耗：33",
+    "attributes": {
+      "伤害": "22（秒伤）",
+      "影响半径": "2.8m",
+      "魔耗": "33"
+    },
+    "effect": "落雷可传导3次",
+    "icon": "icons/落雷阵.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/07/8jm2joagegj9j9e9xza0teipf8fd2gq.png/100px-018%E8%90%BD%E9%9B%B7%E9%98%B5.PNG"
+  },
+  {
+    "id": "落雷阵_t2",
+    "category": "法术飞弹",
+    "name": "落雷阵+",
+    "baseName": "落雷阵",
+    "tier": 2,
+    "rawAttrs": "伤害： 44（秒伤）\n影响半径： 3m\n魔耗：43",
+    "attributes": {
+      "伤害": "44（秒伤）",
+      "影响半径": "3m",
+      "魔耗": "43"
+    },
+    "effect": "落雷可传导5次\n仅命中一名敌方单位时法术伤害×130%",
+    "icon": "icons/落雷阵.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/07/8jm2joagegj9j9e9xza0teipf8fd2gq.png/100px-018%E8%90%BD%E9%9B%B7%E9%98%B5.PNG"
+  },
+  {
+    "id": "落雷阵_t3",
+    "category": "法术飞弹",
+    "name": "落雷阵++",
+    "baseName": "落雷阵",
+    "tier": 3,
+    "rawAttrs": "伤害：88（秒伤）\n影响半径：3.2m\n魔耗：56",
+    "attributes": {
+      "伤害": "88（秒伤）",
+      "影响半径": "3.2m",
+      "魔耗": "56"
+    },
+    "effect": "落雷可传导7次\n仅命中一名敌方单位时法术伤害×160%",
+    "icon": "icons/落雷阵.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/07/8jm2joagegj9j9e9xza0teipf8fd2gq.png/100px-018%E8%90%BD%E9%9B%B7%E9%98%B5.PNG"
+  },
+  {
+    "id": "注魔硬币_t1",
+    "category": "法术飞弹",
+    "name": "注魔硬币",
+    "baseName": "注魔硬币",
+    "tier": 1,
+    "rawAttrs": "伤害：60\n魔耗：20",
+    "attributes": {
+      "伤害": "60",
+      "魔耗": "20"
+    },
+    "effect": "消耗并射出20%的金币，每消耗1枚金币法术基础伤害6。法术结束时金币会重新掉落",
+    "icon": "icons/注魔硬币.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/52/fkhij44mnbbrzscx6ymvmkzheel58zb.png/100px-019%E6%B3%A8%E9%AD%94%E7%A1%AC%E5%B8%81.PNG"
+  },
+  {
+    "id": "破魔剑_t1",
+    "category": "法术飞弹",
+    "name": "破魔剑",
+    "baseName": "破魔剑",
+    "tier": 1,
+    "rawAttrs": "伤害：39\n散射：150°\n影响半径：2.3m\n魔耗：18",
+    "attributes": {
+      "伤害": "39",
+      "散射": "150°",
+      "影响半径": "2.3m",
+      "魔耗": "18"
+    },
+    "effect": "消除碰到的大部分敌方飞弹",
+    "icon": "icons/破魔剑.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3a/6oqqjthuw0nqszdmvet6lx04s2t0z9t.png/100px-020%E7%A0%B4%E9%AD%94%E5%89%91.PNG"
+  },
+  {
+    "id": "破魔剑_t2",
+    "category": "法术飞弹",
+    "name": "破魔剑+",
+    "baseName": "破魔剑",
+    "tier": 2,
+    "rawAttrs": "伤害： 78\n散射：180°\n影响半径： 2.3m\n魔耗：22",
+    "attributes": {
+      "伤害": "78",
+      "散射": "180°",
+      "影响半径": "2.3m",
+      "魔耗": "22"
+    },
+    "effect": "反弹碰到的大部分敌方飞弹",
+    "icon": "icons/破魔剑.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3a/6oqqjthuw0nqszdmvet6lx04s2t0z9t.png/100px-020%E7%A0%B4%E9%AD%94%E5%89%91.PNG"
+  },
+  {
+    "id": "破魔剑_t3",
+    "category": "法术飞弹",
+    "name": "破魔剑++",
+    "baseName": "破魔剑",
+    "tier": 3,
+    "rawAttrs": "伤害：156\n散射：240°\n影响半径：2.3m\n魔耗：29",
+    "attributes": {
+      "伤害": "156",
+      "散射": "240°",
+      "影响半径": "2.3m",
+      "魔耗": "29"
+    },
+    "effect": "更精准的反弹碰到的大部分敌方飞弹",
+    "icon": "icons/破魔剑.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3a/6oqqjthuw0nqszdmvet6lx04s2t0z9t.png/100px-020%E7%A0%B4%E9%AD%94%E5%89%91.PNG"
+  },
+  {
+    "id": "回旋之刃_t1",
+    "category": "法术飞弹",
+    "name": "回旋之刃",
+    "baseName": "回旋之刃",
+    "tier": 1,
+    "rawAttrs": "伤害：16\n暴击率：20%\n魔耗：9",
+    "attributes": {
+      "伤害": "16",
+      "暴击率": "20%",
+      "魔耗": "9"
+    },
+    "effect": "法术穿透：5",
+    "icon": "icons/回旋之刃.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d8/e6iuva84t7gw21leewu1kx6dlkxm31k.png/100px-021%E5%9B%9E%E6%97%8B%E4%B9%8B%E5%88%83.PNG"
+  },
+  {
+    "id": "回旋之刃_t2",
+    "category": "法术飞弹",
+    "name": "回旋之刃+",
+    "baseName": "回旋之刃",
+    "tier": 2,
+    "rawAttrs": "伤害： 32\n暴击率： 20%\n魔耗：11",
+    "attributes": {
+      "伤害": "32",
+      "暴击率": "20%",
+      "魔耗": "11"
+    },
+    "effect": "法术穿透：8",
+    "icon": "icons/回旋之刃.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d8/e6iuva84t7gw21leewu1kx6dlkxm31k.png/100px-021%E5%9B%9E%E6%97%8B%E4%B9%8B%E5%88%83.PNG"
+  },
+  {
+    "id": "回旋之刃_t3",
+    "category": "法术飞弹",
+    "name": "回旋之刃++",
+    "baseName": "回旋之刃",
+    "tier": 3,
+    "rawAttrs": "伤害：64\n暴击率：20%\n魔耗：15",
+    "attributes": {
+      "伤害": "64",
+      "暴击率": "20%",
+      "魔耗": "15"
+    },
+    "effect": "法术穿透：12",
+    "icon": "icons/回旋之刃.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d8/e6iuva84t7gw21leewu1kx6dlkxm31k.png/100px-021%E5%9B%9E%E6%97%8B%E4%B9%8B%E5%88%83.PNG"
+  },
+  {
+    "id": "审判之剑_t1",
+    "category": "法术飞弹",
+    "name": "审判之剑",
+    "baseName": "审判之剑",
+    "tier": 1,
+    "rawAttrs": "伤害：17\n冷却：-0.1秒\n暴击率：40%\n魔耗：6",
+    "attributes": {
+      "伤害": "17",
+      "冷却": "-0.1秒",
+      "暴击率": "40%",
+      "魔耗": "6"
+    },
+    "effect": "",
+    "icon": "icons/审判之剑.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/5d/plkor7fqb8ojrdl07ec15bvl9ax8wqa.png/100px-022%E5%AE%A1%E5%88%A4%E4%B9%8B%E5%89%91.PNG"
+  },
+  {
+    "id": "审判之剑_t2",
+    "category": "法术飞弹",
+    "name": "审判之剑+",
+    "baseName": "审判之剑",
+    "tier": 2,
+    "rawAttrs": "伤害： 34\n冷却：-0.15秒\n暴击率： 40%\n魔耗：8",
+    "attributes": {
+      "伤害": "34",
+      "冷却": "-0.15秒",
+      "暴击率": "40%",
+      "魔耗": "8"
+    },
+    "effect": "",
+    "icon": "icons/审判之剑.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/5d/plkor7fqb8ojrdl07ec15bvl9ax8wqa.png/100px-022%E5%AE%A1%E5%88%A4%E4%B9%8B%E5%89%91.PNG"
+  },
+  {
+    "id": "审判之剑_t3",
+    "category": "法术飞弹",
+    "name": "审判之剑++",
+    "baseName": "审判之剑",
+    "tier": 3,
+    "rawAttrs": "伤害：68\n冷却：-0.2秒\n暴击率：40%\n魔耗：10",
+    "attributes": {
+      "伤害": "68",
+      "冷却": "-0.2秒",
+      "暴击率": "40%",
+      "魔耗": "10"
+    },
+    "effect": "",
+    "icon": "icons/审判之剑.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/5d/plkor7fqb8ojrdl07ec15bvl9ax8wqa.png/100px-022%E5%AE%A1%E5%88%A4%E4%B9%8B%E5%89%91.PNG"
+  },
+  {
+    "id": "萃凝水泡_t1",
+    "category": "法术飞弹",
+    "name": "萃凝水泡",
+    "baseName": "萃凝水泡",
+    "tier": 1,
+    "rawAttrs": "伤害：100\n冷却：+0.2秒\n影响半径：3m\n占用格子：2\n魔耗：35",
+    "attributes": {
+      "伤害": "100",
+      "冷却": "+0.2秒",
+      "影响半径": "3m",
+      "占用格子": "2",
+      "魔耗": "35"
+    },
+    "effect": "每存在一秒，影响半径+10%\n基础伤害+20%",
+    "icon": "icons/萃凝水泡.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/12/t98gyv4v8ohhh29p6u0la70cw28gzuz.png/100px-023%E8%90%83%E5%87%9D%E6%B0%B4%E6%B3%A1.PNG"
+  },
+  {
+    "id": "萃凝水泡_t2",
+    "category": "法术飞弹",
+    "name": "萃凝水泡+",
+    "baseName": "萃凝水泡",
+    "tier": 2,
+    "rawAttrs": "伤害： 170\n冷却： +0.2\n秒影响半径： 3.2m\n占用格子：2\n魔耗：45",
+    "attributes": {
+      "伤害": "170",
+      "冷却": "+0.2",
+      "秒影响半径": "3.2m",
+      "占用格子": "2",
+      "魔耗": "45"
+    },
+    "effect": "每存在一秒，影响半径+12%\n基础伤害+25%",
+    "icon": "icons/萃凝水泡.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/12/t98gyv4v8ohhh29p6u0la70cw28gzuz.png/100px-023%E8%90%83%E5%87%9D%E6%B0%B4%E6%B3%A1.PNG"
+  },
+  {
+    "id": "萃凝水泡_t3",
+    "category": "法术飞弹",
+    "name": "萃凝水泡++",
+    "baseName": "萃凝水泡",
+    "tier": 3,
+    "rawAttrs": "伤害：290\n冷却：+0.2秒\n影响半径：3.5m\n占用格子：2\n魔耗：59",
+    "attributes": {
+      "伤害": "290",
+      "冷却": "+0.2秒",
+      "影响半径": "3.5m",
+      "占用格子": "2",
+      "魔耗": "59"
+    },
+    "effect": "每存在一秒，影响半径+15%，基础伤害+35%",
+    "icon": "icons/萃凝水泡.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/12/t98gyv4v8ohhh29p6u0la70cw28gzuz.png/100px-023%E8%90%83%E5%87%9D%E6%B0%B4%E6%B3%A1.PNG"
+  },
+  {
+    "id": "炽烈龙息_t1",
+    "category": "法术飞弹",
+    "name": "炽烈龙息",
+    "baseName": "炽烈龙息",
+    "tier": 1,
+    "rawAttrs": "伤害：80（秒伤），每秒+30%\n散射：60°\n魔耗：30",
+    "attributes": {
+      "伤害": "80（秒伤），每秒+30%",
+      "散射": "60°",
+      "魔耗": "30"
+    },
+    "effect": "持续施法\n魔耗：持续时间×16\n持续时间：3秒",
+    "icon": "icons/炽烈龙息.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2b/tcmlp2sdg9i0z28g3fdb0maqmrsdfy2.png/100px-024%E7%82%BD%E7%83%88%E9%BE%99%E6%81%AF.PNG"
+  },
+  {
+    "id": "炽烈龙息_t2",
+    "category": "法术飞弹",
+    "name": "炽烈龙息+",
+    "baseName": "炽烈龙息",
+    "tier": 2,
+    "rawAttrs": "伤害： 160(秒伤),每秒+40%\n散射：60°\n魔耗：30",
+    "attributes": {
+      "伤害": "160(秒伤),每秒+40%",
+      "散射": "60°",
+      "魔耗": "30"
+    },
+    "effect": "持续施法\n魔耗：持续时间×22\n持续时间：3秒",
+    "icon": "icons/炽烈龙息.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2b/tcmlp2sdg9i0z28g3fdb0maqmrsdfy2.png/100px-024%E7%82%BD%E7%83%88%E9%BE%99%E6%81%AF.PNG"
+  },
+  {
+    "id": "炽烈龙息_t3",
+    "category": "法术飞弹",
+    "name": "炽烈龙息++",
+    "baseName": "炽烈龙息",
+    "tier": 3,
+    "rawAttrs": "伤害：320 (秒伤)，每秒+50%\n散射：60°\n魔耗：30",
+    "attributes": {
+      "伤害": "320 (秒伤)，每秒+50%",
+      "散射": "60°",
+      "魔耗": "30"
+    },
+    "effect": "持续施法\n魔耗：持续时间×28\n持续时间：3秒",
+    "icon": "icons/炽烈龙息.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2b/tcmlp2sdg9i0z28g3fdb0maqmrsdfy2.png/100px-024%E7%82%BD%E7%83%88%E9%BE%99%E6%81%AF.PNG"
+  },
+  {
+    "id": "闪耀星矢_t1",
+    "category": "法术飞弹",
+    "name": "闪耀星矢",
+    "baseName": "闪耀星矢",
+    "tier": 1,
+    "rawAttrs": "伤害：78\n魔耗：27",
+    "attributes": {
+      "伤害": "78",
+      "魔耗": "27"
+    },
+    "effect": "蓄力施法，蓄力期间每秒暴击率+25%\n暴击率超过33%时最终伤害×150%",
+    "icon": "icons/闪耀星矢.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/68/7z98kp6d4epb9p9nr2o8fcob4qnr939.png/100px-025%E9%97%AA%E8%80%80%E6%98%9F%E7%9F%A2.PNG"
+  },
+  {
+    "id": "闪耀星矢_t2",
+    "category": "法术飞弹",
+    "name": "闪耀星矢+",
+    "baseName": "闪耀星矢",
+    "tier": 2,
+    "rawAttrs": "伤害： 148\n魔耗：35",
+    "attributes": {
+      "伤害": "148",
+      "魔耗": "35"
+    },
+    "effect": "蓄力施法，蓄力期间每秒暴击率+25%\n暴击率超过66%时最终伤害×170%",
+    "icon": "icons/闪耀星矢.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/68/7z98kp6d4epb9p9nr2o8fcob4qnr939.png/100px-025%E9%97%AA%E8%80%80%E6%98%9F%E7%9F%A2.PNG"
+  },
+  {
+    "id": "闪耀星矢_t3",
+    "category": "法术飞弹",
+    "name": "闪耀星矢++",
+    "baseName": "闪耀星矢",
+    "tier": 3,
+    "rawAttrs": "伤害：281\n魔耗：46",
+    "attributes": {
+      "伤害": "281",
+      "魔耗": "46"
+    },
+    "effect": "蓄力施法，蓄力期间每秒暴击率+25%\n暴击率超过100%时最终伤害×200%",
+    "icon": "icons/闪耀星矢.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/68/7z98kp6d4epb9p9nr2o8fcob4qnr939.png/100px-025%E9%97%AA%E8%80%80%E6%98%9F%E7%9F%A2.PNG"
+  },
+  {
+    "id": "超新星_t1",
+    "category": "法术飞弹",
+    "name": "超新星",
+    "baseName": "超新星",
+    "tier": 1,
+    "rawAttrs": "伤害：140（全图）\n魔耗：102",
+    "attributes": {
+      "伤害": "140（全图）",
+      "魔耗": "102"
+    },
+    "effect": "蓄力施法，蓄力期间每秒基础伤害+50%\n蓄力最多为6秒",
+    "icon": "icons/超新星.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/87/pltm8ihve9gcpp78w62g72cblaeilh0.png/100px-026%E8%B6%85%E6%96%B0%E6%98%9F.PNG"
+  },
+  {
+    "id": "黄老饼的箭头_t1",
+    "category": "法术飞弹",
+    "name": "黄老饼的箭头",
+    "baseName": "黄老饼的箭头",
+    "tier": 1,
+    "rawAttrs": "伤害：11\n魔耗：4",
+    "attributes": {
+      "伤害": "11",
+      "魔耗": "4"
+    },
+    "effect": "每施放50次黄老饼的箭头后，下次释施放会变为4个威力巨大的大箭头",
+    "icon": "icons/黄老饼的箭头.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f7/toxofwv9g0mc9ko705wtp1thol6k6g7.png/100px-027%E9%BB%84%E8%80%81%E9%A5%BC%E7%9A%84%E7%AE%AD%E5%A4%B4.PNG"
+  },
+  {
+    "id": "黄老饼的箭头_t2",
+    "category": "法术飞弹",
+    "name": "黄老饼的箭头+",
+    "baseName": "黄老饼的箭头",
+    "tier": 2,
+    "rawAttrs": "伤害： 20\n魔耗：5",
+    "attributes": {
+      "伤害": "20",
+      "魔耗": "5"
+    },
+    "effect": "每施放50次黄老饼的箭头后，下次释施放会变为6个威力巨大的大箭头",
+    "icon": "icons/黄老饼的箭头.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f7/toxofwv9g0mc9ko705wtp1thol6k6g7.png/100px-027%E9%BB%84%E8%80%81%E9%A5%BC%E7%9A%84%E7%AE%AD%E5%A4%B4.PNG"
+  },
+  {
+    "id": "黄老饼的箭头_t3",
+    "category": "法术飞弹",
+    "name": "黄老饼的箭头++",
+    "baseName": "黄老饼的箭头",
+    "tier": 3,
+    "rawAttrs": "伤害：36\n魔耗：7",
+    "attributes": {
+      "伤害": "36",
+      "魔耗": "7"
+    },
+    "effect": "每施放50次黄老饼的箭头后，下次释施放会变为10个威力巨大的大箭头",
+    "icon": "icons/黄老饼的箭头.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f7/toxofwv9g0mc9ko705wtp1thol6k6g7.png/100px-027%E9%BB%84%E8%80%81%E9%A5%BC%E7%9A%84%E7%AE%AD%E5%A4%B4.PNG"
+  },
+  {
+    "id": "次元行者_t1",
+    "category": "法术飞弹",
+    "name": "次元行者",
+    "baseName": "次元行者",
+    "tier": 1,
+    "rawAttrs": "伤害：80\n影响半径：1.2m\n魔耗：40",
+    "attributes": {
+      "伤害": "80",
+      "影响半径": "1.2m",
+      "魔耗": "40"
+    },
+    "effect": "施放时消耗所有剩余魔法值，每1点魔法值转化为2点基础伤害以及0.01秒持续时间\n飞弹穿越屏幕时将会从屏幕另一侧飞出",
+    "icon": "icons/次元行者.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/db/jg3g6fjor0gemia400kbo208z5nldlr.png/100px-028%E6%AC%A1%E5%85%83%E8%A1%8C%E8%80%85.PNG"
+  },
+  {
+    "id": "次元行者_t2",
+    "category": "法术飞弹",
+    "name": "次元行者+",
+    "baseName": "次元行者",
+    "tier": 2,
+    "rawAttrs": "伤害： 160\n影响半径：1.2m\n魔耗：52",
+    "attributes": {
+      "伤害": "160",
+      "影响半径": "1.2m",
+      "魔耗": "52"
+    },
+    "effect": "施放时消耗所有剩余魔法值，每1点魔法值转化为4点基础伤害以及0.01秒持续时间\n飞弹穿越屏幕时将会从屏幕另一侧飞出",
+    "icon": "icons/次元行者.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/db/jg3g6fjor0gemia400kbo208z5nldlr.png/100px-028%E6%AC%A1%E5%85%83%E8%A1%8C%E8%80%85.PNG"
+  },
+  {
+    "id": "次元行者_t3",
+    "category": "法术飞弹",
+    "name": "次元行者++",
+    "baseName": "次元行者",
+    "tier": 3,
+    "rawAttrs": "伤害：320\n影响半径：1.2m\n魔耗：68",
+    "attributes": {
+      "伤害": "320",
+      "影响半径": "1.2m",
+      "魔耗": "68"
+    },
+    "effect": "施放时消耗所有剩余魔法值，每1点魔法值转化为8点基础伤害以及0.01秒持续时间\n飞弹穿越屏幕时将会从屏幕另一侧飞出",
+    "icon": "icons/次元行者.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/db/jg3g6fjor0gemia400kbo208z5nldlr.png/100px-028%E6%AC%A1%E5%85%83%E8%A1%8C%E8%80%85.PNG"
+  },
+  {
+    "id": "啵啵_t1",
+    "category": "法术召唤",
+    "name": "啵啵",
+    "baseName": "啵啵",
+    "tier": 1,
+    "rawAttrs": "召唤上限：5生命值：25伤害：6魔耗：36",
+    "attributes": {
+      "召唤上限": "5生命值：25伤害：6魔耗：36"
+    },
+    "effect": "",
+    "icon": "icons/啵啵.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/35/84r63cddob7x1i2xa53yyatbgh2gukv.png/100px-030%E5%95%B5%E5%95%B5.PNG"
+  },
+  {
+    "id": "啵啵_t2",
+    "category": "法术召唤",
+    "name": "啵啵+",
+    "baseName": "啵啵",
+    "tier": 2,
+    "rawAttrs": "召唤上限： 5生命值：40伤害： 12魔耗：48",
+    "attributes": {
+      "召唤上限": "5生命值：40伤害： 12魔耗：48"
+    },
+    "effect": "",
+    "icon": "icons/啵啵.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/35/84r63cddob7x1i2xa53yyatbgh2gukv.png/100px-030%E5%95%B5%E5%95%B5.PNG"
+  },
+  {
+    "id": "啵啵_t3",
+    "category": "法术召唤",
+    "name": "啵啵++",
+    "baseName": "啵啵",
+    "tier": 3,
+    "rawAttrs": "召唤上限：5生命值：64伤害：24魔耗：62",
+    "attributes": {
+      "召唤上限": "5生命值：64伤害：24魔耗：62"
+    },
+    "effect": "",
+    "icon": "icons/啵啵.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/35/84r63cddob7x1i2xa53yyatbgh2gukv.png/100px-030%E5%95%B5%E5%95%B5.PNG"
+  },
+  {
+    "id": "克总之颅_t1",
+    "category": "法术召唤",
+    "name": "克总之颅",
+    "baseName": "克总之颅",
+    "tier": 1,
+    "rawAttrs": "召唤上限：1生命值：140伤害：16（秒伤）暴击率：40%影响半径：2.2m魔耗：50",
+    "attributes": {
+      "召唤上限": "1生命值：140伤害：16（秒伤）暴击率：40%影响半径：2.2m魔耗：50"
+    },
+    "effect": "",
+    "icon": "icons/克总之颅.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/42/7h3wrpl7nym4mptar9ez9cn7qtrdy12.png/100px-031%E5%85%8B%E6%80%BB%E4%B9%8B%E9%A2%85.PNG"
+  },
+  {
+    "id": "克总之颅_t2",
+    "category": "法术召唤",
+    "name": "克总之颅+",
+    "baseName": "克总之颅",
+    "tier": 2,
+    "rawAttrs": "召唤上限： 1生命值：210伤害： 20(秒伤)暴击率： 40%影响半径： 2.4m魔耗：80",
+    "attributes": {
+      "召唤上限": "1生命值：210伤害： 20(秒伤)暴击率： 40%影响半径： 2.4m魔耗：80"
+    },
+    "effect": "获得法杖最大魔法值10%的秒伤",
+    "icon": "icons/克总之颅.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/42/7h3wrpl7nym4mptar9ez9cn7qtrdy12.png/100px-031%E5%85%8B%E6%80%BB%E4%B9%8B%E9%A2%85.PNG"
+  },
+  {
+    "id": "克总之颅_t3",
+    "category": "法术召唤",
+    "name": "克总之颅++",
+    "baseName": "克总之颅",
+    "tier": 3,
+    "rawAttrs": "召唤上限：1生命值：320伤害：26（秒伤）暴击率：40%影响半径：2.8m魔耗：130",
+    "attributes": {
+      "召唤上限": "1生命值：320伤害：26（秒伤）暴击率：40%影响半径：2.8m魔耗：130"
+    },
+    "effect": "获得法杖最大魔法值20%的秒伤",
+    "icon": "icons/克总之颅.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/42/7h3wrpl7nym4mptar9ez9cn7qtrdy12.png/100px-031%E5%85%8B%E6%80%BB%E4%B9%8B%E9%A2%85.PNG"
+  },
+  {
+    "id": "克总之手_t1",
+    "category": "法术召唤",
+    "name": "克总之手",
+    "baseName": "克总之手",
+    "tier": 1,
+    "rawAttrs": "生命值：19伤害：10魔耗：30",
+    "attributes": {
+      "生命值": "19伤害：10魔耗：30"
+    },
+    "effect": "持续时间：20秒",
+    "icon": "icons/克总之手.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/59/3qdc5q0noqao8mpgwwonrp32igsicl1.png/100px-032%E5%85%8B%E6%80%BB%E4%B9%8B%E6%89%8B.PNG"
+  },
+  {
+    "id": "克总之手_t2",
+    "category": "法术召唤",
+    "name": "克总之手+",
+    "baseName": "克总之手",
+    "tier": 2,
+    "rawAttrs": "生命值：19伤害： 20魔耗：39",
+    "attributes": {
+      "生命值": "19伤害： 20魔耗：39"
+    },
+    "effect": "持续时间：30秒",
+    "icon": "icons/克总之手.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/59/3qdc5q0noqao8mpgwwonrp32igsicl1.png/100px-032%E5%85%8B%E6%80%BB%E4%B9%8B%E6%89%8B.PNG"
+  },
+  {
+    "id": "克总之手_t3",
+    "category": "法术召唤",
+    "name": "克总之手++",
+    "baseName": "克总之手",
+    "tier": 3,
+    "rawAttrs": "生命值：19伤害：40魔耗：47",
+    "attributes": {
+      "生命值": "19伤害：40魔耗：47"
+    },
+    "effect": "持续时间：40秒",
+    "icon": "icons/克总之手.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/59/3qdc5q0noqao8mpgwwonrp32igsicl1.png/100px-032%E5%85%8B%E6%80%BB%E4%B9%8B%E6%89%8B.PNG"
+  },
+  {
+    "id": "光之柱_t1",
+    "category": "法术召唤",
+    "name": "光之柱",
+    "baseName": "光之柱",
+    "tier": 1,
+    "rawAttrs": "召唤上限：24生命值：30施法数量：3魔耗：40",
+    "attributes": {
+      "召唤上限": "24生命值：30施法数量：3魔耗：40"
+    },
+    "effect": "",
+    "icon": "icons/光之柱.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0e/rv5qr57xg9dk4yvtpcu1q1urp26eie6.png/100px-033%E5%85%89%E4%B9%8B%E6%9F%B1.PNG"
+  },
+  {
+    "id": "光之柱_t2",
+    "category": "法术召唤",
+    "name": "光之柱+",
+    "baseName": "光之柱",
+    "tier": 2,
+    "rawAttrs": "召唤上限： 24生命值：30施法数量： 4魔耗：52",
+    "attributes": {
+      "召唤上限": "24生命值：30施法数量： 4魔耗：52"
+    },
+    "effect": "对碰到的敌人，造成光之柱生命上限40%的伤害",
+    "icon": "icons/光之柱.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0e/rv5qr57xg9dk4yvtpcu1q1urp26eie6.png/100px-033%E5%85%89%E4%B9%8B%E6%9F%B1.PNG"
+  },
+  {
+    "id": "光之柱_t3",
+    "category": "法术召唤",
+    "name": "光之柱++",
+    "baseName": "光之柱",
+    "tier": 3,
+    "rawAttrs": "召唤上限：24生命值：30施法数量：6魔耗：67",
+    "attributes": {
+      "召唤上限": "24生命值：30施法数量：6魔耗：67"
+    },
+    "effect": "对碰到的敌人，造成光之柱生命上限80%的伤害",
+    "icon": "icons/光之柱.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0e/rv5qr57xg9dk4yvtpcu1q1urp26eie6.png/100px-033%E5%85%89%E4%B9%8B%E6%9F%B1.PNG"
+  },
+  {
+    "id": "自行魔导书_t1",
+    "category": "法术召唤",
+    "name": "自行魔导书",
+    "baseName": "自行魔导书",
+    "tier": 1,
+    "rawAttrs": "召唤上限：3生命值：40魔耗：40",
+    "attributes": {
+      "召唤上限": "3生命值：40魔耗：40"
+    },
+    "effect": "记录并施放右侧的首个可施放法术魔导书拥有召唤法杖50%的回魔速度",
+    "icon": "icons/自行魔导书.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f8/7qmhef45pft0jjkxpjlvxoi0p7qhiex.png/100px-034%E8%87%AA%E8%A1%8C%E9%AD%94%E5%AF%BC%E4%B9%A6.PNG"
+  },
+  {
+    "id": "自行魔导书_t2",
+    "category": "法术召唤",
+    "name": "自行魔导书+",
+    "baseName": "自行魔导书",
+    "tier": 2,
+    "rawAttrs": "召唤上限： 3生命值：65魔耗：50",
+    "attributes": {
+      "召唤上限": "3生命值：65魔耗：50"
+    },
+    "effect": "记录并施放右侧的首个可施放法术魔导书拥有召唤法杖75%的回魔速度",
+    "icon": "icons/自行魔导书.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f8/7qmhef45pft0jjkxpjlvxoi0p7qhiex.png/100px-034%E8%87%AA%E8%A1%8C%E9%AD%94%E5%AF%BC%E4%B9%A6.PNG"
+  },
+  {
+    "id": "自行魔导书_t3",
+    "category": "法术召唤",
+    "name": "自行魔导书++",
+    "baseName": "自行魔导书",
+    "tier": 3,
+    "rawAttrs": "召唤上限：3生命值：100魔耗：60",
+    "attributes": {
+      "召唤上限": "3生命值：100魔耗：60"
+    },
+    "effect": "记录并施放右侧的首个可施放法术魔导书拥有召唤法杖110%的回魔速度",
+    "icon": "icons/自行魔导书.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f8/7qmhef45pft0jjkxpjlvxoi0p7qhiex.png/100px-034%E8%87%AA%E8%A1%8C%E9%AD%94%E5%AF%BC%E4%B9%A6.PNG"
+  },
+  {
+    "id": "自爆虫巢_t1",
+    "category": "法术召唤",
+    "name": "自爆虫巢",
+    "baseName": "自爆虫巢",
+    "tier": 1,
+    "rawAttrs": "召唤上限：2生命值：60伤害：22影响半径：0.5m魔耗：60",
+    "attributes": {
+      "召唤上限": "2生命值：60伤害：22影响半径：0.5m魔耗：60"
+    },
+    "effect": "每1.2秒受到生命上限6%的伤害受到伤害时会召唤1只自爆虫，自爆虫的生命为虫巢最大生命值的30%死亡时会召唤6只自爆虫",
+    "icon": "icons/自爆虫巢.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/17/lxx3gv3ug2fn9e5a7uvqh06k10wifca.png/100px-035%E8%87%AA%E7%88%86%E8%99%AB%E5%B7%A2.PNG"
+  },
+  {
+    "id": "自爆虫巢_t2",
+    "category": "法术召唤",
+    "name": "自爆虫巢+",
+    "baseName": "自爆虫巢",
+    "tier": 2,
+    "rawAttrs": "召唤上限： 2生命值：90伤害： 22影响半径：0.5m魔耗：78",
+    "attributes": {
+      "召唤上限": "2生命值：90伤害： 22影响半径：0.5m魔耗：78"
+    },
+    "effect": "每1.2秒受到生命上限6%的伤害受到伤害时会召唤2只自爆虫，自爆虫的生命为虫巢最大生命值的30%死亡时会召唤12只自爆虫",
+    "icon": "icons/自爆虫巢.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/17/lxx3gv3ug2fn9e5a7uvqh06k10wifca.png/100px-035%E8%87%AA%E7%88%86%E8%99%AB%E5%B7%A2.PNG"
+  },
+  {
+    "id": "自爆虫巢_t3",
+    "category": "法术召唤",
+    "name": "自爆虫巢++",
+    "baseName": "自爆虫巢",
+    "tier": 3,
+    "rawAttrs": "召唤上限：2生命值：135伤害：22影响半径：0.5m魔耗：102",
+    "attributes": {
+      "召唤上限": "2生命值：135伤害：22影响半径：0.5m魔耗：102"
+    },
+    "effect": "每1.2秒受到生命上限6%的伤害受到伤害时会召唤4只自爆虫，自爆虫的生命为虫巢最大生命值的30%死亡时会召唤24只自爆虫",
+    "icon": "icons/自爆虫巢.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/17/lxx3gv3ug2fn9e5a7uvqh06k10wifca.png/100px-035%E8%87%AA%E7%88%86%E8%99%AB%E5%B7%A2.PNG"
+  },
+  {
+    "id": "齐射_t1",
+    "category": "法术增强",
+    "name": "齐射",
+    "baseName": "齐射",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖同时施放法术数量+2同时施法时每多一个可施放法术，魔耗×78%，散射+10°",
+    "icon": "icons/齐射.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e9/5ftrm2zpcr34y4em9px546zj2kkdnk2.png/100px-036%E9%BD%90%E5%B0%84.PNG"
+  },
+  {
+    "id": "齐射_t2",
+    "category": "法术增强",
+    "name": "齐射+",
+    "baseName": "齐射",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖同时施放法术数量+3同时施法时每多一个可施放法术，魔耗×73%，散射+15°",
+    "icon": "icons/齐射.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e9/5ftrm2zpcr34y4em9px546zj2kkdnk2.png/100px-036%E9%BD%90%E5%B0%84.PNG"
+  },
+  {
+    "id": "齐射_t3",
+    "category": "法术增强",
+    "name": "齐射++",
+    "baseName": "齐射",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖同时施放法术数量+4同时施法时每多一个可施放法术，魔耗×68%，散射+20°",
+    "icon": "icons/齐射.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e9/5ftrm2zpcr34y4em9px546zj2kkdnk2.png/100px-036%E9%BD%90%E5%B0%84.PNG"
+  },
+  {
+    "id": "多重施法_t1",
+    "category": "法术增强",
+    "name": "多重施法",
+    "baseName": "多重施法",
+    "tier": 1,
+    "rawAttrs": "魔耗：×150%",
+    "attributes": {
+      "魔耗": "×150%"
+    },
+    "effect": "法术会额外施放1次",
+    "icon": "icons/多重施法.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d1/rs9ft8wwfbcbgtrn995d0a3on4k28rk.png/100px-037%E5%A4%9A%E9%87%8D%E6%96%BD%E6%B3%95.PNG"
+  },
+  {
+    "id": "多重施法_t2",
+    "category": "法术增强",
+    "name": "多重施法+",
+    "baseName": "多重施法",
+    "tier": 2,
+    "rawAttrs": "魔耗：×150%",
+    "attributes": {
+      "魔耗": "×150%"
+    },
+    "effect": "法术会额外施放2次",
+    "icon": "icons/多重施法.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d1/rs9ft8wwfbcbgtrn995d0a3on4k28rk.png/100px-037%E5%A4%9A%E9%87%8D%E6%96%BD%E6%B3%95.PNG"
+  },
+  {
+    "id": "多重施法_t3",
+    "category": "法术增强",
+    "name": "多重施法++",
+    "baseName": "多重施法",
+    "tier": 3,
+    "rawAttrs": "魔耗：×150%",
+    "attributes": {
+      "魔耗": "×150%"
+    },
+    "effect": "法术会额外施放4次",
+    "icon": "icons/多重施法.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d1/rs9ft8wwfbcbgtrn995d0a3on4k28rk.png/100px-037%E5%A4%9A%E9%87%8D%E6%96%BD%E6%B3%95.PNG"
+  },
+  {
+    "id": "超载散射_t1",
+    "category": "法术增强",
+    "name": "超载散射",
+    "baseName": "超载散射",
+    "tier": 1,
+    "rawAttrs": "冷却：-0.15秒散射：+60°",
+    "attributes": {
+      "冷却": "-0.15秒散射：+60°"
+    },
+    "effect": "法杖同时施放法术数量+5",
+    "icon": "icons/超载散射.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/4b/3gruwbds90yph44tp116gwwhtixue4r.png/100px-038%E8%B6%85%E8%BD%BD%E6%95%A3%E5%B0%84.PNG"
+  },
+  {
+    "id": "超载散射_t2",
+    "category": "法术增强",
+    "name": "超载散射+",
+    "baseName": "超载散射",
+    "tier": 2,
+    "rawAttrs": "冷却： -0.25秒散射：+90°",
+    "attributes": {
+      "冷却": "-0.25秒散射：+90°"
+    },
+    "effect": "法杖同时施放法术数量+8",
+    "icon": "icons/超载散射.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/4b/3gruwbds90yph44tp116gwwhtixue4r.png/100px-038%E8%B6%85%E8%BD%BD%E6%95%A3%E5%B0%84.PNG"
+  },
+  {
+    "id": "超载散射_t3",
+    "category": "法术增强",
+    "name": "超载散射++",
+    "baseName": "超载散射",
+    "tier": 3,
+    "rawAttrs": "冷却：-0.4秒散射：+150°",
+    "attributes": {
+      "冷却": "-0.4秒散射：+150°"
+    },
+    "effect": "法杖同时施放法术数量+12",
+    "icon": "icons/超载散射.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/4b/3gruwbds90yph44tp116gwwhtixue4r.png/100px-038%E8%B6%85%E8%BD%BD%E6%95%A3%E5%B0%84.PNG"
+  },
+  {
+    "id": "粘液晶石_t1",
+    "category": "法术增强",
+    "name": "粘液晶石",
+    "baseName": "粘液晶石",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术命中单位后使其在3秒内移动速度×60%且施放的法术飞行速度×70%",
+    "icon": "icons/粘液晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/35/orwolrechxsgyheysrxp1xxuu5l8ne0.png/100px-039%E7%B2%98%E6%B6%B2%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "粘液晶石_t2",
+    "category": "法术增强",
+    "name": "粘液晶石+",
+    "baseName": "粘液晶石",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术命中单位后使其在4秒内移动速度×45%且施放的法术飞行速度×50%",
+    "icon": "icons/粘液晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/35/orwolrechxsgyheysrxp1xxuu5l8ne0.png/100px-039%E7%B2%98%E6%B6%B2%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "粘液晶石_t3",
+    "category": "法术增强",
+    "name": "粘液晶石++",
+    "baseName": "粘液晶石",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术命中单位后使其在5秒内移动速度×30%且施放的法术飞行速度×30%",
+    "icon": "icons/粘液晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/35/orwolrechxsgyheysrxp1xxuu5l8ne0.png/100px-039%E7%B2%98%E6%B6%B2%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "毒液晶石_t1",
+    "category": "法术增强",
+    "name": "毒液晶石",
+    "baseName": "毒液晶石",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术命中单位后使其叠加1层中毒并在3秒内每秒受到中毒层数的伤害",
+    "icon": "icons/毒液晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d3/imyuqaxfclg10p0spsmh25ss39zq6yn.png/100px-040%E6%AF%92%E6%B6%B2%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "毒液晶石_t2",
+    "category": "法术增强",
+    "name": "毒液晶石+",
+    "baseName": "毒液晶石",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术命中单位后使其叠加2层中毒并在4秒内每秒受到中毒层数的伤害",
+    "icon": "icons/毒液晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d3/imyuqaxfclg10p0spsmh25ss39zq6yn.png/100px-040%E6%AF%92%E6%B6%B2%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "毒液晶石_t3",
+    "category": "法术增强",
+    "name": "毒液晶石++",
+    "baseName": "毒液晶石",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术命中单位后使其叠加4层中毒并在5秒内每秒受到中毒层数的伤害",
+    "icon": "icons/毒液晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d3/imyuqaxfclg10p0spsmh25ss39zq6yn.png/100px-040%E6%AF%92%E6%B6%B2%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "穿透_t1",
+    "category": "法术增强",
+    "name": "穿透",
+    "baseName": "穿透",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术穿透+1",
+    "icon": "icons/穿透.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2c/e81ee862wggmulpnt3vc4lsdp1e9diy.png/100px-041%E7%A9%BF%E9%80%8F.PNG"
+  },
+  {
+    "id": "穿透_t2",
+    "category": "法术增强",
+    "name": "穿透+",
+    "baseName": "穿透",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术穿透+2",
+    "icon": "icons/穿透.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2c/e81ee862wggmulpnt3vc4lsdp1e9diy.png/100px-041%E7%A9%BF%E9%80%8F.PNG"
+  },
+  {
+    "id": "穿透_t3",
+    "category": "法术增强",
+    "name": "穿透++",
+    "baseName": "穿透",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术穿透+4",
+    "icon": "icons/穿透.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2c/e81ee862wggmulpnt3vc4lsdp1e9diy.png/100px-041%E7%A9%BF%E9%80%8F.PNG"
+  },
+  {
+    "id": "闪电链_t1",
+    "category": "法术增强",
+    "name": "闪电链",
+    "baseName": "闪电链",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "链接上一个施放的法术并对路径上的物体造成12点伤害",
+    "icon": "icons/闪电链.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3f/3o089ogg2957qvndkvgoa0a3x2vrafv.png/100px-042%E9%97%AA%E7%94%B5%E9%93%BE.PNG"
+  },
+  {
+    "id": "闪电链_t2",
+    "category": "法术增强",
+    "name": "闪电链+",
+    "baseName": "闪电链",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "链接上一个施放的法术并对路径上的物体造成24点伤害",
+    "icon": "icons/闪电链.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3f/3o089ogg2957qvndkvgoa0a3x2vrafv.png/100px-042%E9%97%AA%E7%94%B5%E9%93%BE.PNG"
+  },
+  {
+    "id": "闪电链_t3",
+    "category": "法术增强",
+    "name": "闪电链++",
+    "baseName": "闪电链",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "链接上一个施放的法术并对路径上的物体造成48点伤害",
+    "icon": "icons/闪电链.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3f/3o089ogg2957qvndkvgoa0a3x2vrafv.png/100px-042%E9%97%AA%E7%94%B5%E9%93%BE.PNG"
+  },
+  {
+    "id": "悬停_t1",
+    "category": "法术增强",
+    "name": "悬停",
+    "baseName": "悬停",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术结束时会在原地悬停2秒",
+    "icon": "icons/悬停.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/40/2l18qetu19czy5vsg3b4xji4snljh4n.png/100px-043%E6%82%AC%E5%81%9C.PNG"
+  },
+  {
+    "id": "悬停_t2",
+    "category": "法术增强",
+    "name": "悬停+",
+    "baseName": "悬停",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术结束时会在原地悬停3秒",
+    "icon": "icons/悬停.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/40/2l18qetu19czy5vsg3b4xji4snljh4n.png/100px-043%E6%82%AC%E5%81%9C.PNG"
+  },
+  {
+    "id": "悬停_t3",
+    "category": "法术增强",
+    "name": "悬停++",
+    "baseName": "悬停",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术结束时会在原地悬停5秒",
+    "icon": "icons/悬停.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/40/2l18qetu19czy5vsg3b4xji4snljh4n.png/100px-043%E6%82%AC%E5%81%9C.PNG"
+  },
+  {
+    "id": "公转_t1",
+    "category": "法术增强",
+    "name": "公转",
+    "baseName": "公转",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术围绕施法者公转，并可以穿墙\\公转弹道的法术持续时间+4秒公转影响半径3米",
+    "icon": "icons/公转.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/43/1n8atak7ice2u5of6lh3vf8eyl31yo6.png/100px-044%E5%85%AC%E8%BD%AC.PNG"
+  },
+  {
+    "id": "公转_t2",
+    "category": "法术增强",
+    "name": "公转+",
+    "baseName": "公转",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术围绕施法者公转，并可以穿墙\\公转弹道的法术持续时间+7秒，法术飞行速度+5公转影响半径4米",
+    "icon": "icons/公转.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/43/1n8atak7ice2u5of6lh3vf8eyl31yo6.png/100px-044%E5%85%AC%E8%BD%AC.PNG"
+  },
+  {
+    "id": "公转_t3",
+    "category": "法术增强",
+    "name": "公转++",
+    "baseName": "公转",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术围绕施法者公转，并可以穿墙公转弹道的法术持续时间+11秒，法术飞行速度+10公转影响半径5米",
+    "icon": "icons/公转.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/43/1n8atak7ice2u5of6lh3vf8eyl31yo6.png/100px-044%E5%85%AC%E8%BD%AC.PNG"
+  },
+  {
+    "id": "寻踪_t1",
+    "category": "法术增强",
+    "name": "寻踪",
+    "baseName": "寻踪",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术飞行速度+1法术持续时间+1秒法术现在会追踪你的鼠标/摇杆方向",
+    "icon": "icons/寻踪.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/da/180np2j2rxtthbfvamw36ntqdojegiy.png/100px-045%E5%AF%BB%E8%B8%AA.PNG"
+  },
+  {
+    "id": "寻踪_t2",
+    "category": "法术增强",
+    "name": "寻踪+",
+    "baseName": "寻踪",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术飞行速度+2法术持续时间+2秒法术现在会追踪你的鼠标摇杆方向",
+    "icon": "icons/寻踪.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/da/180np2j2rxtthbfvamw36ntqdojegiy.png/100px-045%E5%AF%BB%E8%B8%AA.PNG"
+  },
+  {
+    "id": "寻踪_t3",
+    "category": "法术增强",
+    "name": "寻踪++",
+    "baseName": "寻踪",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术飞行速度+4法术持续时间+4秒法术现在会追踪你的鼠标摇杆方向",
+    "icon": "icons/寻踪.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/da/180np2j2rxtthbfvamw36ntqdojegiy.png/100px-045%E5%AF%BB%E8%B8%AA.PNG"
+  },
+  {
+    "id": "自动导航_t1",
+    "category": "法术增强",
+    "name": "自动导航",
+    "baseName": "自动导航",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术以12°每米的角速度跟踪目标",
+    "icon": "icons/自动导航.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/96/mj0p6dgk9agydmv039ahjji5ut8fzey.png/100px-046%E8%87%AA%E5%8A%A8%E5%AF%BC%E8%88%AA.PNG"
+  },
+  {
+    "id": "自动导航_t2",
+    "category": "法术增强",
+    "name": "自动导航+",
+    "baseName": "自动导航",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术以22°每米的角速度跟踪目标",
+    "icon": "icons/自动导航.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/96/mj0p6dgk9agydmv039ahjji5ut8fzey.png/100px-046%E8%87%AA%E5%8A%A8%E5%AF%BC%E8%88%AA.PNG"
+  },
+  {
+    "id": "自动导航_t3",
+    "category": "法术增强",
+    "name": "自动导航++",
+    "baseName": "自动导航",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术以38°每米的角速度跟踪目标",
+    "icon": "icons/自动导航.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/96/mj0p6dgk9agydmv039ahjji5ut8fzey.png/100px-046%E8%87%AA%E5%8A%A8%E5%AF%BC%E8%88%AA.PNG"
+  },
+  {
+    "id": "反弹_t1",
+    "category": "法术增强",
+    "name": "反弹",
+    "baseName": "反弹",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术反弹次数+2每次反弹持续时间+1秒",
+    "icon": "icons/反弹.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c6/dd8ggfpkejkicklh83dfy64jeep5a4y.png/100px-047%E5%8F%8D%E5%BC%B9.PNG"
+  },
+  {
+    "id": "反弹_t2",
+    "category": "法术增强",
+    "name": "反弹+",
+    "baseName": "反弹",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术反弹次数+4每次反弹持续时间+1秒",
+    "icon": "icons/反弹.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c6/dd8ggfpkejkicklh83dfy64jeep5a4y.png/100px-047%E5%8F%8D%E5%BC%B9.PNG"
+  },
+  {
+    "id": "反弹_t3",
+    "category": "法术增强",
+    "name": "反弹++",
+    "baseName": "反弹",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术反弹次数+8每次反弹持续时间+1秒",
+    "icon": "icons/反弹.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c6/dd8ggfpkejkicklh83dfy64jeep5a4y.png/100px-047%E5%8F%8D%E5%BC%B9.PNG"
+  },
+  {
+    "id": "分裂_t1",
+    "category": "法术增强",
+    "name": "分裂",
+    "baseName": "分裂",
+    "tier": 1,
+    "rawAttrs": "魔耗：×150%",
+    "attributes": {
+      "魔耗": "×150%"
+    },
+    "effect": "法术结束时会分裂成3个伤害×33%的法术",
+    "icon": "icons/分裂.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/95/h7jw4j5pyuacg564gj4ouq254flddy5.png/100px-048%E5%88%86%E8%A3%82.PNG"
+  },
+  {
+    "id": "分裂_t2",
+    "category": "法术增强",
+    "name": "分裂+",
+    "baseName": "分裂",
+    "tier": 2,
+    "rawAttrs": "魔耗：×150%",
+    "attributes": {
+      "魔耗": "×150%"
+    },
+    "effect": "法术结束时会分裂成5个伤害×33%的法术",
+    "icon": "icons/分裂.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/95/h7jw4j5pyuacg564gj4ouq254flddy5.png/100px-048%E5%88%86%E8%A3%82.PNG"
+  },
+  {
+    "id": "分裂_t3",
+    "category": "法术增强",
+    "name": "分裂++",
+    "baseName": "分裂",
+    "tier": 3,
+    "rawAttrs": "魔耗：×150%",
+    "attributes": {
+      "魔耗": "×150%"
+    },
+    "effect": "法术结束时会分裂成8个伤害×33%的法术",
+    "icon": "icons/分裂.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/95/h7jw4j5pyuacg564gj4ouq254flddy5.png/100px-048%E5%88%86%E8%A3%82.PNG"
+  },
+  {
+    "id": "寒霜晶石_t1",
+    "category": "法术增强",
+    "name": "寒霜晶石",
+    "baseName": "寒霜晶石",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术命中单位后使其冰冻1.5秒",
+    "icon": "icons/寒霜晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/77/jgwpi2w610a1g7jv2fejdj27wdrehej.png/100px-049%E5%AF%92%E9%9C%9C%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "寒霜晶石_t2",
+    "category": "法术增强",
+    "name": "寒霜晶石+",
+    "baseName": "寒霜晶石",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术命中单位后使其冰冻3秒",
+    "icon": "icons/寒霜晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/77/jgwpi2w610a1g7jv2fejdj27wdrehej.png/100px-049%E5%AF%92%E9%9C%9C%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "寒霜晶石_t3",
+    "category": "法术增强",
+    "name": "寒霜晶石++",
+    "baseName": "寒霜晶石",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术命中单位后使其冰冻6秒",
+    "icon": "icons/寒霜晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/77/jgwpi2w610a1g7jv2fejdj27wdrehej.png/100px-049%E5%AF%92%E9%9C%9C%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "寄生虫_t1",
+    "category": "法术增强",
+    "name": "寄生虫",
+    "baseName": "寄生虫",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物攻速移速+30%，每秒损失2点生命召唤物死亡后生成2只寄生虫",
+    "icon": "icons/寄生虫.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d7/k8a64vylfw2turg2ogb0w10gxf3nxte.png/100px-050%E5%AF%84%E7%94%9F%E8%99%AB.PNG"
+  },
+  {
+    "id": "寄生虫_t2",
+    "category": "法术增强",
+    "name": "寄生虫+",
+    "baseName": "寄生虫",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物攻速移速+50%，每秒损失4点生命召唤物死亡后生成3只寄生虫",
+    "icon": "icons/寄生虫.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d7/k8a64vylfw2turg2ogb0w10gxf3nxte.png/100px-050%E5%AF%84%E7%94%9F%E8%99%AB.PNG"
+  },
+  {
+    "id": "寄生虫_t3",
+    "category": "法术增强",
+    "name": "寄生虫++",
+    "baseName": "寄生虫",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物攻速移速+80%，每秒损失8点生命召唤物死亡后生成5只寄生虫",
+    "icon": "icons/寄生虫.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d7/k8a64vylfw2turg2ogb0w10gxf3nxte.png/100px-050%E5%AF%84%E7%94%9F%E8%99%AB.PNG"
+  },
+  {
+    "id": "雷霆晶石_t1",
+    "category": "法术增强",
+    "name": "雷霆晶石",
+    "baseName": "雷霆晶石",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术结束时15%的概率会对2.2米影响半径内的敌人造成200%的额外伤害",
+    "icon": "icons/雷霆晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/85/72lgxb2y51ael72uph18odjnmgbhctb.png/100px-051%E9%9B%B7%E9%9C%86%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "雷霆晶石_t2",
+    "category": "法术增强",
+    "name": "雷霆晶石+",
+    "baseName": "雷霆晶石",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术结束时20%的概率会对2.4米影响半径内的敌人造成270%的额外伤害",
+    "icon": "icons/雷霆晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/85/72lgxb2y51ael72uph18odjnmgbhctb.png/100px-051%E9%9B%B7%E9%9C%86%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "雷霆晶石_t3",
+    "category": "法术增强",
+    "name": "雷霆晶石++",
+    "baseName": "雷霆晶石",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术结束时30%的概率会对2.8米影响半径内的敌人造成320%的额外伤害",
+    "icon": "icons/雷霆晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/85/72lgxb2y51ael72uph18odjnmgbhctb.png/100px-051%E9%9B%B7%E9%9C%86%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "伤害强化_t1",
+    "category": "法术增强",
+    "name": "伤害强化",
+    "baseName": "伤害强化",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术伤害+25%",
+    "icon": "icons/伤害强化.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c8/2sddhem1ljba5m249xwmunni47iljnv.png/100px-052%E4%BC%A4%E5%AE%B3%E5%BC%BA%E5%8C%96.PNG"
+  },
+  {
+    "id": "伤害强化_t2",
+    "category": "法术增强",
+    "name": "伤害强化+",
+    "baseName": "伤害强化",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术伤害+50%",
+    "icon": "icons/伤害强化.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c8/2sddhem1ljba5m249xwmunni47iljnv.png/100px-052%E4%BC%A4%E5%AE%B3%E5%BC%BA%E5%8C%96.PNG"
+  },
+  {
+    "id": "伤害强化_t3",
+    "category": "法术增强",
+    "name": "伤害强化++",
+    "baseName": "伤害强化",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术伤害+100%",
+    "icon": "icons/伤害强化.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c8/2sddhem1ljba5m249xwmunni47iljnv.png/100px-052%E4%BC%A4%E5%AE%B3%E5%BC%BA%E5%8C%96.PNG"
+  },
+  {
+    "id": "时长强化_t1",
+    "category": "法术增强",
+    "name": "时长强化",
+    "baseName": "时长强化",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术持续时间+2秒",
+    "icon": "icons/时长强化.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/54/tjexsvkvnp7qxi7vq37l2qnvgdtyksd.png/100px-053%E6%97%B6%E9%95%BF%E5%BC%BA%E5%8C%96.PNG"
+  },
+  {
+    "id": "时长强化_t2",
+    "category": "法术增强",
+    "name": "时长强化+",
+    "baseName": "时长强化",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术持续时间+3.5秒",
+    "icon": "icons/时长强化.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/54/tjexsvkvnp7qxi7vq37l2qnvgdtyksd.png/100px-053%E6%97%B6%E9%95%BF%E5%BC%BA%E5%8C%96.PNG"
+  },
+  {
+    "id": "时长强化_t3",
+    "category": "法术增强",
+    "name": "时长强化++",
+    "baseName": "时长强化",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术持续时间+6秒",
+    "icon": "icons/时长强化.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/54/tjexsvkvnp7qxi7vq37l2qnvgdtyksd.png/100px-053%E6%97%B6%E9%95%BF%E5%BC%BA%E5%8C%96.PNG"
+  },
+  {
+    "id": "节能模式_t1",
+    "category": "法术增强",
+    "name": "节能模式",
+    "baseName": "节能模式",
+    "tier": 1,
+    "rawAttrs": "魔耗：×60%",
+    "attributes": {
+      "魔耗": "×60%"
+    },
+    "effect": "法术持续时间 ×75% 法术伤害 ×75%",
+    "icon": "icons/节能模式.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/37/9dhzctqxv4vptnmvw64j1159h7qqngi.png/100px-054%E8%8A%82%E8%83%BD%E6%A8%A1%E5%BC%8F.PNG"
+  },
+  {
+    "id": "节能模式_t2",
+    "category": "法术增强",
+    "name": "节能模式+",
+    "baseName": "节能模式",
+    "tier": 2,
+    "rawAttrs": "魔耗：×50%",
+    "attributes": {
+      "魔耗": "×50%"
+    },
+    "effect": "法术持续时间 ×75%法术伤害 ×75%",
+    "icon": "icons/节能模式.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/37/9dhzctqxv4vptnmvw64j1159h7qqngi.png/100px-054%E8%8A%82%E8%83%BD%E6%A8%A1%E5%BC%8F.PNG"
+  },
+  {
+    "id": "节能模式_t3",
+    "category": "法术增强",
+    "name": "节能模式++",
+    "baseName": "节能模式",
+    "tier": 3,
+    "rawAttrs": "魔耗：×40%",
+    "attributes": {
+      "魔耗": "×40%"
+    },
+    "effect": "法术持续时间 ×80% 法术伤害 ×80%",
+    "icon": "icons/节能模式.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/37/9dhzctqxv4vptnmvw64j1159h7qqngi.png/100px-054%E8%8A%82%E8%83%BD%E6%A8%A1%E5%BC%8F.PNG"
+  },
+  {
+    "id": "精准施法_t1",
+    "category": "法术增强",
+    "name": "精准施法",
+    "baseName": "精准施法",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "暴击率：+10%散射：-30°",
+    "icon": "icons/精准施法.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2b/6fusmuj5ofjda7x6cg69cma93v229ni.png/100px-055%E7%B2%BE%E5%87%86%E6%96%BD%E6%B3%95.PNG"
+  },
+  {
+    "id": "精准施法_t2",
+    "category": "法术增强",
+    "name": "精准施法+",
+    "baseName": "精准施法",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "暴击率：+20%散射：-60°",
+    "icon": "icons/精准施法.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2b/6fusmuj5ofjda7x6cg69cma93v229ni.png/100px-055%E7%B2%BE%E5%87%86%E6%96%BD%E6%B3%95.PNG"
+  },
+  {
+    "id": "精准施法_t3",
+    "category": "法术增强",
+    "name": "精准施法++",
+    "baseName": "精准施法",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "暴击率：+40%散射：-100°",
+    "icon": "icons/精准施法.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2b/6fusmuj5ofjda7x6cg69cma93v229ni.png/100px-055%E7%B2%BE%E5%87%86%E6%96%BD%E6%B3%95.PNG"
+  },
+  {
+    "id": "加速器_t1",
+    "category": "法术增强",
+    "name": "加速器",
+    "baseName": "加速器",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术飞行速度+3",
+    "icon": "icons/加速器.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/55/bg9vdh6idpifqkjdqyo8cmboj1c6wpd.png/100px-056%E5%8A%A0%E9%80%9F%E5%99%A8.PNG"
+  },
+  {
+    "id": "加速器_t2",
+    "category": "法术增强",
+    "name": "加速器+",
+    "baseName": "加速器",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术飞行速度+6",
+    "icon": "icons/加速器.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/55/bg9vdh6idpifqkjdqyo8cmboj1c6wpd.png/100px-056%E5%8A%A0%E9%80%9F%E5%99%A8.PNG"
+  },
+  {
+    "id": "加速器_t3",
+    "category": "法术增强",
+    "name": "加速器++",
+    "baseName": "加速器",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术飞行速度+12",
+    "icon": "icons/加速器.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/55/bg9vdh6idpifqkjdqyo8cmboj1c6wpd.png/100px-056%E5%8A%A0%E9%80%9F%E5%99%A8.PNG"
+  },
+  {
+    "id": "范围增强_t1",
+    "category": "法术增强",
+    "name": "范围增强",
+    "baseName": "范围增强",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术影响半径+30%",
+    "icon": "icons/范围增强.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/12/iapwp329s6oqus90deilmp5tdsfzkrc.png/100px-057%E8%8C%83%E5%9B%B4%E5%A2%9E%E5%BC%BA.PNG"
+  },
+  {
+    "id": "范围增强_t2",
+    "category": "法术增强",
+    "name": "范围增强+",
+    "baseName": "范围增强",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术影响半径+60%",
+    "icon": "icons/范围增强.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/12/iapwp329s6oqus90deilmp5tdsfzkrc.png/100px-057%E8%8C%83%E5%9B%B4%E5%A2%9E%E5%BC%BA.PNG"
+  },
+  {
+    "id": "范围增强_t3",
+    "category": "法术增强",
+    "name": "范围增强++",
+    "baseName": "范围增强",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术影响半径+120%",
+    "icon": "icons/范围增强.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/12/iapwp329s6oqus90deilmp5tdsfzkrc.png/100px-057%E8%8C%83%E5%9B%B4%E5%A2%9E%E5%BC%BA.PNG"
+  },
+  {
+    "id": "巨魔血清_t1",
+    "category": "法术增强",
+    "name": "巨魔血清",
+    "baseName": "巨魔血清",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物+40%的生命召唤物生命恢复+2.5/秒",
+    "icon": "icons/巨魔血清.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0d/tnqow3v4yz1nhr1mry1quo22jeyl98t.png/100px-058%E5%B7%A8%E9%AD%94%E8%A1%80%E6%B8%85.PNG"
+  },
+  {
+    "id": "巨魔血清_t2",
+    "category": "法术增强",
+    "name": "巨魔血清+",
+    "baseName": "巨魔血清",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物+80%的生命召唤物生命恢复+5/秒",
+    "icon": "icons/巨魔血清.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0d/tnqow3v4yz1nhr1mry1quo22jeyl98t.png/100px-058%E5%B7%A8%E9%AD%94%E8%A1%80%E6%B8%85.PNG"
+  },
+  {
+    "id": "巨魔血清_t3",
+    "category": "法术增强",
+    "name": "巨魔血清++",
+    "baseName": "巨魔血清",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物+160%的生命召唤物生命恢复+10/秒",
+    "icon": "icons/巨魔血清.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0d/tnqow3v4yz1nhr1mry1quo22jeyl98t.png/100px-058%E5%B7%A8%E9%AD%94%E8%A1%80%E6%B8%85.PNG"
+  },
+  {
+    "id": "拟态魔方_t1",
+    "category": "法术增强",
+    "name": "拟态魔方",
+    "baseName": "拟态魔方",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "模仿右侧的首个法术，最高复制1级效果",
+    "icon": "icons/拟态魔方.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d4/9l1jb6wa9ln9lby5vnde8peyaqzdm3z.png/100px-059%E6%8B%9F%E6%80%81%E9%AD%94%E6%96%B9.PNG"
+  },
+  {
+    "id": "拟态魔方_t2",
+    "category": "法术增强",
+    "name": "拟态魔方+",
+    "baseName": "拟态魔方",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "模仿右侧的首个法术，最高复制2级效果",
+    "icon": "icons/拟态魔方.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d4/9l1jb6wa9ln9lby5vnde8peyaqzdm3z.png/100px-059%E6%8B%9F%E6%80%81%E9%AD%94%E6%96%B9.PNG"
+  },
+  {
+    "id": "拟态魔方_t3",
+    "category": "法术增强",
+    "name": "拟态魔方++",
+    "baseName": "拟态魔方",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "模仿右侧的首个法术",
+    "icon": "icons/拟态魔方.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d4/9l1jb6wa9ln9lby5vnde8peyaqzdm3z.png/100px-059%E6%8B%9F%E6%80%81%E9%AD%94%E6%96%B9.PNG"
+  },
+  {
+    "id": "脐带_t1",
+    "category": "法术增强",
+    "name": "脐带",
+    "baseName": "脐带",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "链接召唤物并对路径上的敌人造成25点秒伤",
+    "icon": "icons/脐带.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3f/56po2gwixapn1j2l2ph4b6j1rvo99oq.png/100px-060%E8%84%90%E5%B8%A6.PNG"
+  },
+  {
+    "id": "脐带_t2",
+    "category": "法术增强",
+    "name": "脐带+",
+    "baseName": "脐带",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "链接召唤物并对路径上的敌人造成50点秒伤",
+    "icon": "icons/脐带.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3f/56po2gwixapn1j2l2ph4b6j1rvo99oq.png/100px-060%E8%84%90%E5%B8%A6.PNG"
+  },
+  {
+    "id": "脐带_t3",
+    "category": "法术增强",
+    "name": "脐带++",
+    "baseName": "脐带",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "链接召唤物并对路径上的敌人造成100点秒伤",
+    "icon": "icons/脐带.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3f/56po2gwixapn1j2l2ph4b6j1rvo99oq.png/100px-060%E8%84%90%E5%B8%A6.PNG"
+  },
+  {
+    "id": "炽焰晶石_t1",
+    "category": "法术增强",
+    "name": "炽焰晶石",
+    "baseName": "炽焰晶石",
+    "tier": 1,
+    "rawAttrs": "占用格子：2",
+    "attributes": {
+      "占用格子": "2"
+    },
+    "effect": "法术伤害+100%法术命中单位后使其在3秒内每秒受到最大生命5%的伤害(首领0.5%）",
+    "icon": "icons/炽焰晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/7b/5o2310asfbupehc9wy0zltc1p2hew0a.png/100px-061%E7%82%BD%E7%84%B0%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "强力牵引_t1",
+    "category": "法术增强",
+    "name": "强力牵引",
+    "baseName": "强力牵引",
+    "tier": 1,
+    "rawAttrs": "暴击率：+5%",
+    "attributes": {
+      "暴击率": "+5%"
+    },
+    "effect": "法术暴击时，随机牵引7米半径内的1名其他敌人并造成等额伤害",
+    "icon": "icons/强力牵引.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/33/m8fhqc2xvgi0zu96cpnmtcx3u9v19cq.png/100px-062%E5%BC%BA%E5%8A%9B%E7%89%B5%E5%BC%95.PNG"
+  },
+  {
+    "id": "强力牵引_t2",
+    "category": "法术增强",
+    "name": "强力牵引+",
+    "baseName": "强力牵引",
+    "tier": 2,
+    "rawAttrs": "暴击率：+5%",
+    "attributes": {
+      "暴击率": "+5%"
+    },
+    "effect": "法术暴击时，随机牵引8米半径内的2名其他敌人并造成等额伤害",
+    "icon": "icons/强力牵引.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/33/m8fhqc2xvgi0zu96cpnmtcx3u9v19cq.png/100px-062%E5%BC%BA%E5%8A%9B%E7%89%B5%E5%BC%95.PNG"
+  },
+  {
+    "id": "强力牵引_t3",
+    "category": "法术增强",
+    "name": "强力牵引++",
+    "baseName": "强力牵引",
+    "tier": 3,
+    "rawAttrs": "暴击率：+5%",
+    "attributes": {
+      "暴击率": "+5%"
+    },
+    "effect": "法术暴击时，随机牵引9米半径内的4名其他敌人并造成等额伤害",
+    "icon": "icons/强力牵引.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/33/m8fhqc2xvgi0zu96cpnmtcx3u9v19cq.png/100px-062%E5%BC%BA%E5%8A%9B%E7%89%B5%E5%BC%95.PNG"
+  },
+  {
+    "id": "聚爆_t1",
+    "category": "法术增强",
+    "name": "聚爆",
+    "baseName": "聚爆",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术最终影响半径×50%法术影响半径每减少1米，最终伤害+100%",
+    "icon": "icons/聚爆.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/5e/n37qymy1hfjz9bvq6pqdbcq00hhsobl.png/100px-063%E8%81%9A%E7%88%86.PNG"
+  },
+  {
+    "id": "自我追踪_t1",
+    "category": "法术增强",
+    "name": "自我追踪",
+    "baseName": "自我追踪",
+    "tier": 1,
+    "rawAttrs": "法术格子：+1",
+    "attributes": {
+      "法术格子": "+1"
+    },
+    "effect": "法术以30°每米的角速度跟踪施法者",
+    "icon": "icons/自我追踪.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e8/70xugxv6s87sgsjkc6q7tdxtoqq3kad.png/100px-064%E8%87%AA%E6%88%91%E8%BF%BD%E8%B8%AA.PNG"
+  },
+  {
+    "id": "融合召唤_t1",
+    "category": "法术增强",
+    "name": "融合召唤",
+    "baseName": "融合召唤",
+    "tier": 1,
+    "rawAttrs": "占用格子：2",
+    "attributes": {
+      "占用格子": "2"
+    },
+    "effect": "将场上两个相同的召唤物融合为新的召唤物新召唤物属性+100%融合次数上限：1",
+    "icon": "icons/融合召唤.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/ff/by7p2we7crnx1urpaqg3uvfzljcrs8d.png/100px-065%E8%9E%8D%E5%90%88%E5%8F%AC%E5%94%A4.PNG"
+  },
+  {
+    "id": "结束传送_t1",
+    "category": "法术增强",
+    "name": "结束传送",
+    "baseName": "结束传送",
+    "tier": 1,
+    "rawAttrs": "法术格子：+1",
+    "attributes": {
+      "法术格子": "+1"
+    },
+    "effect": "法术结束时将施法者传送到当前位置",
+    "icon": "icons/结束传送.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e2/hksnk7kqp4llq44k2i75lq7rhtym6td.png/100px-066%E7%BB%93%E6%9D%9F%E4%BC%A0%E9%80%81.PNG"
+  },
+  {
+    "id": "自由公转_t1",
+    "category": "法术增强",
+    "name": "自由公转",
+    "baseName": "自由公转",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术持续时间+3秒法术会围绕施法者旋转但半径随机",
+    "icon": "icons/自由公转.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/9a/eagbqn7rz9lonysgr6i59lf8xp5mtej.png/100px-067%E8%87%AA%E7%94%B1%E5%85%AC%E8%BD%AC.PNG"
+  },
+  {
+    "id": "尸爆术_t1",
+    "category": "法术增强",
+    "name": "尸爆术",
+    "baseName": "尸爆术",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物生命上限×80%召唤物生命低于50%会直接死亡召唤物死亡时会对2.5米半径内的敌人造成当前生命100%的伤害",
+    "icon": "icons/尸爆术.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/dc/4lvec8pemuas9gtd488grgs2pnrgysc.png/100px-068%E5%B0%B8%E7%88%86%E6%9C%AF.PNG"
+  },
+  {
+    "id": "尸爆术_t2",
+    "category": "法术增强",
+    "name": "尸爆术+",
+    "baseName": "尸爆术",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物生命上限×80%召唤物生命低于50%会直接死亡召唤物死亡时会对2.7米半径内的敌人造成当前生命200%的伤害",
+    "icon": "icons/尸爆术.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/dc/4lvec8pemuas9gtd488grgs2pnrgysc.png/100px-068%E5%B0%B8%E7%88%86%E6%9C%AF.PNG"
+  },
+  {
+    "id": "尸爆术_t3",
+    "category": "法术增强",
+    "name": "尸爆术++",
+    "baseName": "尸爆术",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物生命上限×80%召唤物生命低于50%会直接死亡召唤物死亡时会对3米半径内的敌人造成当前生命400%的伤害",
+    "icon": "icons/尸爆术.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/dc/4lvec8pemuas9gtd488grgs2pnrgysc.png/100px-068%E5%B0%B8%E7%88%86%E6%9C%AF.PNG"
+  },
+  {
+    "id": "坠落_t1",
+    "category": "法术增强",
+    "name": "坠落",
+    "baseName": "坠落",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术将从天而降，触地时对周围1米内目标造成伤害",
+    "icon": "icons/坠落.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/fc/fodvpsilvbkrgi2j6x607vsxum1kphp.png/100px-069%E5%9D%A0%E8%90%BD.PNG"
+  },
+  {
+    "id": "坠落_t2",
+    "category": "法术增强",
+    "name": "坠落+",
+    "baseName": "坠落",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术将从天而降，触地时对周围1.5米内目标造成伤害",
+    "icon": "icons/坠落.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/fc/fodvpsilvbkrgi2j6x607vsxum1kphp.png/100px-069%E5%9D%A0%E8%90%BD.PNG"
+  },
+  {
+    "id": "坠落_t3",
+    "category": "法术增强",
+    "name": "坠落++",
+    "baseName": "坠落",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术将从天而降，触地时对周围2.3米内目标造成伤害",
+    "icon": "icons/坠落.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/fc/fodvpsilvbkrgi2j6x607vsxum1kphp.png/100px-069%E5%9D%A0%E8%90%BD.PNG"
+  },
+  {
+    "id": "精魄_t1",
+    "category": "法术增强",
+    "name": "精魄",
+    "baseName": "精魄",
+    "tier": 1,
+    "rawAttrs": "占用格子：2",
+    "attributes": {
+      "占用格子": "2"
+    },
+    "effect": "召唤物解锁新的能力提升召唤物新能力的效果",
+    "icon": "icons/精魄.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/5f/s5eztjlwys36pvc6bckbxzcyup95y26.png/100px-070%E7%B2%BE%E9%AD%84.PNG"
+  },
+  {
+    "id": "精魄_t2",
+    "category": "法术增强",
+    "name": "精魄+",
+    "baseName": "精魄",
+    "tier": 2,
+    "rawAttrs": "占用格子：2",
+    "attributes": {
+      "占用格子": "2"
+    },
+    "effect": "召唤物解锁新的能力大幅度提升召唤物新能力的效果",
+    "icon": "icons/精魄.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/5f/s5eztjlwys36pvc6bckbxzcyup95y26.png/100px-070%E7%B2%BE%E9%AD%84.PNG"
+  },
+  {
+    "id": "精魄_t3",
+    "category": "法术增强",
+    "name": "精魄++",
+    "baseName": "精魄",
+    "tier": 3,
+    "rawAttrs": "占用格子：2",
+    "attributes": {
+      "占用格子": "2"
+    },
+    "effect": "召唤物解锁新的能力特大幅度提升召唤物新能力的效果",
+    "icon": "icons/精魄.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/5f/s5eztjlwys36pvc6bckbxzcyup95y26.png/100px-070%E7%B2%BE%E9%AD%84.PNG"
+  },
+  {
+    "id": "折射_t1",
+    "category": "法术增强",
+    "name": "折射",
+    "baseName": "折射",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术伤害×80%法术命中敌人时会向最近的单位折射2次",
+    "icon": "icons/折射.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0d/t5zc9aatnasdu4rougc6s9t18z4o9hr.png/100px-071%E6%8A%98%E5%B0%84.PNG"
+  },
+  {
+    "id": "折射_t2",
+    "category": "法术增强",
+    "name": "折射+",
+    "baseName": "折射",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术伤害×85%法术命中敌人时会向最近的单位折射3次",
+    "icon": "icons/折射.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0d/t5zc9aatnasdu4rougc6s9t18z4o9hr.png/100px-071%E6%8A%98%E5%B0%84.PNG"
+  },
+  {
+    "id": "折射_t3",
+    "category": "法术增强",
+    "name": "折射++",
+    "baseName": "折射",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术伤害×90%法术命中敌人时会向最近的单位折射5次",
+    "icon": "icons/折射.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0d/t5zc9aatnasdu4rougc6s9t18z4o9hr.png/100px-071%E6%8A%98%E5%B0%84.PNG"
+  },
+  {
+    "id": "不屈_t1",
+    "category": "法术增强",
+    "name": "不屈",
+    "baseName": "不屈",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物死亡时会继续战斗2秒/4秒/8秒",
+    "icon": "icons/不屈.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/85/p63kjllbyg1ffp0zmfmfquybvfblhtb.png/100px-072%E4%B8%8D%E5%B1%88.PNG"
+  },
+  {
+    "id": "不屈_t2",
+    "category": "法术增强",
+    "name": "不屈+",
+    "baseName": "不屈",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物死亡时会继续战斗4秒",
+    "icon": "icons/不屈.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/85/p63kjllbyg1ffp0zmfmfquybvfblhtb.png/100px-072%E4%B8%8D%E5%B1%88.PNG"
+  },
+  {
+    "id": "不屈_t3",
+    "category": "法术增强",
+    "name": "不屈++",
+    "baseName": "不屈",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物死亡时会继续战斗8秒",
+    "icon": "icons/不屈.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/85/p63kjllbyg1ffp0zmfmfquybvfblhtb.png/100px-072%E4%B8%8D%E5%B1%88.PNG"
+  },
+  {
+    "id": "过载_t1",
+    "category": "法术增强",
+    "name": "过载",
+    "baseName": "过载",
+    "tier": 1,
+    "rawAttrs": "魔耗：×120%",
+    "attributes": {
+      "魔耗": "×120%"
+    },
+    "effect": "法术伤害+50%",
+    "icon": "icons/过载.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/54/ozn7ribguwcfi6u9bq1lpt5mh64q160.png/100px-073%E8%BF%87%E8%BD%BD.PNG"
+  },
+  {
+    "id": "过载_t2",
+    "category": "法术增强",
+    "name": "过载+",
+    "baseName": "过载",
+    "tier": 2,
+    "rawAttrs": "魔耗：×125%",
+    "attributes": {
+      "魔耗": "×125%"
+    },
+    "effect": "法术伤害+100%",
+    "icon": "icons/过载.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/54/ozn7ribguwcfi6u9bq1lpt5mh64q160.png/100px-073%E8%BF%87%E8%BD%BD.PNG"
+  },
+  {
+    "id": "过载_t3",
+    "category": "法术增强",
+    "name": "过载++",
+    "baseName": "过载",
+    "tier": 3,
+    "rawAttrs": "魔耗：×130%",
+    "attributes": {
+      "魔耗": "×130%"
+    },
+    "effect": "法术伤害+200%",
+    "icon": "icons/过载.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/54/ozn7ribguwcfi6u9bq1lpt5mh64q160.png/100px-073%E8%BF%87%E8%BD%BD.PNG"
+  },
+  {
+    "id": "虚胖法术_t1",
+    "category": "法术增强",
+    "name": "虚胖法术",
+    "baseName": "虚胖法术",
+    "tier": 1,
+    "rawAttrs": "法术格子：+1",
+    "attributes": {
+      "法术格子": "+1"
+    },
+    "effect": "法术体积+150%",
+    "icon": "icons/虚胖法术.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/30/kcmfibygubjriajqxzks1kz1rjj6mlt.png/100px-074%E8%99%9A%E8%83%96%E6%B3%95%E6%9C%AF.PNG"
+  },
+  {
+    "id": "反向施法_t1",
+    "category": "法术增强",
+    "name": "反向施法",
+    "baseName": "反向施法",
+    "tier": 1,
+    "rawAttrs": "法术格子：+1",
+    "attributes": {
+      "法术格子": "+1"
+    },
+    "effect": "反向施法反向施放的法术飞行速度+4",
+    "icon": "icons/反向施法.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/12/pjlaj395k3lzebrkv8a2revmputrcrg.png/100px-075%E5%8F%8D%E5%90%91%E6%96%BD%E6%B3%95.PNG"
+  },
+  {
+    "id": "魔能升阶_t1",
+    "category": "法术增强",
+    "name": "魔能升阶",
+    "baseName": "魔能升阶",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该强化两侧的首个法术视为等级+1，提升后的等级不会超出等级上限",
+    "icon": "icons/魔能升阶.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/1a/h3tvabxzuijsnitwgr6klisqigcprlx.png/100px-076%E9%AD%94%E8%83%BD%E5%8D%87%E9%98%B6.PNG"
+  },
+  {
+    "id": "灵魂链接_t1",
+    "category": "法术增强",
+    "name": "灵魂链接",
+    "baseName": "灵魂链接",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物获得召唤者10%的生命上限召唤物有25%概率可以跟随召唤者进入下一个房间",
+    "icon": "icons/灵魂链接.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/52/8mwo4pg9iybgus4vrmknzr9honayefs.png/100px-077%E7%81%B5%E9%AD%82%E9%93%BE%E6%8E%A5.PNG"
+  },
+  {
+    "id": "灵魂链接_t2",
+    "category": "法术增强",
+    "name": "灵魂链接+",
+    "baseName": "灵魂链接",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物获得召唤者20%的生命上限\\召唤物有50%概率可以跟随召唤者进入下一个房间",
+    "icon": "icons/灵魂链接.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/52/8mwo4pg9iybgus4vrmknzr9honayefs.png/100px-077%E7%81%B5%E9%AD%82%E9%93%BE%E6%8E%A5.PNG"
+  },
+  {
+    "id": "灵魂链接_t3",
+    "category": "法术增强",
+    "name": "灵魂链接++",
+    "baseName": "灵魂链接",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "召唤物获得召唤者40%的生命上限召唤物会跟随召唤者进入下一个房间",
+    "icon": "icons/灵魂链接.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/52/8mwo4pg9iybgus4vrmknzr9honayefs.png/100px-077%E7%81%B5%E9%AD%82%E9%93%BE%E6%8E%A5.PNG"
+  },
+  {
+    "id": "主观缓时_t1",
+    "category": "法术增强",
+    "name": "主观缓时",
+    "baseName": "主观缓时",
+    "tier": 1,
+    "rawAttrs": "法术格子：+1",
+    "attributes": {
+      "法术格子": "+1"
+    },
+    "effect": "法术飞行速度×50%法术飞行速度每降低1，法术持续时间+0.5秒",
+    "icon": "icons/主观缓时.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/90/cuh9zatk1b24w20u7w9luc2nbqdunbi.png/100px-078%E4%B8%BB%E8%A7%82%E7%BC%93%E6%97%B6.PNG"
+  },
+  {
+    "id": "坍缩晶石_t1",
+    "category": "法术增强",
+    "name": "坍缩晶石",
+    "baseName": "坍缩晶石",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术命中单位后若其在3秒内死亡，会造成其生命上限40%的伤害均摊给5米半径内的敌人生命值低于10%的单位会直接死亡(首领5%)",
+    "icon": "icons/坍缩晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/82/ldcqfqncdja0kdq1cy08qmibrop9dm1.png/100px-079%E5%A1%8C%E7%BC%A9%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "坍缩晶石_t2",
+    "category": "法术增强",
+    "name": "坍缩晶石+",
+    "baseName": "坍缩晶石",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术命中单位后若其在3秒内死亡，会造成其生命上限80%的伤害均摊给5米半径内的敌人生命值低于20%的单位会直接死亡(首领10%)",
+    "icon": "icons/坍缩晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/82/ldcqfqncdja0kdq1cy08qmibrop9dm1.png/100px-079%E5%A1%8C%E7%BC%A9%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "坍缩晶石_t3",
+    "category": "法术增强",
+    "name": "坍缩晶石++",
+    "baseName": "坍缩晶石",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法术命中单位后若其在3秒内死亡，会造成其生命上限160%的伤害均摊给5米半径内的敌人生命值低于30%的单位会直接死亡(首领15%)",
+    "icon": "icons/坍缩晶石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/82/ldcqfqncdja0kdq1cy08qmibrop9dm1.png/100px-079%E5%A1%8C%E7%BC%A9%E6%99%B6%E7%9F%B3.PNG"
+  },
+  {
+    "id": "半途传送_t1",
+    "category": "法术增强",
+    "name": "半途传送",
+    "baseName": "半途传送",
+    "tier": 1,
+    "rawAttrs": "法术格子：+1",
+    "attributes": {
+      "法术格子": "+1"
+    },
+    "effect": "法术持续时间过半后会被传送到随机位置法术被传送后持续时间+2秒并且飞行速度+2",
+    "icon": "icons/半途传送.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/cf/kx5iltfjs77cbfsszz41z44zuu7rufx.png/100px-080%E5%8D%8A%E9%80%94%E4%BC%A0%E9%80%81.PNG"
+  },
+  {
+    "id": "二重奏_t1",
+    "category": "法术增强",
+    "name": "二重奏",
+    "baseName": "二重奏",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "左侧法术结束时施放右侧法术右侧法术继承左侧法术的30%伤害",
+    "icon": "icons/二重奏.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e9/kc3jyunuvl9m0bn5fvec43ild03nai6.png/100px-081%E4%BA%8C%E9%87%8D%E5%A5%8F.PNG"
+  },
+  {
+    "id": "二重奏_t2",
+    "category": "法术增强",
+    "name": "二重奏+",
+    "baseName": "二重奏",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "左侧法术结束时施放右侧法术右侧法术继承左侧法术的60%伤害",
+    "icon": "icons/二重奏.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e9/kc3jyunuvl9m0bn5fvec43ild03nai6.png/100px-081%E4%BA%8C%E9%87%8D%E5%A5%8F.PNG"
+  },
+  {
+    "id": "二重奏_t3",
+    "category": "法术增强",
+    "name": "二重奏++",
+    "baseName": "二重奏",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "左侧法术结束时施放右侧法术右侧法术继承左侧法术的120%伤害",
+    "icon": "icons/二重奏.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e9/kc3jyunuvl9m0bn5fvec43ild03nai6.png/100px-081%E4%BA%8C%E9%87%8D%E5%A5%8F.PNG"
+  },
+  {
+    "id": "绚丽烟火_t1",
+    "category": "法术增强",
+    "name": "绚丽烟火",
+    "baseName": "绚丽烟火",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "左侧法术结束时施放右侧法术4次被施放的法术伤害×35%",
+    "icon": "icons/绚丽烟火.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a9/bvlztyhq3tm438jfy85hx9lr2gyx4s3.png/100px-082%E7%BB%9A%E4%B8%BD%E7%83%9F%E7%81%AB.PNG"
+  },
+  {
+    "id": "绚丽烟火_t2",
+    "category": "法术增强",
+    "name": "绚丽烟火+",
+    "baseName": "绚丽烟火",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "左侧法术结束时施放右侧法术4次被施放的法术伤害×45%",
+    "icon": "icons/绚丽烟火.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a9/bvlztyhq3tm438jfy85hx9lr2gyx4s3.png/100px-082%E7%BB%9A%E4%B8%BD%E7%83%9F%E7%81%AB.PNG"
+  },
+  {
+    "id": "绚丽烟火_t3",
+    "category": "法术增强",
+    "name": "绚丽烟火++",
+    "baseName": "绚丽烟火",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "左侧法术结束时施放右侧法术4次被施放的法术伤害×60%",
+    "icon": "icons/绚丽烟火.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a9/bvlztyhq3tm438jfy85hx9lr2gyx4s3.png/100px-082%E7%BB%9A%E4%B8%BD%E7%83%9F%E7%81%AB.PNG"
+  },
+  {
+    "id": "连环_t1",
+    "category": "法术增强",
+    "name": "连环",
+    "baseName": "连环",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "左侧法术飞行途中以70%魔耗施放右侧法术",
+    "icon": "icons/连环.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/05/3dno26xijm6rqrrumvui5napm8081ns.png/100px-083%E8%BF%9E%E7%8E%AF.PNG"
+  },
+  {
+    "id": "连环_t2",
+    "category": "法术增强",
+    "name": "连环+",
+    "baseName": "连环",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "左侧法术飞行途中以55%魔耗快速施放右侧法术",
+    "icon": "icons/连环.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/05/3dno26xijm6rqrrumvui5napm8081ns.png/100px-083%E8%BF%9E%E7%8E%AF.PNG"
+  },
+  {
+    "id": "连环_t3",
+    "category": "法术增强",
+    "name": "连环++",
+    "baseName": "连环",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "左侧法术飞行途中以40%魔耗飞快施放右侧法术",
+    "icon": "icons/连环.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/05/3dno26xijm6rqrrumvui5napm8081ns.png/100px-083%E8%BF%9E%E7%8E%AF.PNG"
+  },
+  {
+    "id": "缠绕_t1",
+    "category": "法术增强",
+    "name": "缠绕",
+    "baseName": "缠绕",
+    "tier": 1,
+    "rawAttrs": "占用格子：2",
+    "attributes": {
+      "占用格子": "2"
+    },
+    "effect": "左侧法术施法时施放右侧法术3次并使其缠绕左侧法术右侧法术移动速度+3",
+    "icon": "icons/缠绕.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a1/r7lkf2az2vlmegybz00aoueajf446rf.png/100px-084%E7%BC%A0%E7%BB%95.PNG"
+  },
+  {
+    "id": "缠绕_t2",
+    "category": "法术增强",
+    "name": "缠绕+",
+    "baseName": "缠绕",
+    "tier": 2,
+    "rawAttrs": "占用格子：2",
+    "attributes": {
+      "占用格子": "2"
+    },
+    "effect": "左侧法术施法时施放右侧法术5次并使其缠绕左侧法术右侧法术移动速度+3",
+    "icon": "icons/缠绕.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a1/r7lkf2az2vlmegybz00aoueajf446rf.png/100px-084%E7%BC%A0%E7%BB%95.PNG"
+  },
+  {
+    "id": "缠绕_t3",
+    "category": "法术增强",
+    "name": "缠绕++",
+    "baseName": "缠绕",
+    "tier": 3,
+    "rawAttrs": "占用格子：2",
+    "attributes": {
+      "占用格子": "2"
+    },
+    "effect": "左侧法术施法时施放右侧法术8次并使其缠绕左侧法术右侧法术移动速度+3",
+    "icon": "icons/缠绕.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a1/r7lkf2az2vlmegybz00aoueajf446rf.png/100px-084%E7%BC%A0%E7%BB%95.PNG"
+  },
+  {
+    "id": "回响_t1",
+    "category": "法术增强",
+    "name": "回响",
+    "baseName": "回响",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "左侧法术命中敌人时以80%魔耗施放右侧法术，最快施放间隔0.3秒",
+    "icon": "icons/回响.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/7b/4h5014t685k80k9xzu43z6yq8dfwbdk.png/100px-085%E5%9B%9E%E5%93%8D.PNG"
+  },
+  {
+    "id": "回响_t2",
+    "category": "法术增强",
+    "name": "回响+",
+    "baseName": "回响",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "左侧法术命中敌人时以65%魔耗施放右侧法术，最快施放间隔0.2秒",
+    "icon": "icons/回响.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/7b/4h5014t685k80k9xzu43z6yq8dfwbdk.png/100px-085%E5%9B%9E%E5%93%8D.PNG"
+  },
+  {
+    "id": "回响_t3",
+    "category": "法术增强",
+    "name": "回响++",
+    "baseName": "回响",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "左侧法术命中敌人时以50%魔耗施放右侧法术，最快施放间隔0.1秒",
+    "icon": "icons/回响.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/7b/4h5014t685k80k9xzu43z6yq8dfwbdk.png/100px-085%E5%9B%9E%E5%93%8D.PNG"
+  },
+  {
+    "id": "储魔之匣_t1",
+    "category": "法术被动",
+    "name": "储魔之匣",
+    "baseName": "储魔之匣",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖魔法值上限+40%",
+    "icon": "icons/储魔之匣.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b7/8hyyrywugab8vbpjc05p041g172glkj.png/100px-086%E5%82%A8%E9%AD%94%E4%B9%8B%E5%8C%A3.PNG"
+  },
+  {
+    "id": "储魔之匣_t2",
+    "category": "法术被动",
+    "name": "储魔之匣+",
+    "baseName": "储魔之匣",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖魔法值上限+80%",
+    "icon": "icons/储魔之匣.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b7/8hyyrywugab8vbpjc05p041g172glkj.png/100px-086%E5%82%A8%E9%AD%94%E4%B9%8B%E5%8C%A3.PNG"
+  },
+  {
+    "id": "储魔之匣_t3",
+    "category": "法术被动",
+    "name": "储魔之匣++",
+    "baseName": "储魔之匣",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖魔法值上限+160%",
+    "icon": "icons/储魔之匣.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b7/8hyyrywugab8vbpjc05p041g172glkj.png/100px-086%E5%82%A8%E9%AD%94%E4%B9%8B%E5%8C%A3.PNG"
+  },
+  {
+    "id": "宁静之花_t1",
+    "category": "法术被动",
+    "name": "宁静之花",
+    "baseName": "宁静之花",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖回魔+4/秒",
+    "icon": "icons/宁静之花.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/99/ntatiydc7ck57trea33eya64lienjpl.png/100px-087%E5%AE%81%E9%9D%99%E4%B9%8B%E8%8A%B1.PNG"
+  },
+  {
+    "id": "宁静之花_t2",
+    "category": "法术被动",
+    "name": "宁静之花+",
+    "baseName": "宁静之花",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖回魔+8/秒",
+    "icon": "icons/宁静之花.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/99/ntatiydc7ck57trea33eya64lienjpl.png/100px-087%E5%AE%81%E9%9D%99%E4%B9%8B%E8%8A%B1.PNG"
+  },
+  {
+    "id": "宁静之花_t3",
+    "category": "法术被动",
+    "name": "宁静之花++",
+    "baseName": "宁静之花",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖回魔+16/秒",
+    "icon": "icons/宁静之花.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/99/ntatiydc7ck57trea33eya64lienjpl.png/100px-087%E5%AE%81%E9%9D%99%E4%B9%8B%E8%8A%B1.PNG"
+  },
+  {
+    "id": "蓄力模式_t1",
+    "category": "法术被动",
+    "name": "蓄力模式",
+    "baseName": "蓄力模式",
+    "tier": 1,
+    "rawAttrs": "魔耗：×90%",
+    "attributes": {
+      "魔耗": "×90%"
+    },
+    "effect": "按住施法键积累法术，最多6次",
+    "icon": "icons/蓄力模式.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/62/af66pdwe60xaw0e666dmt99rmuo5zce.png/100px-088%E8%93%84%E5%8A%9B%E6%A8%A1%E5%BC%8F.PNG"
+  },
+  {
+    "id": "蓄力模式_t2",
+    "category": "法术被动",
+    "name": "蓄力模式+",
+    "baseName": "蓄力模式",
+    "tier": 2,
+    "rawAttrs": "魔耗：×80%",
+    "attributes": {
+      "魔耗": "×80%"
+    },
+    "effect": "按住施法键积累法术，最多12次",
+    "icon": "icons/蓄力模式.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/62/af66pdwe60xaw0e666dmt99rmuo5zce.png/100px-088%E8%93%84%E5%8A%9B%E6%A8%A1%E5%BC%8F.PNG"
+  },
+  {
+    "id": "蓄力模式_t3",
+    "category": "法术被动",
+    "name": "蓄力模式++",
+    "baseName": "蓄力模式",
+    "tier": 3,
+    "rawAttrs": "魔耗：×70%",
+    "attributes": {
+      "魔耗": "×70%"
+    },
+    "effect": "按住施法键积累法术，最多24次",
+    "icon": "icons/蓄力模式.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/62/af66pdwe60xaw0e666dmt99rmuo5zce.png/100px-088%E8%93%84%E5%8A%9B%E6%A8%A1%E5%BC%8F.PNG"
+  },
+  {
+    "id": "守护杖灵_t1",
+    "category": "法术被动",
+    "name": "守护杖灵",
+    "baseName": "守护杖灵",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖将自动为你战斗法杖回魔×50%",
+    "icon": "icons/守护杖灵.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d1/ituck2zcivikzibrxlhupffm1hic1b1.png/100px-089%E5%AE%88%E6%8A%A4%E6%9D%96%E7%81%B5.PNG"
+  },
+  {
+    "id": "守护杖灵_t2",
+    "category": "法术被动",
+    "name": "守护杖灵+",
+    "baseName": "守护杖灵",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖将自动为你战斗法杖回魔×80%",
+    "icon": "icons/守护杖灵.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d1/ituck2zcivikzibrxlhupffm1hic1b1.png/100px-089%E5%AE%88%E6%8A%A4%E6%9D%96%E7%81%B5.PNG"
+  },
+  {
+    "id": "守护杖灵_t3",
+    "category": "法术被动",
+    "name": "守护杖灵++",
+    "baseName": "守护杖灵",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖将自动为你战斗法杖回魔×130%",
+    "icon": "icons/守护杖灵.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d1/ituck2zcivikzibrxlhupffm1hic1b1.png/100px-089%E5%AE%88%E6%8A%A4%E6%9D%96%E7%81%B5.PNG"
+  },
+  {
+    "id": "强制冷却_t1",
+    "category": "法术被动",
+    "name": "强制冷却",
+    "baseName": "强制冷却",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "冷却：x60%",
+    "icon": "icons/强制冷却.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/ff/k2dalyyfpz2zvx6ourhd04ac4nw45fg.png/100px-090%E5%BC%BA%E5%88%B6%E5%86%B7%E5%8D%B4.PNG"
+  },
+  {
+    "id": "强制冷却_t2",
+    "category": "法术被动",
+    "name": "强制冷却+",
+    "baseName": "强制冷却",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "冷却：×30%",
+    "icon": "icons/强制冷却.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/ff/k2dalyyfpz2zvx6ourhd04ac4nw45fg.png/100px-090%E5%BC%BA%E5%88%B6%E5%86%B7%E5%8D%B4.PNG"
+  },
+  {
+    "id": "强制冷却_t3",
+    "category": "法术被动",
+    "name": "强制冷却++",
+    "baseName": "强制冷却",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "冷却：×15%",
+    "icon": "icons/强制冷却.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/ff/k2dalyyfpz2zvx6ourhd04ac4nw45fg.png/100px-090%E5%BC%BA%E5%88%B6%E5%86%B7%E5%8D%B4.PNG"
+  },
+  {
+    "id": "扩容石_t1",
+    "category": "法术被动",
+    "name": "扩容石",
+    "baseName": "扩容石",
+    "tier": 1,
+    "rawAttrs": "法术格子：+3",
+    "attributes": {
+      "法术格子": "+3"
+    },
+    "effect": "最终伤害×75%",
+    "icon": "icons/扩容石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/4b/fchjzyy2zo1o33xpynn2afw4sz47dmi.png/100px-091%E6%89%A9%E5%AE%B9%E7%9F%B3.PNG"
+  },
+  {
+    "id": "扩容石_t2",
+    "category": "法术被动",
+    "name": "扩容石+",
+    "baseName": "扩容石",
+    "tier": 2,
+    "rawAttrs": "法术格子：+4",
+    "attributes": {
+      "法术格子": "+4"
+    },
+    "effect": "最终伤害×80%",
+    "icon": "icons/扩容石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/4b/fchjzyy2zo1o33xpynn2afw4sz47dmi.png/100px-091%E6%89%A9%E5%AE%B9%E7%9F%B3.PNG"
+  },
+  {
+    "id": "扩容石_t3",
+    "category": "法术被动",
+    "name": "扩容石++",
+    "baseName": "扩容石",
+    "tier": 3,
+    "rawAttrs": "法术格子：+6",
+    "attributes": {
+      "法术格子": "+6"
+    },
+    "effect": "最终伤害×85%",
+    "icon": "icons/扩容石.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/4b/fchjzyy2zo1o33xpynn2afw4sz47dmi.png/100px-091%E6%89%A9%E5%AE%B9%E7%9F%B3.PNG"
+  },
+  {
+    "id": "共鸣符文_t1",
+    "category": "法术被动",
+    "name": "共鸣符文",
+    "baseName": "共鸣符文",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "其他法杖施法时所在法杖有25%的概率共鸣施法，共鸣施法时有20%的概率不消耗魔法值",
+    "icon": "icons/共鸣符文.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a8/t7akjootn0fe6t6r6pc4fvn0ggak1i3.png/100px-092%E5%85%B1%E9%B8%A3%E7%AC%A6%E6%96%87.PNG"
+  },
+  {
+    "id": "共鸣符文_t2",
+    "category": "法术被动",
+    "name": "共鸣符文+",
+    "baseName": "共鸣符文",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "其他法杖施法时所在法杖有50%的概率共鸣施法，共鸣施法时有30%的概率不消耗魔法值",
+    "icon": "icons/共鸣符文.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a8/t7akjootn0fe6t6r6pc4fvn0ggak1i3.png/100px-092%E5%85%B1%E9%B8%A3%E7%AC%A6%E6%96%87.PNG"
+  },
+  {
+    "id": "共鸣符文_t3",
+    "category": "法术被动",
+    "name": "共鸣符文++",
+    "baseName": "共鸣符文",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "其他法杖施法时所在法杖有100%的概率共鸣施法，共鸣施法时有40%的概率不消耗魔法值",
+    "icon": "icons/共鸣符文.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a8/t7akjootn0fe6t6r6pc4fvn0ggak1i3.png/100px-092%E5%85%B1%E9%B8%A3%E7%AC%A6%E6%96%87.PNG"
+  },
+  {
+    "id": "广域增幅_t1",
+    "category": "法术被动",
+    "name": "广域增幅",
+    "baseName": "广域增幅",
+    "tier": 1,
+    "rawAttrs": "占用格子：4",
+    "attributes": {
+      "占用格子": "4"
+    },
+    "effect": "右侧的首个法术会作用于所有法杖，最高作用1级效果（无法作用于广域增幅）",
+    "icon": "icons/广域增幅.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/21/1luuph0w9mwhkl6qw5w9e6s8ppnerbj.png/100px-093%E5%B9%BF%E5%9F%9F%E5%A2%9E%E5%B9%85.PNG"
+  },
+  {
+    "id": "广域增幅_t2",
+    "category": "法术被动",
+    "name": "广域增幅+",
+    "baseName": "广域增幅",
+    "tier": 2,
+    "rawAttrs": "占用格子：4",
+    "attributes": {
+      "占用格子": "4"
+    },
+    "effect": "右侧的首个法术会作用于所有法杖，最高作用2级效果（无法作用于广域增幅）",
+    "icon": "icons/广域增幅.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/21/1luuph0w9mwhkl6qw5w9e6s8ppnerbj.png/100px-093%E5%B9%BF%E5%9F%9F%E5%A2%9E%E5%B9%85.PNG"
+  },
+  {
+    "id": "广域增幅_t3",
+    "category": "法术被动",
+    "name": "广域增幅++",
+    "baseName": "广域增幅",
+    "tier": 3,
+    "rawAttrs": "占用格子：4",
+    "attributes": {
+      "占用格子": "4"
+    },
+    "effect": "右侧的首个法术会作用于所有法杖（无法作用于广域增幅）",
+    "icon": "icons/广域增幅.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/21/1luuph0w9mwhkl6qw5w9e6s8ppnerbj.png/100px-093%E5%B9%BF%E5%9F%9F%E5%A2%9E%E5%B9%85.PNG"
+  },
+  {
+    "id": "均匀散射_t1",
+    "category": "法术被动",
+    "name": "均匀散射",
+    "baseName": "均匀散射",
+    "tier": 1,
+    "rawAttrs": "法术格子：+1",
+    "attributes": {
+      "法术格子": "+1"
+    },
+    "effect": "法术会均匀地散射",
+    "icon": "icons/均匀散射.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/75/te305tkqd8dad95trdxas7w5lcw3pyy.png/100px-094%E5%9D%87%E5%8C%80%E6%95%A3%E5%B0%84.PNG"
+  },
+  {
+    "id": "奥术屏障_t1",
+    "category": "法术被动",
+    "name": "奥术屏障",
+    "baseName": "奥术屏障",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "占用格子：3法杖魔法值上限+400奥术屏障可以用30点魔法值抵消1点伤害，并对半径4米内的目标造成所消耗魔法值3倍的伤害",
+    "icon": "icons/奥术屏障.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0d/bd14lrvgejrqybcluhhbz0xnmuprsm2.png/100px-095%E5%A5%A5%E6%95%B0%E5%B1%8F%E9%9A%9C.PNG"
+  },
+  {
+    "id": "符文战锤_t1",
+    "category": "法术被动",
+    "name": "符文战锤",
+    "baseName": "符文战锤",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "伤害：36持有者移速提高15%影响半径：1.5m",
+    "icon": "icons/符文战锤.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/5a/5sbpq9pha8l354g2xhchh55ugvkbg84.png/100px-096%E7%AC%A6%E6%96%87%E6%88%98%E9%94%A4.PNG"
+  },
+  {
+    "id": "符文战锤_t2",
+    "category": "法术被动",
+    "name": "符文战锤+",
+    "baseName": "符文战锤",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "伤害：72持有者移速提高30%影响半径：1.5m",
+    "icon": "icons/符文战锤.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/5a/5sbpq9pha8l354g2xhchh55ugvkbg84.png/100px-096%E7%AC%A6%E6%96%87%E6%88%98%E9%94%A4.PNG"
+  },
+  {
+    "id": "符文战锤_t3",
+    "category": "法术被动",
+    "name": "符文战锤++",
+    "baseName": "符文战锤",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "伤害：144持有者移速提高60%影响半径：1.5m",
+    "icon": "icons/符文战锤.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/5a/5sbpq9pha8l354g2xhchh55ugvkbg84.png/100px-096%E7%AC%A6%E6%96%87%E6%88%98%E9%94%A4.PNG"
+  },
+  {
+    "id": "棱镜核心_t1",
+    "category": "法术被动",
+    "name": "棱镜核心",
+    "baseName": "棱镜核心",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "伤害：命中时+ 30/秒（秒伤）魔耗：命中时+7.5/秒未命中时增幅会逐渐的降低至0",
+    "icon": "icons/棱镜核心.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/27/nqzrk3k4v7khojbasfk7hacg0b823re.png/100px-097%E6%A3%B1%E5%A2%83%E6%A0%B8%E5%BF%83.PNG"
+  },
+  {
+    "id": "棱镜核心_t2",
+    "category": "法术被动",
+    "name": "棱镜核心+",
+    "baseName": "棱镜核心",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "伤害：命中时+60/秒（秒伤）魔耗：命中时+9.5/秒未命中时增幅会逐渐的降低至0",
+    "icon": "icons/棱镜核心.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/27/nqzrk3k4v7khojbasfk7hacg0b823re.png/100px-097%E6%A3%B1%E5%A2%83%E6%A0%B8%E5%BF%83.PNG"
+  },
+  {
+    "id": "棱镜核心_t3",
+    "category": "法术被动",
+    "name": "棱镜核心++",
+    "baseName": "棱镜核心",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "伤害：命中时+120/秒（秒伤）魔耗：命中时+ 12.5/秒未命中时增幅会逐渐的降低至0",
+    "icon": "icons/棱镜核心.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/27/nqzrk3k4v7khojbasfk7hacg0b823re.png/100px-097%E6%A3%B1%E5%A2%83%E6%A0%B8%E5%BF%83.PNG"
+  },
+  {
+    "id": "破界石-移动_t1",
+    "category": "法术被动",
+    "name": "破界石-移动",
+    "baseName": "破界石-移动",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术右侧的格子转变为移动后置槽后置槽效果：每移动1米充能1.6点",
+    "icon": "icons/破界石-移动.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3d/a1tx3czyww2hfs8e80opewqp245s5be.png/100px-098%E7%A0%B4%E7%95%8C%E7%9F%B3-%E7%A7%BB%E5%8A%A8.PNG"
+  },
+  {
+    "id": "破界石-移动_t2",
+    "category": "法术被动",
+    "name": "破界石-移动+",
+    "baseName": "破界石-移动",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术右侧的格子转变为移动后置槽后置槽效果：每移动1米充能3.2点",
+    "icon": "icons/破界石-移动.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3d/a1tx3czyww2hfs8e80opewqp245s5be.png/100px-098%E7%A0%B4%E7%95%8C%E7%9F%B3-%E7%A7%BB%E5%8A%A8.PNG"
+  },
+  {
+    "id": "破界石-移动_t3",
+    "category": "法术被动",
+    "name": "破界石-移动++",
+    "baseName": "破界石-移动",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术右侧的格子转变为移动后置槽后置槽效果：每移动1米充能6.4点",
+    "icon": "icons/破界石-移动.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3d/a1tx3czyww2hfs8e80opewqp245s5be.png/100px-098%E7%A0%B4%E7%95%8C%E7%9F%B3-%E7%A7%BB%E5%8A%A8.PNG"
+  },
+  {
+    "id": "破界石-站立_t1",
+    "category": "法术被动",
+    "name": "破界石-站立",
+    "baseName": "破界石-站立",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术右侧的格子转变为站立后置槽后置槽效果：每站立1秒充能9.2点",
+    "icon": "icons/破界石-站立.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/8a/tdbmcsbpwnu89kneu0mrasjtr3hszdr.png/100px-099%E7%A0%B4%E7%95%8C%E7%9F%B3-%E7%AB%99%E7%AB%8B.PNG"
+  },
+  {
+    "id": "破界石-站立_t2",
+    "category": "法术被动",
+    "name": "破界石-站立+",
+    "baseName": "破界石-站立",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术右侧的格子转变为站立后置槽后置槽效果：每站立1秒充能18.4点",
+    "icon": "icons/破界石-站立.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/8a/tdbmcsbpwnu89kneu0mrasjtr3hszdr.png/100px-099%E7%A0%B4%E7%95%8C%E7%9F%B3-%E7%AB%99%E7%AB%8B.PNG"
+  },
+  {
+    "id": "破界石-站立_t3",
+    "category": "法术被动",
+    "name": "破界石-站立++",
+    "baseName": "破界石-站立",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术右侧的格子转变为站立后置槽后置槽效果：每站立1秒充能36.8点",
+    "icon": "icons/破界石-站立.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/8a/tdbmcsbpwnu89kneu0mrasjtr3hszdr.png/100px-099%E7%A0%B4%E7%95%8C%E7%9F%B3-%E7%AB%99%E7%AB%8B.PNG"
+  },
+  {
+    "id": "破界石-时间_t1",
+    "category": "法术被动",
+    "name": "破界石-时间",
+    "baseName": "破界石-时间",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术右侧的格子转变为时间后置槽后置槽效果：每秒自动充能6.5点",
+    "icon": "icons/破界石-时间.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/bb/n65n0rx6a324sfizu84djik6cors4o4.png/100px-100%E7%A0%B4%E7%95%8C%E7%9F%B3-%E6%97%B6%E9%97%B4.PNG"
+  },
+  {
+    "id": "破界石-时间_t2",
+    "category": "法术被动",
+    "name": "破界石-时间+",
+    "baseName": "破界石-时间",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术右侧的格子转变为时间后置槽后置槽效果：每秒自动充能13点",
+    "icon": "icons/破界石-时间.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/bb/n65n0rx6a324sfizu84djik6cors4o4.png/100px-100%E7%A0%B4%E7%95%8C%E7%9F%B3-%E6%97%B6%E9%97%B4.PNG"
+  },
+  {
+    "id": "破界石-时间_t3",
+    "category": "法术被动",
+    "name": "破界石-时间++",
+    "baseName": "破界石-时间",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术右侧的格子转变为时间后置槽后置槽效果：每秒自动充能26点",
+    "icon": "icons/破界石-时间.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/bb/n65n0rx6a324sfizu84djik6cors4o4.png/100px-100%E7%A0%B4%E7%95%8C%E7%9F%B3-%E6%97%B6%E9%97%B4.PNG"
+  },
+  {
+    "id": "破界石-施法_t1",
+    "category": "法术被动",
+    "name": "破界石-施法",
+    "baseName": "破界石-施法",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术右侧的格子转变为施法后置槽后置槽效果：此法杖每次施法充能1.9点",
+    "icon": "icons/破界石-施法.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2d/brv95wxxxgx78wmc3nah30lxjqns0ts.png/100px-101%E7%A0%B4%E7%95%8C%E7%9F%B3-%E6%96%BD%E6%B3%95.PNG"
+  },
+  {
+    "id": "破界石-施法_t2",
+    "category": "法术被动",
+    "name": "破界石-施法+",
+    "baseName": "破界石-施法",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术右侧的格子转变为施法后置槽后置槽效果：此法杖每次施法充能3.8点",
+    "icon": "icons/破界石-施法.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2d/brv95wxxxgx78wmc3nah30lxjqns0ts.png/100px-101%E7%A0%B4%E7%95%8C%E7%9F%B3-%E6%96%BD%E6%B3%95.PNG"
+  },
+  {
+    "id": "破界石-施法_t3",
+    "category": "法术被动",
+    "name": "破界石-施法++",
+    "baseName": "破界石-施法",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术右侧的格子转变为施法后置槽后置槽效果：此法杖每次施法充能7.6点",
+    "icon": "icons/破界石-施法.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2d/brv95wxxxgx78wmc3nah30lxjqns0ts.png/100px-101%E7%A0%B4%E7%95%8C%E7%9F%B3-%E6%96%BD%E6%B3%95.PNG"
+  },
+  {
+    "id": "狴犴飞剑_t1",
+    "category": "法术被动",
+    "name": "狴犴飞剑",
+    "baseName": "狴犴飞剑",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "伤害：42暴击率：20%6所在法杖每25点最大魔法值使飞剑上限+1所在法杖施法时会自动发射飞剑法术格子：+1",
+    "icon": "icons/狴犴飞剑.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2c/lmkvfzx1avag7pubwy0h5jcnrp7spqi.png/100px-102%E7%8B%B4%E7%8A%B4%E9%A3%9E%E5%89%91.PNG"
+  },
+  {
+    "id": "法术原胚_t1",
+    "category": "法术被动",
+    "name": "法术原胚",
+    "baseName": "法术原胚",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术可以视作同等级法术的合成材料",
+    "icon": "icons/法术原胚.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/76/gdodyo2g52e19f2imdnxouhihjlgr3f.png/100px-103%E6%B3%95%E6%9C%AF%E5%8E%9F%E8%83%9A.PNG"
+  },
+  {
+    "id": "法术原胚_t2",
+    "category": "法术被动",
+    "name": "法术原胚+",
+    "baseName": "法术原胚",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "该法术可以视作同等级法术的合成材料",
+    "icon": "icons/法术原胚.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/76/gdodyo2g52e19f2imdnxouhihjlgr3f.png/100px-103%E6%B3%95%E6%9C%AF%E5%8E%9F%E8%83%9A.PNG"
+  },
+  {
+    "id": "魔力藤蔓_t1",
+    "category": "法术被动",
+    "name": "魔力藤蔓",
+    "baseName": "魔力藤蔓",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "放入法杖时，会占满右侧相连的空格子每占用一个格子，法杖回魔+16%，魔法值上限+16%",
+    "icon": "icons/魔力藤蔓.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/45/iiz9b07tzff6nmam91y7npc4ybvjolb.png/100px-104%E9%AD%94%E5%8A%9B%E8%97%A4%E8%94%93.PNG"
+  },
+  {
+    "id": "魔力藤蔓_t2",
+    "category": "法术被动",
+    "name": "魔力藤蔓+",
+    "baseName": "魔力藤蔓",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "放入法杖时，会占满右侧相连的空格子每占用一个格子，法杖回魔+24%，魔法值上限+24%",
+    "icon": "icons/魔力藤蔓.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/45/iiz9b07tzff6nmam91y7npc4ybvjolb.png/100px-104%E9%AD%94%E5%8A%9B%E8%97%A4%E8%94%93.PNG"
+  },
+  {
+    "id": "魔力藤蔓_t3",
+    "category": "法术被动",
+    "name": "魔力藤蔓++",
+    "baseName": "魔力藤蔓",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "放入法杖时，会占满右侧相连的空格子每占用一个格子，法杖回魔+36%，魔法值上限+36%",
+    "icon": "icons/魔力藤蔓.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/45/iiz9b07tzff6nmam91y7npc4ybvjolb.png/100px-104%E9%AD%94%E5%8A%9B%E8%97%A4%E8%94%93.PNG"
+  },
+  {
+    "id": "远程施法_t1",
+    "category": "法术被动",
+    "name": "远程施法",
+    "baseName": "远程施法",
+    "tier": 1,
+    "rawAttrs": "法术格子：+1",
+    "attributes": {
+      "法术格子": "+1"
+    },
+    "effect": "该法杖施放的法术无视障碍物被施放的法术会从鼠标点附近朝向鼠标方向施放",
+    "icon": "icons/远程施法.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/8a/2ap6gdxyz2o14xo6voryuox9t60nvw5.png/100px-105%E8%BF%9C%E7%A8%8B%E6%96%BD%E6%B3%95.PNG"
+  },
+  {
+    "id": "魔能转化仪_t1",
+    "category": "法术被动",
+    "name": "魔能转化仪",
+    "baseName": "魔能转化仪",
+    "tier": 1,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖停止回复魔力法杖每有1点回魔后置槽充能效率+2%",
+    "icon": "icons/魔能转化仪.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c8/id569rfjqvrkhqhtoyf3wk5o9mwye1n.png/100px-106%E9%AD%94%E8%83%BD%E8%BD%AC%E5%8C%96%E4%BB%AA.PNG"
+  },
+  {
+    "id": "魔能转化仪_t2",
+    "category": "法术被动",
+    "name": "魔能转化仪+",
+    "baseName": "魔能转化仪",
+    "tier": 2,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖停止回复魔力法杖每有1点回魔后置槽充能效率+4%",
+    "icon": "icons/魔能转化仪.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c8/id569rfjqvrkhqhtoyf3wk5o9mwye1n.png/100px-106%E9%AD%94%E8%83%BD%E8%BD%AC%E5%8C%96%E4%BB%AA.PNG"
+  },
+  {
+    "id": "魔能转化仪_t3",
+    "category": "法术被动",
+    "name": "魔能转化仪++",
+    "baseName": "魔能转化仪",
+    "tier": 3,
+    "rawAttrs": "/",
+    "attributes": {},
+    "effect": "法杖停止回复魔力法杖每有1点回魔后置槽充能效率+8%",
+    "icon": "icons/魔能转化仪.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c8/id569rfjqvrkhqhtoyf3wk5o9mwye1n.png/100px-106%E9%AD%94%E8%83%BD%E8%BD%AC%E5%8C%96%E4%BB%AA.PNG"
+  }
+]

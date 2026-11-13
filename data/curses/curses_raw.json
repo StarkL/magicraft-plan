@@ -1,0 +1,362 @@
+[
+  {
+    "id": "curse_1",
+    "name": "过期资源",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/ce/9b6rvm81gx3spa3y58602iil2qhxwbm.png/100px-001%E8%BF%87%E6%9C%9F%E8%B5%84%E6%BA%90.PNG",
+    "effect": "资源类道具如果不拾取，会在10秒内消失"
+  },
+  {
+    "id": "curse_2",
+    "name": "迷雾之门",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/ee/fimj4bl4j6qssbxyuen56ansheroq2m.png/100px-002%E8%BF%B7%E9%9B%BE%E4%B9%8B%E9%97%A8.PNG",
+    "effect": "无法辨别门上的标识"
+  },
+  {
+    "id": "curse_3",
+    "name": "陷阱升级",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c9/jbp207skaub6zo7imljc2gityqjzntn.png/100px-003%E9%99%B7%E9%98%B1%E5%8D%87%E7%BA%A7.PNG",
+    "effect": "陷阱对自身和召唤物伤害提升100%"
+  },
+  {
+    "id": "curse_4",
+    "name": "嗜血爪牙",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/44/n5bowmdujotldr5phnayds85vb7gtm7.png/100px-004%E5%97%9C%E8%A1%80%E7%88%AA%E7%89%99.PNG",
+    "effect": "敌人的移动速度提升20%"
+  },
+  {
+    "id": "curse_5",
+    "name": "复仇幽魂",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/cb/r41t08wuxga1oobkqmf7x5qr463bqbp.png/100px-005%E5%A4%8D%E4%BB%87%E5%B9%BD%E9%AD%82.PNG",
+    "effect": "敌人死后有20%概率化作灵魂袭击玩家，持续6秒"
+  },
+  {
+    "id": "curse_6",
+    "name": "手忙脚乱",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/9c/2vabmx5adflft7d011n20of6ttuy8ar.png/100px-006%E6%89%8B%E5%BF%99%E8%84%9A%E4%B9%B1.PNG",
+    "effect": "受伤时失去1个金币"
+  },
+  {
+    "id": "curse_7",
+    "name": "不稳定时空",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/5d/is7vjd1flhp4y9tl2xz6cizhh63eka3.png/100px-007%E4%B8%8D%E7%A8%B3%E5%AE%9A%E6%97%B6%E7%A9%BA.PNG",
+    "effect": "受到伤害时被传送至随机地方"
+  },
+  {
+    "id": "curse_8",
+    "name": "永久性伤害",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/13/7e26klfzrl4fdw3bz7aa8xgo7z6mgpg.png/100px-008%E6%B0%B8%E4%B9%85%E6%80%A7%E4%BC%A4%E5%AE%B3.PNG",
+    "effect": "受伤有10%的概率同时失去最大生命"
+  },
+  {
+    "id": "curse_9",
+    "name": "硬直",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/6c/tek8bs263ln1epa1g0ea8hiaba0x73j.png/100px-009%E7%A1%AC%E7%9B%B4.PNG",
+    "effect": "受伤后2秒内无法攻击"
+  },
+  {
+    "id": "curse_10",
+    "name": "低纯钻石",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/6c/goces8zn6c82ccr58w3m0vjqcpml5kk.png/100px-010%E4%BD%8E%E7%BA%AF%E9%92%BB%E7%9F%B3.PNG",
+    "effect": "所有钻石都会变为金币"
+  },
+  {
+    "id": "curse_11",
+    "name": "肌肉萎缩",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/ba/hgy5zagufbji42t0ghjzlstj28xojuh.png/100px-011%E8%82%8C%E8%82%89%E8%90%8E%E7%BC%A9.PNG",
+    "effect": "移动速度-12%"
+  },
+  {
+    "id": "curse_12",
+    "name": "胆小鬼",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/95/6uzjb7rpq7fisppt5tsbso3lt7l0z5h.png/100px-012%E8%83%86%E5%B0%8F%E9%AC%BC.PNG",
+    "effect": "刚进入房间5秒内无法施法"
+  },
+  {
+    "id": "curse_13",
+    "name": "烧心",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/9a/2gy0b5fkgcugtaxu1h3f8633cuuhg59.png/100px-013%E7%83%A7%E5%BF%83.PNG",
+    "effect": "减少20%法术飞行速度"
+  },
+  {
+    "id": "curse_14",
+    "name": "孱弱",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/7e/j430xcakygu6p8w9ohk0p96b2kvglrq.png/100px-014%E5%AD%B1%E5%BC%B1.PNG",
+    "effect": "所有伤害降低10%"
+  },
+  {
+    "id": "curse_15",
+    "name": "迟缓",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/97/n3sey8d1bbel1u3s5vo38wty0illswf.png/100px-015%E8%BF%9F%E7%BC%93.PNG",
+    "effect": "法杖的施法间隔和冷却增加10%"
+  },
+  {
+    "id": "curse_16",
+    "name": "荆棘之门",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/29/h9g3tqos9e7n2wq1703hpoub2k5v4e9.png/100px-016%E8%8D%86%E6%A3%98%E4%B9%8B%E9%97%A8.PNG",
+    "effect": "每进入一扇门受到2点伤害"
+  },
+  {
+    "id": "curse_17",
+    "name": "复杂锁孔",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0e/i4pd0sq1z11l2jvsy8j86lr9300czx9.png/100px-017%E5%A4%8D%E6%9D%82%E9%94%81%E5%AD%94.PNG",
+    "effect": "现在所有上锁的地方都需要2把钥匙"
+  },
+  {
+    "id": "curse_18",
+    "name": "破洞钱袋",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/81/pd3zddj9tri3syhwidti3qwbwirszah.png/100px-018%E7%A0%B4%E6%B4%9E%E9%92%B1%E8%A2%8B.PNG",
+    "effect": "每进入一扇门遗失1个金币"
+  },
+  {
+    "id": "curse_19",
+    "name": "野蛮增殖",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/ed/izahk0z0l408q60xaw8afcf9bvmpaql.png/100px-019%E9%87%8E%E8%9B%AE%E5%A2%9E%E6%AE%96.PNG",
+    "effect": "有20%的概率刷出双倍敌人，非首领"
+  },
+  {
+    "id": "curse_20",
+    "name": "锈斑钱币",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/de/4uj1u6n26u2ib7x4q3dwxmu2wzie0tj.png/100px-020%E9%94%88%E6%96%91%E9%92%B1%E5%B8%81.PNG",
+    "effect": "拾取金币或钻石有50%的概率受到1点伤害"
+  },
+  {
+    "id": "curse_21",
+    "name": "重心前倾",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/ce/c77mysir4imc928l9w6ekkjh8p7670y.png/100px-021%E9%87%8D%E5%BF%83%E5%89%8D%E5%80%BE.PNG",
+    "effect": "法术击退变为反向的了"
+  },
+  {
+    "id": "curse_22",
+    "name": "夜盲症",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/10/gymarvoxaid9ovp8glzhhx64buek8jq.png/100px-022%E5%A4%9C%E7%9B%B2%E7%97%87.PNG",
+    "effect": "你的视野受到限制"
+  },
+  {
+    "id": "curse_23",
+    "name": "急躁",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/5/50/sjz05annj1ihvsv3vsptve63gi3zdxc.png/100px-023%E6%80%A5%E8%BA%81.PNG",
+    "effect": "失去15%的魔法恢复速度"
+  },
+  {
+    "id": "curse_24",
+    "name": "法力抑制",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2e/eoxlv1bvp4ntqjghkzbs5su2mpenhyw.png/100px-024%E6%B3%95%E5%8A%9B%E6%8A%91%E5%88%B6.PNG",
+    "effect": "失去10%的魔法上限"
+  },
+  {
+    "id": "curse_25",
+    "name": "低效施法",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/da/8koxp7yefxdjltdbr03vrew5xpzjne4.png/100px-025%E4%BD%8E%E6%95%88%E6%96%BD%E6%B3%95.PNG",
+    "effect": "魔耗 ×115%"
+  },
+  {
+    "id": "curse_26",
+    "name": "重心不稳",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/66/m1g8uxigl6k9qlbpcm3n4khhp3kjkjy.png/100px-026%E9%87%8D%E5%BF%83%E4%B8%8D%E7%A8%B3.PNG",
+    "effect": "后坐力 +100%"
+  },
+  {
+    "id": "curse_27",
+    "name": "亵渎",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/87/f4pvfgaufht79eiu8udrvgna49qv8kd.png/100px-027%E4%BA%B5%E6%B8%8E.PNG",
+    "effect": "遗物选项-1"
+  },
+  {
+    "id": "curse_28",
+    "name": "狂暴之血",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/34/eczow8vxvpzr9075i6wmdmi8ww4k7gh.png/100px-028%E7%8B%82%E6%9A%B4%E4%B9%8B%E8%A1%80.PNG",
+    "effect": "敌人的回血+6"
+  },
+  {
+    "id": "curse_29",
+    "name": "迷惘",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/84/lv5jbeapjph5sycoobmm7jo0bogiuao.png/100px-029%E8%BF%B7%E6%83%98.PNG",
+    "effect": "无法看见自己的状态及资源"
+  },
+  {
+    "id": "curse_30",
+    "name": "失语症",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b8/n17afqnqxll7cnzupbzhcpqz0032578.png/100px-030%E5%A4%B1%E8%AF%AD%E7%97%87.PNG",
+    "effect": "无法识别文字"
+  },
+  {
+    "id": "curse_31",
+    "name": "镣铐",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0a/cdelv3j1bdi72apcagyq2bn9oemc80w.png/100px-031%E9%95%A3%E9%93%90.PNG",
+    "effect": "被一个链球锁住"
+  },
+  {
+    "id": "curse_32",
+    "name": "缩水背包",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b3/4vvzjvoemw7k0lfqz464qw4gfk18y1w.png/100px-032%E7%BC%A9%E6%B0%B4%E8%83%8C%E5%8C%85.PNG",
+    "effect": "背包格子-1"
+  },
+  {
+    "id": "curse_33",
+    "name": "药水过敏",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/fa/j4e5q6kbjj7cbw210whyd2f8fov94qs.png/100px-033%E8%8D%AF%E6%B0%B4%E8%BF%87%E6%95%8F.PNG",
+    "effect": "每次使用药水血量-4"
+  },
+  {
+    "id": "curse_34",
+    "name": "追杀炸弹",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0c/9jykptpu0neomcfi6nfflr1vu55wh2c.png/100px-034%E8%BF%BD%E6%9D%80%E7%82%B8%E5%BC%B9.PNG",
+    "effect": "不定时会在身旁出现一个炸弹"
+  },
+  {
+    "id": "curse_35",
+    "name": "遗失",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/fa/lpbz0c8ixe4tavkgf053r64t5q50qd4.png/100px-035%E9%81%97%E5%A4%B1.PNG",
+    "effect": "随机移除一个遗物，该诅咒直接消失"
+  },
+  {
+    "id": "curse_36",
+    "name": "虚弱",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/79/tpt60z1g0kf3r47zpa5z82d5mqdawyf.png/100px-036%E8%99%9A%E5%BC%B1.PNG",
+    "effect": "最大生命-10"
+  },
+  {
+    "id": "curse_37",
+    "name": "死神赌约",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0a/ati03f9gagkqvwx6skjinw5vd8s1m8b.png/100px-037%E6%AD%BB%E7%A5%9E%E8%B5%8C%E7%BA%A6.PNG",
+    "effect": "有伤通关时最大生命值-5\\无伤通关时最大生命值+2"
+  },
+  {
+    "id": "curse_38",
+    "name": "旧怀表",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d6/qmz722egjgsx2lrs8tvqeltsjiyruin.png/100px-038%E6%97%A7%E6%80%80%E8%A1%A8.PNG",
+    "effect": "每隔一段时间传送回3秒前的地方"
+  },
+  {
+    "id": "curse_39",
+    "name": "法力飘散",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3a/poacsaxaosaphp86xngh89lhtphvz7w.png/100px-39%E6%B3%95%E5%8A%9B%E9%A3%98%E6%95%A3.png",
+    "effect": "进入房间时，所有法杖的当前魔法值为0"
+  },
+  {
+    "id": "curse_40",
+    "name": "软弱",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d3/1pjj6e1qlyb2wxgt3ib68ndqtrpju25.png/100px-040%E8%BD%AF%E5%BC%B1.PNG",
+    "effect": "所有伤害暴击率-10%"
+  },
+  {
+    "id": "curse_41",
+    "name": "懒散小店",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3b/lw4qgjixog5bgfyzx4shmlp6dcc5x1k.png/100px-041%E6%87%92%E6%95%A3%E5%B0%8F%E5%BA%97.PNG",
+    "effect": "商店货物-1"
+  },
+  {
+    "id": "curse_42",
+    "name": "近视",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/70/cfbl59l7w8ohidfwa1lim4z726ibxxs.png/100px-042%E8%BF%91%E8%A7%86.PNG",
+    "effect": "散射+20"
+  },
+  {
+    "id": "curse_43",
+    "name": "邋遢",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e2/dfnqpn8sf5ddqz9t0mtbun2wz00zfo9.png/100px-043%E9%82%8B%E9%81%A2.PNG",
+    "effect": "召唤物上限/2（小数部分向上取整）"
+  },
+  {
+    "id": "curse_44",
+    "name": "追杀蜗牛",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/18/igme88d7igft0qbm6zdxn5en0qev76b.png/100px-044%E8%BF%BD%E6%9D%80%E8%9C%97%E7%89%9B.PNG",
+    "effect": "一只行动缓慢的蜗牛将永远追杀你，它无法被杀死"
+  },
+  {
+    "id": "curse_45",
+    "name": "老伤",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/4c/i0bw96crv4advkkmd7fxhhumlsbj06p.png/100px-045%E8%80%81%E4%BC%A4.PNG",
+    "effect": "该诅咒无任何效果，但被移除时受到20点伤害"
+  },
+  {
+    "id": "curse_46",
+    "name": "反推力",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/6a/9fai8i56hbopyg2ggs6y7lva7jjzdl8.png/100px-046%E5%8F%8D%E6%8E%A8%E5%8A%9B.PNG",
+    "effect": "施法后坐力变为反向"
+  },
+  {
+    "id": "curse_47",
+    "name": "易伤",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/dd/h5gv21v333p66p0t2sb8kf9pyubuc1z.png/100px-047%E6%98%93%E4%BC%A4.PNG",
+    "effect": "受到的伤害+20%"
+  },
+  {
+    "id": "curse_48",
+    "name": "紧缩",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a3/pb57276wu89qjv0qzhv71c80waif8yg.png/100px-048%E7%B4%A7%E7%BC%A9.PNG",
+    "effect": "法术和遗物的影响半径-15%"
+  },
+  {
+    "id": "curse_49",
+    "name": "仇富",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/85/ii0dmq2vrc5sl3etelxczykcv2w9nmc.png/100px-049%E4%BB%87%E5%AF%8C.PNG",
+    "effect": "每拥有10枚金币，受到的伤害+1%，最高50%"
+  },
+  {
+    "id": "curse_50",
+    "name": "逆反",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/97/kr7cugcc26ktrt408c3a0fhuxcfxl9a.png/100px-050%E9%80%86%E5%8F%8D.PNG",
+    "effect": "施法反向了"
+  },
+  {
+    "id": "curse_51",
+    "name": "棘手",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/01/hrlhr8ocs1vksl1a761ao35alsw42jm.png/100px-051%E6%A3%98%E6%89%8B.PNG",
+    "effect": "敌人受到的伤害-10%"
+  },
+  {
+    "id": "curse_52",
+    "name": "神经退行",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/10/9zji8natdwlbos6n8hhnx933fsnhwjq.png/100px-052%E7%A5%9E%E7%BB%8F%E9%80%80%E8%A1%8C.PNG",
+    "effect": "施法所带来的减速更强了"
+  },
+  {
+    "id": "curse_53",
+    "name": "零摩擦力",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c0/d2zidgych5p01k8gmh6aw6ky2tuudjz.png/100px-053%E9%9B%B6%E6%91%A9%E6%93%A6%E5%8A%9B.PNG",
+    "effect": "无法停下，总会保持一个较小的移动速度"
+  },
+  {
+    "id": "curse_54",
+    "name": "顺拐",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a4/n6fb33be16yamqptswlgpz0if51pupi.png/100px-054%E9%A1%BA%E6%8B%90.PNG",
+    "effect": "只能朝着4个斜方向射击"
+  },
+  {
+    "id": "curse_55",
+    "name": "偷偷怪",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/4e/pmookvjv3ux7w13z6cs89ivg906vex4.png/100px-055%E5%81%B7%E5%81%B7%E6%80%AA.PNG",
+    "effect": "地面出现道具时，就会有偷偷怪出来偷窃"
+  },
+  {
+    "id": "curse_56",
+    "name": "拟态宝箱",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/10/dcj31wjdipl0qetwqpf77i75scw6865.png/100px-056%E6%8B%9F%E6%80%81%E5%AE%9D%E7%AE%B1.PNG",
+    "effect": "宝箱有概率张嘴！"
+  },
+  {
+    "id": "curse_57",
+    "name": "虚张声势",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0e/r8kfon8xx4l59jl2oy12p0ibeun9b32.png/100px-057%E8%99%9A%E5%BC%A0%E5%A3%B0%E5%8A%BF.PNG",
+    "effect": "生命值满时所有伤害+20%\\生命值不满时所有伤害-30%"
+  },
+  {
+    "id": "curse_58",
+    "name": "钥匙忘带了",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/36/fmlu4xm5g6bob7dq7lxcpq8gcecxxlg.png/100px-058%E9%92%A5%E5%8C%99%E5%BF%98%E5%B8%A6%E4%BA%86.PNG",
+    "effect": "失去所有钥匙，该诅咒消失"
+  },
+  {
+    "id": "curse_59",
+    "name": "瘟疫",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/bd/3l3ue4xr82o5ytsvawsc3c4w9wjazzd.png/100px-059%E7%98%9F%E7%96%AB.PNG",
+    "effect": "召唤物出场时只有1点hp"
+  },
+  {
+    "id": "curse_60",
+    "name": "难绷",
+    "iconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/1/1d/5spdhmjc3lud2jrym3drqg6o9hsaze9.png/100px-060%E9%9A%BE%E7%BB%B7.PNG",
+    "effect": "减少1个法术奖励的可选项"
+  }
+]

@@ -1,0 +1,240 @@
+window.POTIONS_DATA = [
+  {
+    "id": "potion_1",
+    "name": "随机恢复药水",
+    "effect": "随机恢复1到40点生命",
+    "icon": "potions/icons/随机恢复药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/41/q325oip5xm7jn22yimssd8si690n7je.png/100px-001%E9%9A%8F%E6%9C%BA%E6%81%A2%E5%A4%8D%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_2",
+    "name": "护盾药水",
+    "effect": "获得已损失生命等同的护盾，最多60",
+    "icon": "potions/icons/护盾药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/ff/0o4v4x8zzh5ifsm69h8soush89c14bn.png/100px-002%E6%8A%A4%E7%9B%BE%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_3",
+    "name": "灵水",
+    "effect": "随机移除一个诅咒",
+    "icon": "potions/icons/灵水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/81/30gd29eeqc4cf9iyc6x2jeti3xmb83q.png/100px-003%E7%81%B5%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_4",
+    "name": "重铸药水",
+    "effect": "重铸背包内的所有法术",
+    "icon": "potions/icons/重铸药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3d/rca8tk73cdmdq4gmdhy6c1hrbyd8i2e.png/100px-004%E9%87%8D%E9%93%B8%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_5",
+    "name": "唤醒药水",
+    "effect": "持有魔杖的魔法恢复速度提升200%，持续10秒",
+    "icon": "potions/icons/唤醒药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/81/nhvao070dldp7kwjdek2m13sog8csk7.png/100px-005%E5%94%A4%E9%86%92%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_6",
+    "name": "刷新药水",
+    "effect": "刷新所有房间售卖中的道具和门",
+    "icon": "potions/icons/刷新药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/9/9c/2sjs38wumravwtrzkr2qqru6q77rc8r.png/100px-006%E5%88%B7%E6%96%B0%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_7",
+    "name": "解锁药水",
+    "effect": "解锁当前房间所有宝箱和侧门",
+    "icon": "potions/icons/解锁药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/7/78/jq3armu8gy1x2fakevo57fa0q5lqipd.png/100px-007%E8%A7%A3%E9%94%81%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_8",
+    "name": "迈达斯药水",
+    "effect": "将房间内所有非首领敌人变为金币",
+    "icon": "potions/icons/迈达斯药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/60/5e8zfffftth69kpzniecold78ao2i7j.png/100px-008%E8%BF%88%E8%BE%BE%E6%96%AF%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_9",
+    "name": "打折药水",
+    "effect": "使当前房间所有货品打折",
+    "icon": "potions/icons/打折药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/48/6461zny98674i5vp8qhlum7tl2mxmr2.png/100px-009%E6%89%93%E6%8A%98%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_10",
+    "name": "悬浮药水",
+    "effect": "你悬浮起来了！持续到进入下一个门",
+    "icon": "potions/icons/悬浮药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/e/e6/1d4wm20oebn4pmm4iyfvq2uiafnji1b.png/100px-010%E6%82%AC%E6%B5%AE%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_11",
+    "name": "隐身药水",
+    "effect": "使用后隐身12秒，攻击不会显形",
+    "icon": "potions/icons/隐身药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/8/8b/qvilbmwazih0ddkieaiuoe2qtceb52m.png/100px-011%E9%9A%90%E8%BA%AB%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_12",
+    "name": "无敌药水",
+    "effect": "免疫所有伤害，持续8秒",
+    "icon": "potions/icons/无敌药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/a/a4/tovgarce337fh7w1yvg3czqr7zml4dk.png/100px-012%E6%97%A0%E6%95%8C%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_13",
+    "name": "石化药水",
+    "effect": "使用后石化自身，免疫所有伤害，持续30秒\\移动将解除石化",
+    "icon": "potions/icons/石化药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/bb/qbddz1eyyas0vpdhyvhrvn5wqxd2xxt.png/100px-013%E7%9F%B3%E5%8C%96%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_14",
+    "name": "敏捷药水",
+    "effect": "移动速度永久+10%",
+    "icon": "potions/icons/敏捷药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b3/q2wk1snnjbrisoe9fqhxf5bkbpwflq6.png/100px-014%E6%95%8F%E6%8D%B7%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_15",
+    "name": "缩放药水",
+    "effect": "使体型永久变大或变小",
+    "icon": "potions/icons/缩放药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/bc/i2ixwwy0irqs6i5vqrp7ccd1zjd295o.png/100px-015%E7%BC%A9%E6%94%BE%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_16",
+    "name": "魔晶药水",
+    "effect": "永久增加1点魔法恢复速度",
+    "icon": "potions/icons/魔晶药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2d/twf89h32ofl10zs815l0zh0jlrcn8oa.png/100px-016%E9%AD%94%E6%99%B6%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_17",
+    "name": "不稳定红药水",
+    "effect": "生命上限永久-5或+15",
+    "icon": "potions/icons/不稳定红药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/41/snjmvewxm151r79fcoeq8nezwdfmtem.png/100px-017%E4%B8%8D%E7%A8%B3%E5%AE%9A%E7%BA%A2%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_18",
+    "name": "不稳定蓝药水",
+    "effect": "魔法上限永久-5或+15",
+    "icon": "potions/icons/不稳定蓝药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/f5/05hbrzj31o1xsfws7qdmytlhmjnhmxr.png/100px-018%E4%B8%8D%E7%A8%B3%E5%AE%9A%E8%93%9D%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_19",
+    "name": "净化药水",
+    "effect": "移除所有诅咒\n移除所有护盾，生命值归1",
+    "icon": "potions/icons/净化药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/4/41/spr3t5pr3ego4ctf4vbtva9dhxuz4po.png/100px-019%E5%87%80%E5%8C%96%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_20",
+    "name": "财富药水",
+    "effect": "获得已有金币25%的额外金币",
+    "icon": "potions/icons/财富药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/35/fplr7l8q36x6tcw0bhm972a5gaxcfn6.png/100px-020%E8%B4%A2%E5%AF%8C%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_21",
+    "name": "女神之泪",
+    "effect": "如果刚好有5种不同的诅咒，将他们全部移除",
+    "icon": "potions/icons/女神之泪.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/2/2d/2z1sx3g4t0kp6omrro84xfn1ny0vpak.png/100px-021%E5%A5%B3%E7%A5%9E%E4%B9%8B%E6%B3%AA.PNG"
+  },
+  {
+    "id": "potion_22",
+    "name": "遗物药水",
+    "effect": "随机升级一个遗物，如果没有可升级遗物，那么获得一个普通遗物",
+    "icon": "potions/icons/遗物药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/dc/azj3gqtasby0pchis2xov3ny3zfb9ut.png/100px-022%E9%81%97%E7%89%A9%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_23",
+    "name": "变幻药水",
+    "effect": "选择一个遗物并重置它",
+    "icon": "potions/icons/变幻药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c9/38x811ypf896q4tw3ywfwhlf7kbc75q.png/100px-023%E5%8F%98%E5%B9%BB%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_24",
+    "name": "炼金药水",
+    "effect": "使用后扣除当前生命的30%，得到对应数量的金币",
+    "icon": "potions/icons/炼金药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/c/c5/ays9ugpb3cpix85i03ehov4nxu2nuzz.png/100px-024%E7%82%BC%E9%87%91%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_25",
+    "name": "锁匠药水",
+    "effect": "现有的钥匙数量翻倍。如果没有钥匙，那么钥匙+1",
+    "icon": "potions/icons/锁匠药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d2/nhtzwzsvvfqawl16nw2dvuz1hn1cx8e.png/100px-025%E9%94%81%E5%8C%A0%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_26",
+    "name": "复制药水",
+    "effect": "复制当前房间地面的生命恢复，护盾，金币，钥匙",
+    "icon": "potions/icons/复制药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/ba/q8nbj9f9ksdw7l3wrpbb8tn38527w1p.png/100px-026%E5%A4%8D%E5%88%B6%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_27",
+    "name": "法强药水",
+    "effect": "所有伤害永久+10%",
+    "icon": "potions/icons/法强药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/d7/1vvs9pt8lcenb7vyiy2e12mgling4p1.png/100px-027%E6%B3%95%E5%BC%BA%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_28",
+    "name": "宝箱药水",
+    "effect": "得到一个随机的宝箱",
+    "icon": "potions/icons/宝箱药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/fe/btglohm3w7coudlup5tygxxnhsvzliw.png/100px-028%E5%AE%9D%E7%AE%B1%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_29",
+    "name": "应急药水",
+    "effect": "获得已损失生命等同的临时护盾",
+    "icon": "potions/icons/应急药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/0/0d/7pwj1gbvo8zktljw217jl04ccztluk8.png/100px-029%E5%BA%94%E6%80%A5%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_30",
+    "name": "转移药水",
+    "effect": "使用后扣除当前生命的30%，得到对应数量的护盾",
+    "icon": "potions/icons/转移药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/6/63/m2suovnzuuz2sykec53028njk4dvpsz.png/100px-030%E8%BD%AC%E7%A7%BB%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_31",
+    "name": "暴击药水",
+    "effect": "所有暴击率永久+5%",
+    "icon": "potions/icons/暴击药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/b/b5/cmw5nlwcg6zox988luw1akfdymvvoza.png/100px-031%E6%9A%B4%E5%87%BB%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_32",
+    "name": "混沌药水",
+    "effect": "随机获得1~4个诅咒，同时获得1~2个遗物",
+    "icon": "potions/icons/混沌药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/f/ff/nocerfk0se9uxmnmmt9nmt2hlabj2r9.png/100px-032%E6%B7%B7%E6%B2%8C%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_33",
+    "name": "极限药水",
+    "effect": "扣除当前生命值到1，扣除的生命值的30%化作生命上限",
+    "icon": "potions/icons/极限药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/3/3d/7wgyfsy2t334ttj5lpks3rxuw1kgg1z.png/100px-033%E6%9E%81%E9%99%90%E8%8D%AF%E6%B0%B4.PNG"
+  },
+  {
+    "id": "potion_34",
+    "name": "增生药水",
+    "effect": "使用后，得到2瓶药水",
+    "icon": "potions/icons/增生药水.png",
+    "remoteIconUrl": "https://patchwiki.biligame.com/images/magicraft/thumb/d/dd/fnn4w3zr890oeg4vrs3vr9bjs3ajyi7.png/100px-034%E5%A2%9E%E7%94%9F%E8%8D%AF%E6%B0%B4.PNG"
+  }
+];
